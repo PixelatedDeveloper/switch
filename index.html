@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+
+    <!-- column 1 start! -->
+    <div class="row">
+
+<div id="items">
+
+
+        <table>
+          <thead>
+            <tr>
+                <th data-field="name">Name</th>
+                <th data-field="handheld">Handheld</th>
+                <th data-field="dscalingh">Dynamic scaling (HH)</th>
+                <th data-field="docked">Docked</th>
+                <th data-field="dscalingd">Dynamic scaling (Docked)</th>
+                <th data-field="fps">FPS</th>
+                <th data-field="verified">Verified</th>
+                <th data-field="note">Notes</th>
+              </tr>
+          </thead>
+
+          <tbody>
+              {% for entry in site.data.games %}
+                  <tr>
+                    <td>{{ entry.name }}</td>
+                    <td>{{ entry.handheld }}</td>
+                    <td>{% if entry.dscalingh %}{{ entry.dscalingh }}{% endif %}</td>
+                    <td>{{ entry.docked }}</td>
+                    <td>{% if entry.dscalingd %}{{ entry.dscalingd }}{% endif %}</td>
+                    <td>{{ entry.fps }}</td>
+                    <td>{% if entry.verified %} <a href='{{ entry.verified }}' target='_blank'>Yes</a> {% else %} No {% endif %}</td>
+                    <td>{% if entry.note %}{{ entry.note }}{% endif %}</td>
+                    
+                  </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+</div>
+
+        </div><!-- close main card div -->
