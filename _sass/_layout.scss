@@ -588,11 +588,17 @@ footer .blogdescription {
     padding: 20px;
 }
 
+.socialfooter {
+
+  display: block;
+  text-align: center;
+
+}
+
 .svg-inline--fa.fa-twitter.fa-w-16, .svg-inline--fa.fa-github.fa-w-16 {
   color: white;
   padding: 20px;
 }
-
 
 .fa-twitter {
    background:#00aced;
@@ -603,7 +609,7 @@ footer .blogdescription {
   background: black;
 }
 
-.fa-github:hover, .fa-google-plus:hover, .fa-linkedin:hover, .fa-facebook:hover, .fa-twitter:hover {
+.fa-github:hover, .fa-twitter:hover {
   background:#1E88E5;
 }
 
