@@ -301,7 +301,6 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-      dscaling: "Yes"
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-mario-kart-8-deluxe-tech-analysis"
       notes: "30fps in 3-4 player mode"
 
@@ -571,7 +570,7 @@
       handheld: "576p-720p"
       docked: "720p-900p"
       fps: 60fps
-      dscaling: "Yes"
+      dscaling: 
       verified: "https://www.rocketleague.com/news/patch-notes-v1-43-tournaments-update/"
       notes: "Quality mode moves to full resolutions (720 and 1080) but lowers FPS to 30"
 
