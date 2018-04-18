@@ -183,7 +183,7 @@
 
     - name: Fire Emblem Warriors
       handheld: "720p"
-      docked: "1080p option"
+      docked: "1080p"
       fps: "30fps"
       verified_status: true
       verified_url: "http://nintendoeverything.com/fire-emblem-warriors-lets-you-play-at-60-fps-in-exchange-for-lower-resolution/"
