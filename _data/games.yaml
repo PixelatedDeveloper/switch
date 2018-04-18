@@ -132,7 +132,7 @@
     - name: "DOOM (2016)"
       handheld: "408-720p"
       docked: "576-720p"
-      dynamic_scaling: "Yes"
+      dynamic_scaling: true
       fps: 30fps
       verified_status: true      
       verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-dooms-impossible-switch-port-analysed"
