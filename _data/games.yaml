@@ -451,6 +451,10 @@
       verified: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
     - name: Skylanders Imaginators
+      handheld: "720p"
+      docked: "1080p"
+      fps: 
+      dscaling: "No"
 
     - name: "Slime-san"
       handheld: "720p"
@@ -468,7 +472,9 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "Yes"
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-how-does-splatoon-2-tech-improve-over-wii-u"
+      notes: "Docked can drop to 720p, handheld drop to 964x538"
 
     - name: Stardew Valley
       handheld: "720p"
@@ -476,6 +482,12 @@
       fps: 60fps
       dscaling: "No"
       verified: "http://www.neogaf.com/forum/showthread.php?t=1418096"
+
+    - name: "Stern Pinball"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+      dscaling: "No"
 
     - name: Strikers1945
       handheld: "720p"
@@ -487,12 +499,14 @@
       docked: "720p"
       fps: 60fps
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-super-bomberman-r-60fps-patch-report"
+      notes: "45fps story mode, 60fps battle"
 
     - name: Super Mario Odyssee
       handheld: "720p"
       docked: "900p"
       fps: 60fps
-      dscaling: "No"
+      dscaling: "Yes"
+      notes: "Interlaced in handheld, Approx. 1440x810 in docked"
 
     - name: Snipperclips
       handheld: "720p"
@@ -552,6 +566,12 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
+
+    - name: "Unboxed: Newbieś Adventure"
+      handheld: "720p"
+      docked: "768p"
+      fps: Unlocked
       dscaling: "No"
 
     - name: "Use Your Words"
