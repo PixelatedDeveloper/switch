@@ -66,6 +66,10 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "Celeste"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
 
     - name: Disgaea 5 Complete
       handheld: "720p"
@@ -94,7 +98,6 @@
     - name: Death Squared
       handheld: "720p"
       docked: "1080p"
-  
       fps: 60fps
 
     - name: De Mambo
@@ -648,7 +651,6 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
- 
 
     - name: Snake Pass
       handheld: "457p"
