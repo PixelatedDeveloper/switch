@@ -847,6 +847,8 @@
       docked: "720p"
       fps: 30fps
       dynamic_scaling: true
+      verified_status: true
+      verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-does-xenoblade-chronicles-2-push-switch-mobile-mode-too-far"
       notes: "Has pop-in, especially in handheld"
 
     - name: Yooka-Laylee
