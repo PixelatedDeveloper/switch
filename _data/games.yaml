@@ -112,7 +112,7 @@
 
     - name: "Fate/EXTELLA: The Umbral Star"
       handheld: "720p"
-      docked: "1080p"
+      docked: "720p"
       fps: 30fps
       verified: "https://michibiku.com/fateextella-switch-things-switch/"
 
@@ -124,15 +124,27 @@
 
     - name: Fire Emblem Warriors
       docked: "720p/1080p option"
-      fps: "60/30fps"
+      fps: "30fps"
       verified: "http://nintendoeverything.com/fire-emblem-warriors-lets-you-play-at-60-fps-in-exchange-for-lower-resolution/"
+      notes: "option to use unlocked framerate"
 
     - name: Fire Emblem 2018
 
-    - name: Flips Wars
+
+    - name: Flame in the Flood
+      handheld: "672p"
+      docked: "900p"
+      fps: Unlocked
+
+    - name: Flip Wars
       handheld: "720p"
       docked: "1080p"
       dscaling: "No"     
+      fps: 60fps
+
+    - name: Floor Kids
+      handheld: "720p"
+      docked: "1080p"
       fps: 60fps
 
     - name: "forma.8"
@@ -166,6 +178,16 @@
       docked: "1080p"
       dscaling: "No"     
       fps: 60fps
+
+    - name: "Human: Fall flat"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 30fps
+
+     - name: "Hyrule Warriors: Definitive Edition"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 30fps
 
     - name: I am Setsuna
       handheld: "720p"
@@ -205,15 +227,36 @@
       dscaling: "No"     
       fps: 60fps
 
+    - name: "Kirby: Star Allies"
+      handheld: "648p"
+      docked: "864p"
+      fps: 30fps
+      notes: "menus are native/60fps"
+
+    - name: LA Noire
+      handheld: "720p"
+      docked: "1080p"
+      fps: 30fps
+      notes: "1440x1080 docked, 960x720 handheld"
+
     - name: LEGO City Undercover
       handheld: "720p"
       docked: "1080p"
       fps: 30fps
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-lego-city-undercover-face-off"
+      notes: "Docked can drop to 1440x1080, handheld 960x720"
+
+    - name: LEGO Marvel Super Heroes 2
+      handheld: "540p"
+      docked: "720p"
+      fps: 30fps
 
     - name: "LEGO: Ninjago Movie"
 
     - name: LEGO Worlds
+      handheld: "540p"
+      docked: "720p"
+      fps: 30fps
 
     - name: "Levels+: Addictive Puzzle Game"
 
@@ -224,23 +267,45 @@
       fps: 60fps
 
     - name: "Mario & Rabbits: Kingdom Battle"
-      handheld: "720p"
+      handheld: "1066x600"
       docked: "900p"
       fps: 30fps
       verified: "https://twitter.com/DavideSoliani/status/893556215569043456"
+      notes: "FPS locked to 30 in later patches"
 
     - name: "Mario Kart 8: Deluxe"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-      dscaling: "No"
+      dscaling: "Yes"
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-mario-kart-8-deluxe-tech-analysis"
+      notes: "30fps in 3-4 player mode"
+
+    - name: "Mario Tennis: Aces"
+      handheld: "-"
+      docked: "900p"
+      dscaling: "No"     
+      fps: 60fps
+      notes: "Estimates"
+
+    - name: "Max: the curse of the Brotherhood"
+      handheld: "720p"
+      docked: "720p"
+      dscaling: "No"     
+      fps: 30fps
 
     - name: "Mighty Gunvolt Burst"
       handheld: "720p"
       docked: "1080p"
       dscaling: "No"     
       fps: 60fps
+
+    - name: "Minecraft (Bedrock)"
+      handheld: "720p"
+      docked: "1080p"
+      dscaling: "No"     
+      fps: 60fps
+      notes: "Early look/previews"
 
     - name: "Minecraft: Switch Edition"
       handheld: "720p"
@@ -250,10 +315,17 @@
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-switch-minecraft-patch-1080p-confirmed-and-more"
 
     - name: "Minecraft: Story Mode"
+      handheld: "648p"
+      docked: "900p"
+      dscaling:     
+      fps: 60fps
+      notes: "Estimates"
+
+    - name: "Monopoly for Switch"
       handheld: "720p"
       docked: "1080p"
-      dscaling: "No"     
       fps: 60fps
+      dscaling: "No"
 
     - name: Morphite
       handheld: "720p"
@@ -278,6 +350,13 @@
       docked: "1080p"
       dscaling: "No"     
       fps: 60fps
+
+    - name: "Naruto: Shippuuden Trilogy"
+      handheld: "540p"
+      docked: "900p"
+      fps: 30fps
+      dscaling: "No"
+      notes: "Cutscenes in 720p"
 
     - name: NBA Playgrounds
       handheld: "540p"
@@ -347,6 +426,13 @@
 
     - name: "New Frontier Days: Founding Pioneers"
 
+    - name: "Nine Parchments"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 30fps
+      dscaling: "No"
+      notes: "interlaced"
+
     - name: Oceanhorn
       handheld: "720p"
       docked: "1080p"
@@ -366,6 +452,14 @@
       fps: 30fps
       dscaling: "No"
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-overcooked-on-switch-has-big-performance-problems"
+      notes: "framerate improved in later patches"
+
+    - name: "Payday 2"
+      handheld: "720p"
+      docked: "720p"
+      fps: 30fps
+      dscaling: "No"
+      notes: "framerate can be very bad"
 
     - name: "Phantom Trigger"
       handheld: "720p"
@@ -376,6 +470,12 @@
     - name: "Physical Contact: Speed"
 
     - name: Piczle Lines DX
+
+    - name: "Pinball FX 3"
+      handheld: "720p"
+      docked: "720p"
+      fps: Unlocked
+      dscaling: "No"
 
     - name: "Pokken Tournament"
       handheld: "960x720p"
