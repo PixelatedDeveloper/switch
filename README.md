@@ -21,7 +21,7 @@ It's also allowed to use a 'from-to' like statement for the resolutions when dyn
 Dynamic resolution scaling
 To add the dynamic resolution scaling, add the following item to the baseformat
 
-      dscaling: true
+      dynamic_scaling: true
 
 Verified items
 Verified items are basically stats that are verified by either their creators (twitter), news articles/interviews or other sources like DigitalFoundry. To add a verified item first add the status:
@@ -30,7 +30,7 @@ Verified items are basically stats that are verified by either their creators (t
 
 And after that add the URL:
 
-      verified_url: true
+      verified_url: "https://switchgame.com/specs.html"
 
 Notes
 To add a note to a item for example mentioning a specific framerate for a mode (MP=60fps, SP=30fps) can be done through the notes item.
@@ -41,6 +41,9 @@ To add a note to a item for example mentioning a specific framerate for a mode (
 The complete format with all in place should look like:
 
     - name: Sonic Mania
-      handheld: "720p"
+      handheld: "600p-720p"
       docked: "1080p"
       fps: 60fps
+      dynamic_scaling: true
+      verified_status: true
+      verified_url: "https://switchgame.com/specs.html"
