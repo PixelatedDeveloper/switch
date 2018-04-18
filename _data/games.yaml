@@ -587,7 +587,7 @@
       handheld: "576p-720p"
       docked: "720p-900p"
       fps: 60fps
-      dscaling: 1
+      dscaling: true
        verified_status: true
        verified_url: "https://www.rocketleague.com/news/patch-notes-v1-43-tournaments-update/"
       notes: "Quality mode moves to full resolutions (720 and 1080) but lowers FPS to 30"
@@ -651,7 +651,7 @@
       handheld: "538p-720p"
       docked: "720p-1080p"
       fps: 60fps
-      dscaling: 1
+      dscaling: true
       verified_status: true
       verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-how-does-splatoon-2-tech-improve-over-wii-u"
       notes: "Docked can drop to 720p, handheld drop to 964x538"
@@ -686,7 +686,7 @@
       handheld: "720p"
       docked: "720p-900p"
       fps: 60fps
-      dscaling: 1
+      dscaling: true
       notes: "Interlaced in handheld, Averages ~1440x810 docked"
 
     - name: Snipperclips
@@ -736,7 +736,7 @@
       handheld: "720p"
       docked: "900p"
       fps: 30fps
-      dscaling: 1
+      dscaling: true
       verified_status: true
        verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-zelda-breath-of-the-wild-uses-dynamic-resolution-scaling"
 
@@ -809,7 +809,7 @@
       handheld: "720p"
       docked: "720p"
       fps: 30fps
-      dscaling: 1
+      dscaling: true
       notes: "Can drop to 640x368"
 
     - name: Yooka-Laylee
