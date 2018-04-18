@@ -738,6 +738,7 @@
       dynamic_scaling: true
       verified_status: true
       verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-zelda-breath-of-the-wild-uses-dynamic-resolution-scaling"
+      notes: "FPS drops in Korok forest to ~20FPS"
 
     - name: Thumper
       handheld: "720p"
