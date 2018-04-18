@@ -25,6 +25,7 @@
       fps: 60fps
       verified_status: true
       verified_url: "https://www.youtube.com/watch?v=R_M0gX0GE0o"
+      notes: "some minor fps drops below 60"
 
     - name: "Bayonetta 2"
       handheld: "720p"
@@ -32,6 +33,7 @@
       fps: 60fps
       verified_status: true
       verified_url: "https://www.youtube.com/watch?v=R_M0gX0GE0o"
+      notes: "some minor fps drops below 60"
 
     - name: Blaster Master Zero
       handheld: "1200x720"
