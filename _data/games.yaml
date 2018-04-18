@@ -22,11 +22,13 @@
       handheld: "720p"
       docked: "720p"
       fps: 60fps
+      verified: "Yes"
 
     - name: "Bayonetta 2"
       handheld: "720p"
       docked: "720p"
       fps: 60fps
+      verified: "Yes"
 
     - name: Blaster Master Zero
       handheld: "1200x720"
