@@ -747,6 +747,8 @@
       docked: "900p"
       fps: 60fps
       dynamic_scaling: true
+      verified_status: true
+      verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-skyrim-switch-vs-playstation-4"
  
 
     - name: "The Binding of Isaac: Afterbirth+"
