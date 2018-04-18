@@ -413,6 +413,13 @@
       fps: 60fps
       dscaling: "No"
 
+    - name: Rocket League
+      handheld: "576p - 720p"
+      docked: "720p - 900p"
+      fps: 60fps
+      dscaling: "Yes"
+      notes: "Quality mode moves to full resolutions (720 and 1080) but lowers FPS to 30"
+
     - name: Runner 3
       handheld: "720p"
       docked: "1080p"
@@ -424,6 +431,7 @@
       docked: "1080p"
       fps: 60fps
       dscaling: "No"
+      notes: "Handheld only"
 
     - name: Shakedown Hawaii
 
@@ -451,10 +459,10 @@
       verified: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
     - name: Skylanders Imaginators
-      handheld: "720p"
-      docked: "1080p"
-      fps: 
-      dscaling: "No"
+      handheld:
+      docked: 
+      fps: 30fps
+      dscaling:
 
     - name: "Slime-san"
       handheld: "720p"
@@ -511,11 +519,15 @@
     - name: Snipperclips
       handheld: "720p"
       docked: "1080p"
-      fps: 60fps
+      fps: "Unlocked (target 60fps)"
       dscaling: "No"
-      verified:
+      verified: 
 
     - name: Sonic Forces
+      handheld: "720p"
+      docked: "720p"
+      fps: 30fps
+      dscaling: "No"
 
     - name: Sonic Mania
       handheld: "720p"
