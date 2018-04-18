@@ -843,11 +843,11 @@
       notes: "Big drops to 20FPS or lower. Don't buy this!!!"
 
     - name: Xenoblade Chronicles 2
-      handheld: "720p"
+      handheld: "368p-552p"
       docked: "720p"
       fps: 30fps
       dynamic_scaling: true
-      notes: "Can drop to 640x368"
+      notes: "Has pop-in, especially in handheld"
 
     - name: Yooka-Laylee
       handheld: "630p"
