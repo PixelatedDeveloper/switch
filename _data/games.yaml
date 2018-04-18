@@ -122,8 +122,8 @@
       verified_url: "http://www.nintendolife.com/news/2018/04/preview_getting_funky_in_donkey_kong_country_tropical_freeze_on_switch"
 
     - name: "DOOM (2016)"
-      handheld: "408p-720p"
-      docked: "576p-720p"
+      handheld: "408-720p"
+      docked: "576-720p"
       dynamic_scaling: "Yes"
       fps: 30fps
       verified_status: true      
