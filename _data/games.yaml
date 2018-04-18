@@ -378,9 +378,35 @@
     - name: Piczle Lines DX
 
     - name: "Pokken Tournament"
+      handheld: "960x720p"
+      docked: "720p"
+      fps: 60fps
+
+    - name: "Portal Knights"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 30fps
+      dscaling: "No"
+      notes: "Allows settings DoF"
+
+    - name: "Project Octopath Traveler"
+      handheld: "600p"
+      docked: "720p"
+      fps: 30fps
+      dscaling: "No"
+      notes: "info based on early demo"
+
+    - name: "Pure Chess"
+      handheld: "-"
+      docked: "1080p"
+      fps: Unlocked
+      dscaling: "No"      
+
+    - name: "Puyo Puyo Tetris"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: "Puzzle Adventure Blockle"
       handheld: "720p"
@@ -399,6 +425,18 @@
 
     - name: Redout
 
+    - name: "Resident Evil: Revelations"
+      handheld: "720p"
+      docked: "1080p"
+      fps: Unlocked
+      dscaling: "No"
+
+    - name: "Resident Evil: Revelations 2"
+      handheld: "720p"
+      docked: "1080p"
+      fps: Unlocked
+      dscaling: "No"
+
     - name: "Retro City Rampage DX"
       handheld: "720p"
       docked: "1080p"
@@ -406,7 +444,10 @@
       dscaling: "No"
 
     - name: Rime
-
+      handheld: "-"
+      docked: "720p"
+      fps: 30fps
+  
     - name: Rocket Fist
       handheld: "720p"
       docked: "1080p"
