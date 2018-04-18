@@ -85,7 +85,7 @@
     - name: Death Squared
       handheld: "720p"
       docked: "1080p"
-       dscaling: "No"     
+      dscaling: "No"     
       fps: 60fps
 
     - name: De Mambo
