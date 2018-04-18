@@ -592,7 +592,7 @@
       dynamic_scaling: true
       verified_status: true
       verified_url: "https://www.rocketleague.com/news/patch-notes-v1-43-tournaments-update/"
-      notes: "Quality mode moves to full resolutions (720 and 1080) but lowers FPS to 30"
+      notes: "Recent patch improved general performance. Added a Quality Mode with better graphics and full resolution (720 handheld and 1080 docked) but lowers FPS to 30"
 
     - name: Runner 3
       handheld: "720p"
