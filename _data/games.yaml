@@ -259,10 +259,9 @@
       notes: "menus are native/60fps"
 
     - name: LA Noire
-      handheld: "720p"
-      docked: "1080p"
+      handheld: "960x720"
+      docked: "1440x1080"
       fps: 30fps
-      notes: "1440x1080 docked, 960x720 handheld"
 
     - name: LEGO City Undercover
       handheld: "720p"
@@ -309,33 +308,28 @@
     - name: "Mario Tennis: Aces"
       handheld: "-"
       docked: "900p"
-      
       fps: 60fps
-      notes: "Estimates"
+      notes: "Early estimates"
 
     - name: "Max: the curse of the Brotherhood"
       handheld: "720p"
       docked: "720p"
-      
       fps: 30fps
 
     - name: "Mighty Gunvolt Burst"
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: "Minecraft (Bedrock)"
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
       notes: "Early look/previews"
 
     - name: "Minecraft: Switch Edition"
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-switch-minecraft-patch-1080p-confirmed-and-more"
 
@@ -344,7 +338,7 @@
       docked: "900p"
       dscaling:     
       fps: 60fps
-      notes: "Estimates"
+      notes: "Estimated"
 
     - name: "Monopoly for Switch"
       handheld: "720p"
@@ -355,19 +349,16 @@
     - name: Morphite
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: Mr Shifty
       handheld: "720p"
       docked: "1080p"
- 
       fps: 30fps
 
     - name: "Namco Museum"
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: "Namco Museum - Pacman Vs."
@@ -380,8 +371,7 @@
       handheld: "540p"
       docked: "900p"
       fps: 30fps
- 
-      notes: "Cutscenes in 720p"
+      notes: "Cutscenes in fixed 720p"
 
     - name: NBA Playgrounds
       handheld: "540p"
@@ -483,8 +473,7 @@
       handheld: "720p"
       docked: "720p"
       fps: 30fps
- 
-      notes: "framerate can be very bad"
+      notes: "framerate can be very bad & not fully up to date yet"
 
     - name: "Phantom Trigger"
       handheld: "720p"
@@ -512,13 +501,12 @@
       docked: "1080p"
       fps: 30fps
  
-      notes: "Allows settings DoF"
+      notes: "Allows setting DoF"
 
     - name: "Project Octopath Traveler"
       handheld: "600p"
       docked: "720p"
       fps: 30fps
- 
       notes: "info based on early demo"
 
     - name: "Pure Chess"
@@ -597,7 +585,6 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
- 
       notes: "Handheld only"
 
     - name: Shakedown Hawaii
@@ -644,8 +631,8 @@
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-snake-pass-on-switch-holds-up-nicely-against-ps4"
 
     - name: Splatoon 2
-      handheld: "720p"
-      docked: "1080p"
+      handheld: "538p-720p"
+      docked: "720p-1080p"
       fps: 60fps
       dscaling: "Yes"
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-how-does-splatoon-2-tech-improve-over-wii-u"
@@ -678,31 +665,37 @@
 
     - name: Super Mario Odyssee
       handheld: "720p"
-      docked: "900p"
+      docked: "720p-900p"
       fps: 60fps
       dscaling: "Yes"
-      notes: "Interlaced in handheld, Approx. 1440x810 in docked"
+      notes: "Interlaced in handheld, Averages ~1440x810 docked"
 
     - name: Snipperclips
       handheld: "720p"
       docked: "1080p"
       fps: "Unlocked (target 60fps)"
- 
-      verified: 
 
     - name: Sonic Forces
       handheld: "720p"
       docked: "720p"
       fps: 30fps
- 
 
     - name: Sonic Mania
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
  
+    - name: Steamworld Dig
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
 
     - name: Steamworld Dig 2
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
+    - name: Steamworld Heist
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
