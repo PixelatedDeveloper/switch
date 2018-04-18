@@ -4,6 +4,17 @@ Making a list of games, their resolutions in different modes, framerates and oth
 # Helping me out
 In case you want to help this fun little open-source project out you can do a pull request with your game additions to the '_data/games.yaml' file or other relevant improvements. 
 
+# Important
+Games that have names with 'special' characters like ', : or others should be wrapped in quotes. 
+
+Allowed: 
+
+    - name: "Sonic Mania: New Edition"
+
+Not allowed:
+
+    - name: Sonic Mania: New Edition
+
 ## Format
 Required example baseformat is as follows:
 
