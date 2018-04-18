@@ -46,14 +46,20 @@
     - name: Dandara
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"
       fps: 60fps
 
     - name: Death Squared
       handheld: "720p"
       docked: "1080p"
+       dscaling: "No"     
       fps: 60fps
 
     - name: De Mambo
+      handheld: "720p"
+      docked: "1080p"
+      dscaling: "No"     
+      fps: 60fps
 
     - name: "DOOM (2016)"
       handheld: 720p
@@ -102,47 +108,66 @@
     - name: Fire Emblem 2018
 
     - name: Flips Wars
+      handheld: "720p"
+      docked: "1080p"
+      dscaling: "No"     
+      fps: 60fps
 
     - name: "forma.8"
+      handheld: "720p"
+      docked: "1080p"
+      dscaling: "No"     
+      fps: 60fps
 
     - name: GoNNER
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"     
       fps: 60fps
 
     - name: "Gunbarich"
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"     
       fps: 60fps
 
     - name: Graceful Explosion Machine
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"     
       fps: 60fps
 
     - name: Has-Been Heroes
 
     - name: Human Resource Machine
+      handheld: "720p"
+      docked: "1080p"
+      dscaling: "No"     
+      fps: 60fps
 
     - name: I am Setsuna
       handheld: "720p"
       docked: "1080p"
       fps: 30fps
+      dscaling: "No"
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-i-am-setsuna-switch-vs-ps4-face-off"
 
     - name: Implosion
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"     
       fps: 60fps
 
     - name: "Infinite Minigolf"
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"     
       fps: 60fps
 
     - name: Ironcast
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"     
       fps: 60fps
 
     - name: I And Me
@@ -155,6 +180,7 @@
     - name: Kamiko
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"     
       fps: 60fps
 
     - name: LEGO City Undercover
@@ -170,6 +196,10 @@
     - name: "Levels+: Addictive Puzzle Game"
 
     - name: Little Inferno
+      handheld: "720p"
+      docked: "1080p"
+      dscaling: "No"     
+      fps: 60fps
 
     - name: "Mario & Rabbits: Kingdom Battle"
       handheld: "720p"
@@ -181,39 +211,50 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-mario-kart-8-deluxe-tech-analysis"
 
     - name: "Mighty Gunvolt Burst"
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"     
       fps: 60fps
 
     - name: "Minecraft: Switch Edition"
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"     
       fps: 60fps
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-switch-minecraft-patch-1080p-confirmed-and-more"
 
     - name: "Minecraft: Story Mode"
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"     
       fps: 60fps
 
     - name: Morphite
+      handheld: "720p"
+      docked: "1080p"
+      dscaling: "No"     
+      fps: 60fps
 
     - name: Mr Shifty
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"
       fps: 30fps
 
     - name: "Namco Museum"
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"     
       fps: 60fps
 
     - name: "Namco Museum - Pacman Vs."
       handheld: "720p"
       docked: "1080p"
+      dscaling: "No"     
       fps: 60fps
 
     - name: NBA Playgrounds
@@ -222,6 +263,11 @@
       fps: 60fps
 
     - name: NBA 2K18
+      handheld: "720p"
+      docked: "720p"
+      dscaling: "No"     
+      fps: 30fps
+      verified: "https://nintendoeverything.com/nba-2k18-for-switch-has-same-content-and-modes-as-ps4-version-amiibo-support-confirmed/"
 
     - name: Neo Geo Aero Fighters 2
 
@@ -283,20 +329,27 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
       verified: "https://www.youtube.com/watch?v=DEArk9FdY7E"
 
     - name: Othello
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+      dscaling: "No"
 
     - name: "Overcooked: Special Edition"
       handheld: "720p"
       docked: "1080p"
       fps: 30fps
+      dscaling: "No"
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-overcooked-on-switch-has-big-performance-problems"
 
     - name: "Phantom Trigger"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: "Physical Contact: Speed"
 
@@ -306,7 +359,6 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-
 
     - name: "Puzzle Adventure Blockle"
       handheld: "720p"
@@ -319,6 +371,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: RBI Baseball 17
 
@@ -328,6 +381,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: Rime
 
@@ -335,16 +389,19 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: Runner 3
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: SEVERED
       handheld: "720p"
-      docked: "n/a"
+      docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: Shakedown Hawaii
 
@@ -352,6 +409,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
       verified: "https://www.redvaluegaming.com/reviews/shantae-half-genie-hero"
 
     - name: Shephy
@@ -360,12 +418,14 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
       verified: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
     - name: "Shovel Knight: Treasure Trove"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
       verified: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
     - name: Skylanders Imaginators
@@ -374,6 +434,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: Snake Pass
       handheld: "457p"
@@ -391,6 +452,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
       verified: "http://www.neogaf.com/forum/showthread.php?t=1418096"
 
     - name: Strikers1945
@@ -405,12 +467,16 @@
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-super-bomberman-r-60fps-patch-report"
 
     - name: Super Mario Odyssee
+      handheld: "720p"
+      docked: "900p"
       fps: 60fps
+      dscaling: "No"
 
     - name: Snipperclips
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
       verified:
 
     - name: Sonic Forces
@@ -419,39 +485,52 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: Steamworld Dig 2
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: "The Elder Scrolls V: Skyrim"
-
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+      dscaling: "No"
 
     - name: "The Binding of Isaac: Afterbirth+"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: "The Legend of Zelda: Breath of the Wild"
       handheld: "720p"
       docked: "900p"
       fps: 30fps
+      dscaling: "Yes"
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-zelda-breath-of-the-wild-uses-dynamic-resolution-scaling"
 
     - name: Thumper
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
       verified: "https://www.youtube.com/watch?v=4aMIko1VRn0"
 
     - name: Troll and I
-
+      handheld: "720p"
+      docked:
+      fps: 30fps
+      dscaling: "No"
+      notes: "Dont buy!"
 
     - name: Tumbleseed
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: "Use Your Words"
       handheld: "720p"

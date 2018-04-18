@@ -31,10 +31,10 @@ layout: default
                     <td>{{ entry.name }}</td>
                     <td>{{ entry.handheld }}</td>
                     <td>{{ entry.docked }}</td>
-                    <td>{% if entry.dscalingd %}{{ entry.dscaling }}{% endif %}</td>
+                    <td>{% if entry.dscaling %}{{ entry.dscaling }}{% endif %}</td>
                     <td>{{ entry.fps }}</td>
                     <td>{% if entry.verified %} <a href='{{ entry.verified }}' target='_blank'>Yes</a> {% else %} No {% endif %}</td>
-                    <td>{% if entry.note %}{{ entry.note }}{% endif %}</td>
+                    <td>{% if entry.notes %}{{ entry.notes }}{% endif %}</td>
                     
                   </tr>
         {% endfor %}
