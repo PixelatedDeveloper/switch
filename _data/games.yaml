@@ -575,8 +575,9 @@
       handheld: "-"
       docked: "720p"
       fps: 30fps target
-      notes: "A recent patch updates performance/graphics to acceptable levels"
-
+      verified_status: true
+      verified_url: "https://www.eurogamer.net/articles/2017-11-14-rime-developer-addresses-switch-performance-issues"
+      notes: "A recent patch updates performance/graphics; still no locked 30fps at all times"
   
     - name: Rocket Fist
       handheld: "720p"
