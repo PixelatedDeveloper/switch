@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Submit form</title>
+  <meta name="description" content="What resolution and fps does this game run at on Switch?!
+">
+
+  <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <link href="//cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="canonical" href="http://localhost:4000/submit/">
+  <link rel="alternate" type="application/rss+xml" title="What spec on Switch?" href="http://localhost:4000/feed.xml">
+</head>
+
+
+  <body>
+
+    <header>
+  <img src="images/nintendo_switch_logo.png"  alt="header" class="content-images circle">
+  <p class="sitedescription">This site is a way for Nintendo Switch users to easily find out what games run at what resolution and framerate.</p>  
+  <div class="socialfooter text-center">
+      <a href="https://github.com/boumannm/switch" target="blank"><i class="fab fa-github"></i></a>
+
+      <a href="https://twitter.com/boumannm" target="blank"><i class="fab fa-twitter"></i></a>
+
+  </div>
+</header>
+
+
+    <main>
+      <div class="container">
+        <article class="row card post">
+
+  <header class="post-header">
+    <h1 class="post-title">Submit form</h1>
+  </header>
+
+  <div class="post-content">
+    <p>Adding a item to the site is pretty easy by doing a git pull request adding the item to the specific ‘yaml’ file (underscore data folder) and the image (if you have one) to the images/category/ folder. Look at the other items in the .yaml files to see what the expected format is. If your pull request is approved things will be merged and shown on the website. We can make this site better together! If you don’t understand Git or all this tech mumbo-jumbo you can submit your item through a form pretty soon. <br /></p>
+
+  </div>
+
+</article>
+
+      </div>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.16/js/jquery.dataTables.min.js" crossorigin="anonymous"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+<script>
+    $(document).ready(function(){
+        $('#main-table').dataTable(
+            {
+                "pageLength": 50
+            }
+
+        );
+    });
+    </script>
+
+
+  </body>
+
+</html>
