@@ -418,6 +418,7 @@
       docked: "720p - 900p"
       fps: 60fps
       dscaling: "Yes"
+      verified: "https://www.rocketleague.com/news/patch-notes-v1-43-tournaments-update/"
       notes: "Quality mode moves to full resolutions (720 and 1080) but lowers FPS to 30"
 
     - name: Runner 3
