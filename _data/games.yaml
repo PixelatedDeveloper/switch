@@ -153,7 +153,7 @@
       notes: "Unlocked framerate in handheld"
 
     - name: "Dragon Quest Heroes I+II"
-      handheld: "-"
+      handheld: "720p"
       docked: 1080p
       fps: 30fps 
       verified_status: true      
