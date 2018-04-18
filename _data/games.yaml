@@ -75,8 +75,9 @@
 
     - name: Disgaea 5 Complete
       handheld: "720p"
-      docked: "1080p"
+      docked: "720p"
       fps: 60fps
+      notes: "Has some small FPS drops"
 
 
     - name: Dandara
@@ -283,18 +284,20 @@
       fps: 30fps
       notes: "menus are native/60fps"
 
-    - name: LA Noire
-      handheld: "960x720"
-      docked: "1440x1080"
+    - name: L.A. Noire
+      handheld: "960x720p-1280x720p"
+      docked: "1440x1080p-1920x1080p"
       fps: 30fps
+      dynamic_scaling: true
+      notes: "framedrops at stresspoints"
 
     - name: LEGO City Undercover
-      handheld: "720p"
-      docked: "1080p"
+      handheld: "960x720p"
+      docked: "1440x1080"
       fps: 30fps
       verified_status: true
       verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-lego-city-undercover-face-off"
-      notes: "Docked can drop to 1440x1080, handheld 960x720"
+      notes: "FPS drops"
 
     - name: LEGO Marvel Super Heroes 2
       handheld: "540p"
@@ -473,7 +476,6 @@
       handheld: "720p"
       docked: "1080p"
       fps: 30fps
- 
       notes: "interlaced"
 
     - name: Oceanhorn
@@ -482,6 +484,12 @@
       fps: 60fps
       verified_status: true
       verified_url: "https://www.youtube.com/watch?v=DEArk9FdY7E"
+
+    - name: "One Piece: Unlimited World Red: Deluxe Edition"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+      notes: "some fps drops"
 
     - name: Othello
       handheld: "720p"
@@ -735,9 +743,10 @@
  
 
     - name: "The Elder Scrolls V: Skyrim"
-      handheld: "720p"
-      docked: "1080p"
+      handheld: "896x720p-1280x720p"
+      docked: "900p"
       fps: 60fps
+      dynamic_scaling: true
  
 
     - name: "The Binding of Isaac: Afterbirth+"
