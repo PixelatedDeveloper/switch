@@ -31,7 +31,7 @@ layout: default
                     <td>{{ entry.name }}</td>
                     <td>{{ entry.handheld }}</td>
                     <td>{{ entry.docked }}</td>
-                    <td>{% if entry.dscaling %} {{ entry.dscaling }} {% else %} <i class="fas fa-check"></i> {% endif %}</td>
+                    <td>{% if entry.dscaling != null %} <i class="fas fa-check"></i>  {% else %} <i class="fas fa-times"></i> {% endif %}</td>
                     <td>{{ entry.fps }}</td>
                     <td>{% if entry.verified != null %} <a href='{{ entry.verified }}' target='_blank'><i class="fas fa-check"></i> </a> {% else %} <i class="fas fa-times"></i> {% endif %}</td>
                     <td>{% if entry.notes %}{{ entry.notes }}{% endif %}</td>
