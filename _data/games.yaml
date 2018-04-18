@@ -23,7 +23,7 @@
       docked: "720p"
       fps: 60fps
 
-    - name: Bayonetta 2
+    - name: "Bayonetta 2"
       handheld: "720p"
       docked: "720p"
       fps: 60fps
@@ -105,8 +105,8 @@
       fps: 60fps
 
     - name: "DOOM (2016)"
-      handheld: 408p-720p
-      docked: 576p-720p
+      handheld: "408p-720p"
+      docked: "576p-720p"
       dscaling: "Yes"
       fps: 30fps
       verified: "https://www.eurogamer.net/articles/digitalfoundry-2017-dooms-impossible-switch-port-analysed"
