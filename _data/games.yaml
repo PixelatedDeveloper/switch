@@ -50,6 +50,8 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      verified_status: true
+      verified_url: "https://www.resetera.com/threads/brawlout-will-be-1080p60fps-720p60fps-on-switch.10996/"
 
     - name: Bulb Boy
       handheld: "720p"
