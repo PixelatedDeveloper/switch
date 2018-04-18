@@ -29,11 +29,12 @@
       fps: 60fps
 
     - name: Blaster Master Zero
-      handheld: "720p"
-      docked: "1080p"
+      handheld: "1200x720"
+      docked: "1800x1080"
       fps: 60fps
       dscaling: "No"
       verified: "https://www.youtube.com/watch?v=X4sGoZEQPlU"
+      notes: "Scales using 400x240 res"
 
     - name: Boost Beast
       handheld: "720p"
@@ -52,7 +53,9 @@
       dscaling: "No"
 
     - name: "Cars 3"
-
+      handheld: "-"
+      docked: "-"
+      fps: 30fps
 
     - name: "Cave Story+"
       handheld: "720p"
@@ -72,6 +75,13 @@
       dscaling: "No"
       fps: 60fps
 
+  
+    - name: Darkest Dungeon
+      handheld: "720p"
+      docked: "720p"
+      dscaling: "No"
+      fps: 60fps    
+
     - name: Death Squared
       handheld: "720p"
       docked: "1080p"
@@ -84,22 +94,39 @@
       dscaling: "No"     
       fps: 60fps
 
-    - name: "DOOM (2016)"
-      handheld: 720p
+    - name: "Disc Jam"
+      handheld: "720p"
       docked: 1080p
+      fps: 60fps 
+
+    - name: "Donkey Kong County: Tropical Freeze"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
+    - name: "DOOM (2016)"
+      handheld: 408p-720p
+      docked: 576p-720p
       dscaling: "Yes"
       fps: 30fps
       verified: "https://www.eurogamer.net/articles/digitalfoundry-2017-dooms-impossible-switch-port-analysed"
 
     - name: "Dragonball: Xenoverse 2"
-      handheld: "720p"
+      handheld: "Dynamic"
       docked: "900p"
-      fps: 30/60fps
-      notes: FPS depends on gamemode
+      fps: 60fps
+      notes: "60fps 1v1, 30fps 2v2+"
       verified: "https://twitter.com/japanese3ds/status/877748333472653313"
 
+    - name: "Dragon Quest Builders"
+      handheld: "720p"
+      docked: 720p
+      fps: 60fps
+      dscaling: "No"
+      notes: "Unlocked framerate in handheld"
+
     - name: "Dragon Quest Heroes I+II"
-      handheld: 720p
+      handheld: "-"
       docked: 1080p
       fps: 30fps 
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-dragon-quest-heroes-2-switch-vs-ps4-comparison"
