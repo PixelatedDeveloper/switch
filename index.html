@@ -31,9 +31,9 @@ layout: default
                     <td>{{ entry.name }}</td>
                     <td>{{ entry.handheld }}</td>
                     <td>{{ entry.docked }}</td>
-                    <td>{% if entry.dscaling == 1 %} <i class="fas fa-check"></i>  {% else %} <i class="fas fa-times"></i> {% endif %}</td>
+                    <td>{% if entry.dscaling == true %} <i class="fas fa-check"></i>  {% else %} <i class="fas fa-times"></i> {% endif %}</td>
                     <td>{{ entry.fps }}</td>
-                    <td>{% if entry.verified_status == 1 %}<i class="fas fa-check"></i> <a href='{{ entry.verified_url }}' target='_blank'><i class="fas fa-external-link-alt"></i></a> {% else %} <i class="fas fa-times"></i> {% endif %}</td>
+                    <td>{% if entry.verified_status == true %}<i class="fas fa-check"></i> <a href='{{ entry.verified_url }}' target='_blank'><i class="fas fa-external-link-alt"></i></a> {% else %} <i class="fas fa-times"></i> {% endif %}</td>
                     <td>{{ entry.notes }}</td>
                     
                   </tr>
