@@ -12,16 +12,16 @@ Required example baseformat is as follows:
       docked: "1080p"
       fps: 60fps
 
-It's also allowed to use a 'from-to' like statement for the resolutions when dynamic scaling is active (see item below). For example:
-
-      handheld: "600p-720p"
-      docked: "900p-1080p"
-
 ### Optional items
 #### Dynamic resolution scaling
 To add the dynamic resolution scaling, add the following item to the baseformat
 
       dynamic_scaling: true
+
+When this is set to true you can also just enter the range of resolutions used in either handheld or docked mode. For example:
+
+      handheld: "600p-720p"
+      docked: "900p-1080p"
 
 #### Verified items
 Verified items are basically stats that are verified by either their creators (twitter), news articles/interviews or other sources like DigitalFoundry. To add a verified item first add the status:
