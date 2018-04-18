@@ -7,7 +7,7 @@
       handheld: "720p"
       docked: "900p"
       fps: 60fps
-      verified_status: 1
+      verified_status: true
        verified_url: "https://www.youtube.com/watch?v=nP3l19Uio1g"
       notes: " 1080p / 60 FPS single-player, 900p / 60 FPS 2-player multiplayer, 900p / 30 FPS, 3-4-player multiplayer"
 
@@ -22,21 +22,21 @@
       handheld: "720p"
       docked: "720p"
       fps: 60fps
-      verified_status: 1
+      verified_status: true
       verified_url: "https://www.youtube.com/watch?v=R_M0gX0GE0o"
 
     - name: "Bayonetta 2"
       handheld: "720p"
       docked: "720p"
       fps: 60fps
-      verified_status: 1
+      verified_status: true
       verified_url: "https://www.youtube.com/watch?v=R_M0gX0GE0o"
 
     - name: Blaster Master Zero
       handheld: "1200x720"
       docked: "1800x1080"
       fps: 60fps
-      verified_status: 1      
+      verified_status: true      
        verified_url: "https://www.youtube.com/watch?v=X4sGoZEQPlU"
       notes: "Scales using 400x240 res"
 
@@ -111,7 +111,7 @@
       docked: "576p-720p"
       dscaling: "Yes"
       fps: 30fps
-      verified_status: 1      
+      verified_status: true      
        verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-dooms-impossible-switch-port-analysed"
 
     - name: "Dragonball: Xenoverse 2"
@@ -119,7 +119,7 @@
       docked: "900p"
       fps: 60fps
       notes: "60fps 1v1, 30fps 2v2+"
-      verified_status: 1      
+      verified_status: true      
        verified_url: "https://twitter.com/japanese3ds/status/877748333472653313"
 
     - name: "Dragon Quest Builders"
@@ -133,35 +133,35 @@
       handheld: "-"
       docked: 1080p
       fps: 30fps 
-      verified_status: 1      
+      verified_status: true      
        verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-dragon-quest-heroes-2-switch-vs-ps4-comparison"
 
     - name: Fast RMX
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-      verified_status: 1      
+      verified_status: true      
        verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-fast-rmx-showcases-switches-power-over-wii-u"
 
     - name: "Fate/EXTELLA: The Umbral Star"
       handheld: "720p"
       docked: "720p"
       fps: 30fps
-      verified_status: 1
+      verified_status: true
        verified_url: "https://michibiku.com/fateextella-switch-things-switch/"
 
     - name: "FIFA18 for Nintendo Switch"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-      verified_status: 1
+      verified_status: true
        verified_url: "http://www.eurogamer.net/articles/2017-06-10-fifa-18-on-switch-wont-have-the-journey-but-does-get-fut-and-co-op-seasons" 
 
     - name: Fire Emblem Warriors
       handheld: "720p"
       docked: "1080p option"
       fps: "30fps"
-      verified_status: 1
+      verified_status: true
        verified_url: "http://nintendoeverything.com/fire-emblem-warriors-lets-you-play-at-60-fps-in-exchange-for-lower-resolution/"
       notes: "option to use unlocked framerate with 720p resolution"
 
@@ -230,7 +230,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 30fps
-       verified_status: 1
+       verified_status: true
        verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-i-am-setsuna-switch-vs-ps4-face-off"
 
     - name: Implosion
@@ -279,7 +279,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 30fps
-      verified_status: 1
+      verified_status: true
        verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-lego-city-undercover-face-off"
       notes: "Docked can drop to 1440x1080, handheld 960x720"
 
@@ -307,7 +307,7 @@
       handheld: "1066x600"
       docked: "900p"
       fps: 30fps
-      verified_status: 1
+      verified_status: true
        verified_url: "https://twitter.com/DavideSoliani/status/893556215569043456"
       notes: "FPS locked to 30 in later patches"
 
@@ -315,7 +315,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-      verified_status: 1
+      verified_status: true
        verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-mario-kart-8-deluxe-tech-analysis"
       notes: "30fps in 3-4 player mode"
 
@@ -345,7 +345,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-      verified_status: 1
+      verified_status: true
        verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-switch-minecraft-patch-1080p-confirmed-and-more"
 
     - name: "Minecraft: Story Mode"
@@ -397,7 +397,7 @@
       handheld: "720p"
       docked: "720p"  
       fps: 30fps
-      verified_status: 1
+      verified_status: true
        verified_url: "https://nintendoeverything.com/nba-2k18-for-switch-has-same-content-and-modes-as-ps4-version-amiibo-support-confirmed/"
 
     - name: Neo Geo Aero Fighters 2
@@ -467,7 +467,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-       verified_status: 1
+       verified_status: true
        verified_url: "https://www.youtube.com/watch?v=DEArk9FdY7E"
 
     - name: Othello
@@ -480,7 +480,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 30fps
-       verified_status: 1
+       verified_status: true
        verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-overcooked-on-switch-has-big-performance-problems"
       notes: "framerate improved in later patches"
 
@@ -586,8 +586,8 @@
       handheld: "576p-720p"
       docked: "720p-900p"
       fps: 60fps
-      dscaling: 1
-       verified_status: 1
+      dscaling: true
+       verified_status: true
        verified_url: "https://www.rocketleague.com/news/patch-notes-v1-43-tournaments-update/"
       notes: "Quality mode moves to full resolutions (720 and 1080) but lowers FPS to 30"
 
@@ -609,7 +609,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-      verified_status: 1 
+      verified_status: true 
        verified_url: "https://www.redvaluegaming.com/reviews/shantae-half-genie-hero"
 
     - name: Shephy
@@ -618,14 +618,14 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-      verified_status: 1 
+      verified_status: true 
       verified_url: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
     - name: "Shovel Knight: Treasure Trove"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-      verified_status: 1 
+      verified_status: true 
       verified_url: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
     - name: Skylanders Imaginators
@@ -643,15 +643,15 @@
       handheld: "457p"
       docked: "675p"
       fps: 30fps
-      verified_status: 1
+      verified_status: true
       verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-snake-pass-on-switch-holds-up-nicely-against-ps4"
 
     - name: Splatoon 2
       handheld: "538p-720p"
       docked: "720p-1080p"
       fps: 60fps
-      dscaling: 1
-      verified_status: 1
+      dscaling: true
+      verified_status: true
       verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-how-does-splatoon-2-tech-improve-over-wii-u"
       notes: "Docked can drop to 720p, handheld drop to 964x538"
 
@@ -659,7 +659,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-      verified_status: 1
+      verified_status: true
       verified_url: "http://www.neogaf.com/forum/showthread.php?t=1418096"
 
     - name: "Stern Pinball"
@@ -677,7 +677,7 @@
       handheld: "540p"
       docked: "720p"
       fps: 60fps
-      verified_status: 1
+      verified_status: true
       verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-super-bomberman-r-60fps-patch-report"
       notes: "45fps story mode, 60fps battle"
 
@@ -685,7 +685,7 @@
       handheld: "720p"
       docked: "720p-900p"
       fps: 60fps
-      dscaling: 1
+      dscaling: true
       notes: "Interlaced in handheld, Averages ~1440x810 docked"
 
     - name: Snipperclips
@@ -735,15 +735,15 @@
       handheld: "720p"
       docked: "900p"
       fps: 30fps
-      dscaling: 1
-      verified_status: 1
+      dscaling: true
+      verified_status: true
        verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-zelda-breath-of-the-wild-uses-dynamic-resolution-scaling"
 
     - name: Thumper
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-       verified_status: 1
+       verified_status: true
        verified_url: "https://www.youtube.com/watch?v=4aMIko1VRn0"
 
     - name: Troll and I
@@ -796,7 +796,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-      verified_status: 1
+      verified_status: true
       verified_url: "http://www.thedragonstrap.com/blog/post/201701_NintendoSwitch/"
 
     - name: World of Goo
@@ -808,12 +808,12 @@
       handheld: "720p"
       docked: "720p"
       fps: 30fps
-      dscaling: 1
+      dscaling: true
       notes: "Can drop to 640x368"
 
     - name: Yooka-Laylee
       handheld: "630p"
       docked: "900p"
       fps: 30fps
-       verified_status: 1
+       verified_status: true
        verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-yooka-laylee-switch-port-analysis"
