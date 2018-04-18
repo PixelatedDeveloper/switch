@@ -11,7 +11,7 @@ email: info@canitia.nl
 description: > # this means to ignore newlines until "baseurl:"
   What resolution and fps does this game run at on Switch?!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://demo.canitia.nl/switch/" # the base hostname & protocol for your site
+url: "https://switch.canitia.nl/" # the base hostname & protocol for your site
 enforce_ssl: canitia.nl
 twitter_username: boumannm
 github_username:  boumannm
