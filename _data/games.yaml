@@ -141,6 +141,7 @@
       handheld: "Dynamic"
       docked: "900p"
       fps: 60fps
+      dynamic_scaling: true
       notes: "60fps 1v1, 30fps 2v2+"
       verified_status: true      
       verified_url: "https://twitter.com/japanese3ds/status/877748333472653313"
