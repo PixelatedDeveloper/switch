@@ -598,6 +598,9 @@ footer .blogdescription {
 .svg-inline--fa.fa-twitter.fa-w-16, .svg-inline--fa.fa-github.fa-w-16 {
   color: white;
   padding: 20px;
+  border-radius: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .fa-twitter {
@@ -657,10 +660,11 @@ footer .blogdescription {
 /* big images inline */
 .content-images {
     height: 200px;
-    padding-top:5px;
+    padding-top:15px;
     display:block;
     margin-left:auto;
     margin-right: auto;
+    border-radius: 100px;
 }
 
 .active-projects > a > img {
