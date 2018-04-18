@@ -18,6 +18,16 @@
 
     - name: "Azure Striker Gunvolt: Striker Pack"
 
+    - name: Bayonetta
+      handheld: "720p"
+      docked: "720p"
+      fps: 60fps
+
+    - name: Bayonetta 2
+      handheld: "720p"
+      docked: "720p"
+      fps: 60fps
+
     - name: Blaster Master Zero
       handheld: "720p"
       docked: "1080p"
@@ -26,6 +36,11 @@
       verified: "https://www.youtube.com/watch?v=X4sGoZEQPlU"
 
     - name: Boost Beast
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
+    - name: Brawlout
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
@@ -75,7 +90,6 @@
       dscaling: "Yes"
       fps: 30fps
       verified: "https://www.eurogamer.net/articles/digitalfoundry-2017-dooms-impossible-switch-port-analysed"
-
 
     - name: "Dragonball: Xenoverse 2"
       handheld: "720p"
@@ -559,8 +573,10 @@
 
     - name: VOEZ
       handheld: "720p"
-      docked: "1080p"
+      docked: "-"
       fps: 60fps
+      dscaling: "No"
+      notes: "Handheld only game"
 
     - name: Vroom in the night sky
 
@@ -577,7 +593,11 @@
       fps: 60fps
 
     - name: Xenoblade Chronicles 2
-
+      handheld: "720p"
+      docked: "720p"
+      fps: 30fps
+      dscaling: "Yes"
+      notes: "Can drop to 640x368"
 
     - name: Yooka-Laylee
       handheld: "630p"
