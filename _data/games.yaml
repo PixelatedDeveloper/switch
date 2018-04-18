@@ -211,7 +211,7 @@
       docked: "1080p"
       fps: 30fps
 
-     - name: "Hyrule Warriors: Definitive Edition"
+    - name: "Hyrule Warriors: Definitive Edition"
       handheld: "720p"
       docked: "1080p"
       fps: 30fps
@@ -582,8 +582,8 @@
       dscaling: "No"
 
     - name: Rocket League
-      handheld: "576p - 720p"
-      docked: "720p - 900p"
+      handheld: "576p-720p"
+      docked: "720p-900p"
       fps: 60fps
       dscaling: "Yes"
       verified: "https://www.rocketleague.com/news/patch-notes-v1-43-tournaments-update/"
@@ -805,4 +805,3 @@
       docked: "900p"
       fps: 30fps
       verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-yooka-laylee-switch-port-analysis"
-
