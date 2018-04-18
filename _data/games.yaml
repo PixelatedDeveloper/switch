@@ -82,8 +82,14 @@
     - name: Darkest Dungeon
       handheld: "720p"
       docked: "720p"
-
       fps: 60fps    
+
+    - name: "Dark Souls: Remastered"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 30fps  
+      verified_status: true
+      verified_url: "https://www.usgamer.net/articles/17-04-2018-dark-souls-remastered-switch-ps4-xbox-one-pc-release-date-enhancements-features-everything-we-know"
 
     - name: Death Squared
       handheld: "720p"
