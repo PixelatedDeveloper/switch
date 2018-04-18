@@ -7,10 +7,10 @@ layout: default
     <div class="row">
 
 <div id="items">
-
+  <input type="text" id="myInput" onkeyup="searchGame()" placeholder="Search for a game..">
 
         <table id="main-table">
-          <thead>
+          <tr class="header">
             <tr>
                 <th data-field="name">Name</th>
                 <th data-field="handheld">Handheld</th>
@@ -20,10 +20,8 @@ layout: default
                 <th data-field="fps">FPS</th>
                 <th data-field="verified">Verified</th>
                 <th data-field="note">Notes</th>
-              </tr>
-          </thead>
+            </tr>
 
-          <tbody>
               {% for entry in site.data.games %}
                   <tr>
                     <td>{{ entry.name }}</td>
@@ -37,7 +35,7 @@ layout: default
                     
                   </tr>
         {% endfor %}
-      </tbody>
+      </tr>
     </table>
 </div>
 
