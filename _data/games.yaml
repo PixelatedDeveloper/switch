@@ -804,6 +804,15 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: WWE 2K18
+      handheld: "720p"
+      docked: "540p-720p"
+      fps: 30fps target
+      dynamic_scaling: true
+      verified_status: true
+      verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-is-wwe-2k18-the-worst-game-on-switch"
+      notes: "Big drops to 20FPS or lower. Don't buy this!!!"
+
     - name: Xenoblade Chronicles 2
       handheld: "720p"
       docked: "720p"
