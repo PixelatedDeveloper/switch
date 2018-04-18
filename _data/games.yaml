@@ -44,21 +44,31 @@
       fps: 60fps
 
     - name: Dandara
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
 
     - name: Death Squared
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
 
     - name: De Mambo
 
     - name: "DOOM (2016)"
       handheld: 720p
       docked: 1080p
-      dscalingh: "360p - 576p"
-      dscalingd: "612p - 720p"
-      fps: 30fps 
-      verified: "http://www.eurogamer.net/articles/digitalfoundry-2017-dragon-quest-heroes-2-switch-vs-ps4-comparison"
+      dscaling: "Yes"
+      fps: 30fps
+      verified: "https://www.eurogamer.net/articles/digitalfoundry-2017-dooms-impossible-switch-port-analysed"
 
 
     - name: "Dragonball: Xenoverse 2"
+      handheld: "720p"
+      docked: "900p"
+      fps: 30/60fps
+      notes: FPS depends on gamemode
+      verified: "https://twitter.com/japanese3ds/status/877748333472653313"
 
     - name: "Dragon Quest Heroes I+II"
       handheld: 720p
