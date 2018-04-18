@@ -7,7 +7,7 @@
       handheld: "720p"
       docked: "900p"
       fps: 60fps
-      verified_status: true
+      verified_status: "true"
        verified_url: "https://www.youtube.com/watch?v=nP3l19Uio1g"
       notes: " 1080p / 60 FPS single-player, 900p / 60 FPS 2-player multiplayer, 900p / 30 FPS, 3-4-player multiplayer"
 
