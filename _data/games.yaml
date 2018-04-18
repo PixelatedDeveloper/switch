@@ -571,10 +571,12 @@
       fps: 60fps
  
 
-    - name: Rime
+    - name: RIME
       handheld: "-"
       docked: "720p"
-      fps: 30fps
+      fps: 30fps target
+      notes: "A recent patch updates performance/graphics to acceptable levels"
+
   
     - name: Rocket Fist
       handheld: "720p"
