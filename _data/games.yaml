@@ -2,6 +2,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: ARMS
       handheld: "720p"
@@ -21,6 +22,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
       verified: "https://www.youtube.com/watch?v=X4sGoZEQPlU"
 
     - name: Boost Beast
@@ -29,6 +31,10 @@
       fps: 60fps
 
     - name: Bulb Boy
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+      dscaling: "No"
 
     - name: "Cars 3"
 
@@ -37,11 +43,13 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: Disgaea 5 Complete
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      dscaling: "No"
 
     - name: Dandara
       handheld: "720p"
