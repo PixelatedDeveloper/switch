@@ -123,11 +123,11 @@
       fps: 60fps 
 
     - name: "Donkey Kong County: Tropical Freeze"
-      handheld: "720p"
+      handheld: "1152x648"
       docked: "1080p"
       fps: 60fps
       verified_status: true
-      verified_url: "http://www.nintendolife.com/news/2018/04/preview_getting_funky_in_donkey_kong_country_tropical_freeze_on_switch"
+      verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-donkey-kong-country-tropical-freeze-another-welcome-switch-port"
 
     - name: "DOOM (2016)"
       handheld: "408-720p"
