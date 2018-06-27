@@ -926,6 +926,11 @@
       handheld: "-"
       docked: "-"
 
+    - name: "Shantea and the Pirates Curse"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: "Shantea: Half-Genie Hero"
       handheld: "720p"
       docked: "1080p"
