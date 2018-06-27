@@ -28,6 +28,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: "Arcade Archives: Renegade"
+      handheld: "-"
+      docked: "-"
+
     - name: "Arcade Archives: VS. Super Mario Bros"
       handheld: "720p"
       docked: "1080p"
@@ -732,6 +736,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: Neo Geo Money Puzzle Exchanger
+      handheld: "-"
+      docked: "-"
+
     - name: Neo Geo Power Spikes II
       handheld: "-"
       docked: "-"
@@ -1342,6 +1350,11 @@
       docked: "-"
       fps: "-"
       notes: "Don't buy!"
+
+    - name: "Wolfenstein II: The New Colossus"
+      handheld: "-"
+      docked: "-"
+      fps: 30fps
 
     - name: "Wonder Boy: Dragon's Trap At Will"
       handheld: "720p"
