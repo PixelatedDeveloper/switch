@@ -903,7 +903,12 @@
       handheld: "720p"
       docked: "720p"
       fps: Unlocked
- 
+
+    - name: "Pokemon Quest"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: "Pokken Tournament"
       handheld: "960x720p"
       docked: "720p"
