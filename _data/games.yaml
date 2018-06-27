@@ -372,6 +372,8 @@
       docked: "864p"
       fps: 30fps
       notes: "menus are native/60fps"
+      verified_status: true
+      verified_url: "https://www.reddit.com/r/NintendoSwitch/comments/7vupsr/kirby_star_allies_runs_at_roughly_900p/"
 
     - name: L.A. Noire
       handheld: "960x720p-1280x720p"
