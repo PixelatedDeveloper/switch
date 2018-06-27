@@ -462,6 +462,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: "LEGO: The Incredibles"
+      handheld: "-"
+      docked: "-"
+
     - name: LEGO Worlds
       handheld: "540p"
       docked: "720p"
@@ -486,6 +490,11 @@
       docked: "1080p"
       fps: 30fps
       notes: "Guessing its similar to I Am Setsuna spec"
+
+    - name: "Lumines Remastered"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
 
     - name: "Mario & Rabbits: Kingdom Battle"
       handheld: "1066x600"
