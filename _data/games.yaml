@@ -502,6 +502,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: Neo Geo Pulstar
+      handheld: "-"
+      docked: "-"
+
     - name: Neo Geo Puzzled
       handheld: "-"
       docked: "-"
