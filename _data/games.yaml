@@ -1126,6 +1126,11 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "Sushi Striker: The Way of Sushido"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: Super Bomberman R
       handheld: "540p"
       docked: "720p"
