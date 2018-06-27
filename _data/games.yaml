@@ -124,7 +124,6 @@
     - name: De Mambo
       handheld: "720p"
       docked: "1080p"
-    
       fps: 60fps
 
     - name: "Disc Jam"
@@ -246,6 +245,8 @@
       fps: 60fps
 
     - name: Has-Been Heroes
+      handheld: "-"
+      docked: "-"
 
     - name: Human Resource Machine
       handheld: "720p"
@@ -288,6 +289,8 @@
       fps: 60fps
 
     - name: I And Me
+      handheld: "-"
+      docked: "-"
 
     - name: Just Dance 2017
       handheld: "720p"
@@ -326,6 +329,8 @@
       fps: 30fps
 
     - name: "LEGO: Ninjago Movie"
+      handheld: "-"
+      docked: "-"
 
     - name: LEGO Worlds
       handheld: "540p"
@@ -395,7 +400,6 @@
       docked: "1080p"
       fps: 60fps
  
-
     - name: Morphite
       handheld: "720p"
       docked: "1080p"
@@ -414,7 +418,6 @@
     - name: "Namco Museum - Pacman Vs."
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: "Naruto: Shippuuden Trilogy"
@@ -425,7 +428,7 @@
 
     - name: NBA Playgrounds
       handheld: "540p"
-      docked: 
+      docked: "720p"
       fps: 60fps
 
     - name: NBA 2K18
@@ -436,60 +439,116 @@
       verified_url: "https://nintendoeverything.com/nba-2k18-for-switch-has-same-content-and-modes-as-ps4-version-amiibo-support-confirmed/"
 
     - name: Neo Geo Aero Fighters 2
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Alpha Mission II
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Art of Fighting
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Fatal Fury
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Fatal Fury Special
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Fatal Fury 2
+      handheld: "-"
+      docked: "-"
 
     - name: "Neo Geo Galaxy Fight: Universal Warriors"
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Last Resort
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Magical Drop II
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Magician Lord
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Metal Slug
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Metal Slug 2
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Metal Slug 3
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Puzzled
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Samurai Shodown
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Sengoku
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Shock Troopers
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Shock Troopers 2nd Squad
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Spinmaster
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Super Sidekicks
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo The King of Fighters '98
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo The King of Fighters '99
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo The King of Fighters 2000
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Waku Waku 7
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo World Heroes Perfect
+      handheld: "-"
+      docked: "-"
 
     - name: Neo Geo Zed Blade
+      handheld: "-"
+      docked: "-"
 
     - name: NeuroVoider
+      handheld: "-"
+      docked: "-"
 
     - name: "New Frontier Days: Founding Pioneers"
+      handheld: "-"
+      docked: "-"
 
     - name: "Nine Parchments"
       handheld: "720p"
@@ -542,10 +601,13 @@
       docked: "1080p"
       fps: 60fps
  
-
     - name: "Physical Contact: Speed"
+      handheld: "-"
+      docked: "-"
 
     - name: Piczle Lines DX
+      handheld: "-"
+      docked: "-"
 
     - name: "Pinball FX 3"
       handheld: "720p"
@@ -561,9 +623,8 @@
       handheld: "720p"
       docked: "1080p"
       fps: 30fps
- 
       notes: "Allows setting DoF"
-
+      
     - name: "Project Octopath Traveler"
       handheld: "600p"
       docked: "720p"
@@ -574,7 +635,6 @@
       handheld: "-"
       docked: "1080p"
       fps: Unlocked
-       
 
     - name: "Puyo Puyo Tetris"
       handheld: "720p"
@@ -587,34 +647,36 @@
       fps: 60fps
 
     - name: Qbics Paint
+      handheld: "-"
+      docked: "-"
 
     - name: "Rayman Legends: Definitive Edition"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
  
-
     - name: RBI Baseball 17
+      handheld: "-"
+      docked: "-"
 
     - name: Redout
+      handheld: "-"
+      docked: "-"
 
     - name: "Resident Evil: Revelations"
       handheld: "720p"
       docked: "1080p"
       fps: Unlocked
- 
 
     - name: "Resident Evil: Revelations 2"
       handheld: "720p"
       docked: "1080p"
       fps: Unlocked
- 
 
     - name: "Retro City Rampage DX"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
- 
 
     - name: RIME
       handheld: "-"
@@ -622,7 +684,7 @@
       fps: 30fps target
       verified_status: true
       verified_url: "https://www.eurogamer.net/articles/2017-11-14-rime-developer-addresses-switch-performance-issues"
-      notes: "A recent patch updates performance/graphics; still no locked 30fps at all times"
+      notes: "Recent patch updates performance/graphics; still no locked 30fps at all times"
   
     - name: Rocket Fist
       handheld: "720p"
@@ -643,7 +705,6 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
- 
 
     - name: SEVERED
       handheld: "720p"
@@ -652,6 +713,8 @@
       notes: "Handheld only"
 
     - name: Shakedown Hawaii
+      handheld: "-"
+      docked: "-"
 
     - name: "Shantea: Half-genie Hero"
       handheld: "720p"
@@ -661,6 +724,8 @@
       verified_url: "https://www.redvaluegaming.com/reviews/shantae-half-genie-hero"
 
     - name: Shephy
+      handheld: "-"
+      docked: "-"
 
     - name: "Shovel Knight: Spectre of Torment"
       handheld: "720p"
@@ -677,8 +742,8 @@
       verified_url: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
     - name: Skylanders Imaginators
-      handheld:
-      docked: 
+      handheld: "-"
+      docked: "-"
       fps: 30fps
 
     - name: "Slime-san"
@@ -713,7 +778,6 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
- 
 
     - name: Strikers1945
       handheld: "720p"
@@ -764,7 +828,6 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
- 
 
     - name: "The Elder Scrolls V: Skyrim"
       handheld: "896x720p-1280x720p"
@@ -773,13 +836,11 @@
       dynamic_scaling: true
       verified_status: true
       verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-skyrim-switch-vs-playstation-4"
- 
 
     - name: "The Binding of Isaac: Afterbirth+"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
- 
 
     - name: "The Legend of Zelda: Breath of the Wild"
       handheld: "720p"
@@ -799,7 +860,7 @@
 
     - name: Troll and I
       handheld: "720p"
-      docked:
+      docked: "-"
       fps: 30fps
       notes: "Dont buy!"
 
@@ -807,13 +868,11 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
- 
 
     - name: "Unboxed: Newbieś Adventure"
       handheld: "720p"
       docked: "768p"
       fps: Unlocked
- 
 
     - name: "Use Your Words"
       handheld: "720p"
@@ -831,18 +890,19 @@
       fps: 60fps
 
     - name: Vaccine
+      handheld: "-"
+      docked: "-"
 
     - name: VOEZ
       handheld: "720p"
-      docked: "-"
+      docked: "1080p"
       fps: 60fps
- 
       notes: "Handheld only game"
 
     - name: Vroom in the night sky
-      handheld: 
-      docked: 
-      fps: 
+      handheld: "-"
+      docked: "-"
+      fps: "-"
       notes: "Don't buy!"
 
     - name: "Wonder Boy: Dragon's Trap At Will"
