@@ -4,11 +4,15 @@
       fps: 60fps
       verified_status: true
 
-    - name: "Arcade Archives: crazy Climber"
+    - name: "Arcade Archives: Crazy Climber"
       handheld: "-"
       docked: "-"
 
     - name: "Arcade Archives: Double Dragon"
+      handheld: "-"
+      docked: "-"
+
+    - name: "Arcade Archives: Heroic Episode"
       handheld: "-"
       docked: "-"
 
@@ -579,6 +583,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: Neo Geo Magical Drop III
+      handheld: "-"
+      docked: "-"
+
     - name: Neo Geo Magician Lord
       handheld: "-"
       docked: "-"
@@ -716,6 +724,10 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+
+    - name: "PAC-MAN Championship Edition 2 PLUS"
+      handheld: "-"
+      docked: "-"
 
     - name: "Paladins"
       handheld: "378-720p"
