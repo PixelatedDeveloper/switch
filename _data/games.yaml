@@ -244,6 +244,11 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "Fallout Shelter"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: Fast RMX
       handheld: "720p"
       docked: "1080p"
