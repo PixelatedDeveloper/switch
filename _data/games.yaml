@@ -854,6 +854,11 @@
       dynamic_scaling: true
       notes: "Interlaced in handheld, Averages ~1440x810 docked"
 
+    - name: Super Meat Boy
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: Snipperclips
       handheld: "720p"
       docked: "1080p"
