@@ -39,6 +39,12 @@
       docked: "-"
       fps: 30fps
 
+    - name: "Attelier Lydie & Suelle: The Alchemists and the Mysterious Paintings"
+      handheld: "-"
+      docked: "720p"
+      fps: "30fps"
+      notes: "Got a performance patch later on"
+
     - name: "Azure Striker Gunvolt: Striker Pack"
       handheld: "720p"
       docked: "1080p"
@@ -805,6 +811,11 @@
       notes: "framerate can be very bad & not fully up to date yet"
       verified_status: true
       verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-payday2-switch-looks-fine-but-runs-poorly"
+
+    - name: "Penny-Punching Princess"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
 
     - name: "Phantom Trigger"
       handheld: "720p"
