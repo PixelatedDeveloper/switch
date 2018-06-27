@@ -34,6 +34,11 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "Attack on Titan 2 (Deluxe Edition)"
+      handheld: "-"
+      docked: "-"
+      fps: 30fps
+
     - name: "Azure Striker Gunvolt: Striker Pack"
       handheld: "720p"
       docked: "1080p"
