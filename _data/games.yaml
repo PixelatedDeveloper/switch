@@ -16,6 +16,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: "Arcade Archives: Ninja Kid"
+      handheld: "-"
+      docked: "-"
+
     - name: "Arcade Archives: Punch-Out!!"
       handheld: "-"
       docked: "-"
@@ -659,6 +663,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: Neo Geo Samurai Shodown III
+      handheld: "-"
+      docked: "-"
+
     - name: Neo Geo Sengoku
       handheld: "-"
       docked: "-"
@@ -1142,6 +1150,11 @@
       verified_status: true
       verified_url: "https://twitter.com/prospectgames/status/934003253829914626"
       notes: "general framerate has improved since later patches"
+
+    - name: "Urban Trial Playground"
+      handheld: "720p"
+      docked: "-"
+      fps: 60fps
 
     - name: "Use Your Words"
       handheld: "720p"
