@@ -478,6 +478,11 @@
       docked: "1080p"
       fps: 30fps
 
+    - name: Mulaka
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: "Namco Museum"
       handheld: "720p"
       docked: "1080p"
