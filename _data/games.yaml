@@ -24,7 +24,6 @@
       verified_status: true 
       verified_url: "https://www.nintendo.com/games/detail/azure-striker-gunvolt-striker-pack-switch"
 
-
     - name: Bayonetta
       handheld: "720p"
       docked: "720p"
@@ -88,12 +87,16 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "Crash Bandicoot Trilogy"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 30fps
+
     - name: Disgaea 5 Complete
       handheld: "720p"
       docked: "720p"
       fps: 60fps
       notes: "Has some small FPS drops"
-
 
     - name: Dandara
       handheld: "720p"
