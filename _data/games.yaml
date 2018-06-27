@@ -495,6 +495,16 @@
       docked: "720p"
       fps: 30fps
 
+    - name: "Mega Man Legacy Collection"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
+    - name: "Mega Man Legacy Collection 2"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: "Mighty Gunvolt Burst"
       handheld: "720p"
       docked: "1080p"
@@ -1086,6 +1096,13 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+
+    - name: "Street Fighter 30th Anniversary Collection"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
+
 
     - name: Strikers1945
       handheld: "720p"
