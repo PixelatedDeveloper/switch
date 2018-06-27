@@ -4,6 +4,11 @@
       fps: 60fps
       verified_status: true
 
+    - name: "Arcade Archives: VS. Super Mario Bros"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: ARMS
       handheld: "720p"
       docked: "900p"
