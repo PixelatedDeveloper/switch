@@ -700,6 +700,11 @@
       verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-overcooked-on-switch-has-big-performance-problems"
       notes: "framerate improved in later patches"
 
+    - name: "Owlboy"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: "Paladins"
       handheld: "378-720p"
       docked: "567-900p"
