@@ -612,6 +612,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: Neo Geo World Heroes 2
+      handheld: "-"
+      docked: "-"
+
     - name: Neo Geo Zed Blade
       handheld: "-"
       docked: "-"
@@ -862,6 +866,11 @@
       fps: 60fps
 
     - name: Strikers1945
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
+    - name: Strikers1945 II
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
