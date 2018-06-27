@@ -1194,6 +1194,11 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "The Banner Saga 2"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: "The Binding of Isaac: Afterbirth+"
       handheld: "720p"
       docked: "1080p"
