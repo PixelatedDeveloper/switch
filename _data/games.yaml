@@ -367,7 +367,7 @@
       notes: "30fps in 3-4 player mode"
 
     - name: "Mario Tennis: Aces"
-      handheld: "-"
+      handheld: "720p"
       docked: "900p"
       fps: 60fps
       notes: "Early estimates"
