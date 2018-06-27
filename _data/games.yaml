@@ -293,6 +293,11 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "Football Manager Touch 2018"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: "forma.8"
       handheld: "720p"
       docked: "1080p"
@@ -314,6 +319,11 @@
       verified_status: true
       verified_url: "https://twitter.com/TheGameBakers/status/944858083674722304?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E1"
       notes: "Unstable 60fps, but should impact gameplay according to dev"
+
+    - name: "Gal-Gun 2"
+      handheld: "720p"
+      docked: "1080p"
+      fps: "-"
 
     - name: GoNNER
       handheld: "720p"
@@ -1007,6 +1017,11 @@
       fps: 60fps
 
     - name: Skylanders Imaginators
+      handheld: "-"
+      docked: "-"
+      fps: 30fps
+
+    - name: "South Park: The Fractured but Whole (Gold Edition)"
       handheld: "-"
       docked: "-"
       fps: 30fps
