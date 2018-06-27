@@ -609,6 +609,9 @@ footer .blogdescription {
   margin-left: 10px;
   margin-right: 10px; }
 
+  .fa-check {
+    margin-right: 5px; }
+
 .fa-twitter {
   background: #00aced; }
 
