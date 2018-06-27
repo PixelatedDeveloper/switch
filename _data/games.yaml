@@ -109,6 +109,11 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: Clustertruck
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: "Crypt of the NecroDancer: Nintendo Switch Edition"
       handheld: "720p"
       docked: "1080p"
@@ -544,6 +549,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: Neo Geo Aero Fighters 3
+      handheld: "-"
+      docked: "-"
+
     - name: Neo Geo Alpha Mission II
       handheld: "-"
       docked: "-"
@@ -910,7 +919,7 @@
       handheld: "-"
       docked: "-"
 
-    - name: "Shantea: Half-genie Hero"
+    - name: "Shantea: Half-Genie Hero"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
