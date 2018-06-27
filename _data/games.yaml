@@ -4,6 +4,10 @@
       fps: 60fps
       verified_status: true
 
+    - name: "Arcade Archives: crazy Climber"
+      handheld: "-"
+      docked: "-"
+
     - name: "Arcade Archives: Double Dragon"
       handheld: "-"
       docked: "-"
