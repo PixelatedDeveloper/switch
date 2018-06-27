@@ -105,6 +105,11 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "Crypt of the NecroDancer: Nintendo Switch Edition"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: "Crash Bandicoot: The N-Sane Trilogy"
       handheld: "720p"
       docked: "1080p"
@@ -514,6 +519,10 @@
       verified_status: true
       verified_url: "https://nintendoeverything.com/nba-2k18-for-switch-has-same-content-and-modes-as-ps4-version-amiibo-support-confirmed/"
 
+    - name: Neo Geo 2020 Super Baseball
+      handheld: "-"
+      docked: "-"
+
     - name: Neo Geo Aero Fighters 2
       handheld: "-"
       docked: "-"
@@ -529,7 +538,6 @@
     - name: Neo Geo Art of Fighting 2
       handheld: "-"
       docked: "-"
-
 
     - name: Neo Geo Fatal Fury
       handheld: "-"
