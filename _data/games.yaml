@@ -206,7 +206,6 @@
     - name: Flip Wars
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: Floor Kids
@@ -219,16 +218,23 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "Fortnite"
+      handheld: "360-720p"
+      docked: "729-900p"
+      fps: 30fps
+      dynamic_scaling: true
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=hrgp1JQ3Xx4"
+      notes: "1080p HUD, lower draw distance"
+
     - name: GoNNER
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: "Gunbarich"
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: Graceful Explosion Machine
@@ -241,7 +247,6 @@
     - name: Human Resource Machine
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: "Human: Fall flat"
@@ -267,19 +272,16 @@
     - name: Implosion
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: "Infinite Minigolf"
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: Ironcast
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: I And Me
@@ -292,7 +294,6 @@
     - name: Kamiko
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: "Kirby: Star Allies"
@@ -333,7 +334,6 @@
     - name: Little Inferno
       handheld: "720p"
       docked: "1080p"
-      
       fps: 60fps
 
     - name: "Mario & Rabbits: Kingdom Battle"
