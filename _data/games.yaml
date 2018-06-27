@@ -71,6 +71,13 @@
       docked: "-"
       fps: 30fps
 
+    - name: "Captain Toad's: Treasure Tracker"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=iq0N-AsZ8Vo"
+
     - name: "Cave Story+"
       handheld: "720p"
       docked: "1080p"
