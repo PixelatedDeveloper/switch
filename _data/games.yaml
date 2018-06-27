@@ -712,6 +712,28 @@
       docked: "1080p"
       fps: 60fps
  
+    - name: Outlast
+      handheld: "720p"
+      docked: "1008p"
+      fps: 30fps
+      verified_status: true
+      verified_url: "https://twitter.com/TheRedBarrels/status/968498404190978048"
+
+    - name: Outlast 2
+      handheld: "720p"
+      docked: "1008p"
+      fps: 30fps
+      verified_status: true
+      verified_url: "https://twitter.com/TheRedBarrels/status/968498404190978048"
+
+    - name: "Outlast Bundle of Terror"
+      handheld: "720p"
+      docked: "1008p"
+      notes: "both games"
+      fps: 30fps
+      verified_status: true
+      verified_url: "https://twitter.com/TheRedBarrels/status/968498404190978048"
+
     - name: "Overcooked: Special Edition"
       handheld: "720p"
       docked: "1080p"
