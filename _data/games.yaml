@@ -198,6 +198,11 @@
       verified_status: true
       verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-donkey-kong-country-tropical-freeze-another-welcome-switch-port"
 
+    - name: "Dont Starve: Nintendo Switch Edition"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: "DOOM (2016)"
       handheld: "408-720p"
       docked: "576-720p"
@@ -611,6 +616,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: Neo Geo Gururin
+      handheld: "-"
+      docked: "-"
+
     - name: Neo Geo King of the Monsters
       handheld: "-"
       docked: "-"
@@ -992,6 +1001,11 @@
       verified_status: true 
       verified_url: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
+    - name: Skies of Fury DX
+      handheld: "720p"
+      docked: "-"
+      fps: 60fps
+
     - name: Skylanders Imaginators
       handheld: "-"
       docked: "-"
@@ -1047,6 +1061,11 @@
       verified_status: true
       verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-super-bomberman-r-60fps-patch-report"
       notes: "45fps story mode, 60fps battle"
+
+    - name: "Super Daryl Deluxe"
+      handheld: "720p"
+      docked: "-"
+      fps: 60fps
 
     - name: Super Mario Odyssee
       handheld: "720p"
