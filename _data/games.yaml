@@ -627,6 +627,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: Neo Geo Sengoku 2
+      handheld: "-"
+      docked: "-"
+
     - name: Neo Geo Shock Troopers
       handheld: "-"
       docked: "-"
