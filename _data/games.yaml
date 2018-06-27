@@ -739,9 +739,12 @@
 
     - name: "Payday 2"
       handheld: "720p"
-      docked: "720p"
+      docked: "900p"
       fps: 30fps
+      dynamic_scaling: no
       notes: "framerate can be very bad & not fully up to date yet"
+      verified_status: true
+      verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-payday2-switch-looks-fine-but-runs-poorly"
 
     - name: "Phantom Trigger"
       handheld: "720p"
