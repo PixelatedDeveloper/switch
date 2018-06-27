@@ -215,6 +215,14 @@
       verified_status: true
       verified_url: "https://michibiku.com/fateextella-switch-things-switch/"
 
+    - name: Fe
+      handheld: "720p"
+      docked: "720p"
+      fps: 30fps
+      verified_status: true
+      verified_url: "http://gearnuke.com/fe-nintendo-switch-vs-ps4-comparison-visually-strong-average-performance/"
+      notes: "has drops below that sometimes"
+
     - name: "FIFA18 for Nintendo Switch"
       handheld: "720p"
       docked: "1080p"
