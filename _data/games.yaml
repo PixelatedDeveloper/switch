@@ -431,6 +431,12 @@
       docked: "720p"
       fps: 60fps
 
+    - name: "NBA Playgrounds: Enhanced Edition"
+      handheld: "540p"
+      docked: "720p"
+      fps: 60fps
+      notes: "brings game up to date with other platforms"
+
     - name: NBA 2K18
       handheld: "720p"
       docked: "720p"  
