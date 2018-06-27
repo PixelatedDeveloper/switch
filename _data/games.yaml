@@ -873,6 +873,9 @@
       handheld: "720p"
       docked: "768p"
       fps: Unlocked
+      verified_status: true
+      verified_url: "https://twitter.com/prospectgames/status/934003253829914626"
+      notes: "general framerate has improved since later patches"
 
     - name: "Use Your Words"
       handheld: "720p"
