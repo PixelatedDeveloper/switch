@@ -358,6 +358,11 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "Harvest Moon: Light of Hope"
+      handheld: "-"
+      docked: "-"
+      fps: "-"
+
     - name: Has-Been Heroes
       handheld: "-"
       docked: "-"
