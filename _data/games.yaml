@@ -384,7 +384,6 @@
     - name: "Minecraft: Story Mode"
       handheld: "648p"
       docked: "900p"
-      dynamic_scaling:     
       fps: 60fps
       notes: "Estimated"
 
@@ -513,7 +512,6 @@
       docked: "1080p"
       fps: 60fps
  
-
     - name: "Overcooked: Special Edition"
       handheld: "720p"
       docked: "1080p"
@@ -521,6 +519,14 @@
       verified_status: true
       verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-overcooked-on-switch-has-big-performance-problems"
       notes: "framerate improved in later patches"
+
+    - name: "Paladins"
+      handheld: "378-720p"
+      docked: "567-900p"
+      fps: 60fps
+      dynamic_scaling: true
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=q0h9bilVjEY"
 
     - name: "Payday 2"
       handheld: "720p"
@@ -543,7 +549,6 @@
       docked: "720p"
       fps: Unlocked
  
-
     - name: "Pokken Tournament"
       handheld: "960x720p"
       docked: "720p"
@@ -572,7 +577,6 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
- 
 
     - name: "Puzzle Adventure Blockle"
       handheld: "720p"
