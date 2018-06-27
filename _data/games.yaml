@@ -338,6 +338,8 @@
       fps: 30fps
 
     - name: "Levels+: Addictive Puzzle Game"
+      handheld: "-"
+      docked: "-"
 
     - name: Little Inferno
       handheld: "720p"
@@ -625,6 +627,11 @@
       docked: "720p"
       fps: 60fps
 
+    - name: "Poly Bridge"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: "Portal Knights"
       handheld: "720p"
       docked: "1080p"
@@ -697,7 +704,6 @@
       docked: "1080p"
       fps: 60fps
  
-
     - name: Rocket League
       handheld: "576p-720p"
       docked: "720p-900p"
@@ -706,6 +712,10 @@
       verified_status: true
       verified_url: "https://www.rocketleague.com/news/patch-notes-v1-43-tournaments-update/"
       notes: "Recent patch improved general performance. Added a Quality Mode with better graphics and full resolution (720 handheld and 1080 docked) but lowers FPS to 30"
+
+    - name: "Romancing Saga 2"
+      handheld: "-"
+      docked: "-"
 
     - name: Runner 3
       handheld: "720p"
