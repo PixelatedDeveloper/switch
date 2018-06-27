@@ -119,6 +119,11 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: ClusterPuck
+      handheld: "-"
+      docked: "-"
+
+
     - name: "Crypt of the NecroDancer: Nintendo Switch Edition"
       handheld: "720p"
       docked: "1080p"
@@ -693,6 +698,10 @@
       docked: "-"
 
     - name: Neo Geo World Heroes 2
+      handheld: "-"
+      docked: "-"
+
+    - name: Neo Geo World Heroes 2 Jet
       handheld: "-"
       docked: "-"
 
