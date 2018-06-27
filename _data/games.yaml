@@ -8,6 +8,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: "Arcade Archives: Donkey Kong"
+      handheld: "-"
+      docked: "-"
+
     - name: "Arcade Archives: Double Dragon"
       handheld: "-"
       docked: "-"
@@ -88,6 +92,11 @@
       verified_status: true      
       verified_url: "https://www.youtube.com/watch?v=X4sGoZEQPlU"
       notes: "Scales using 400x240 res"
+
+    - name: "Blazblue Cross Tag Battle"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
 
     - name: "Blossom Tales: The Sleeping King"
       handheld: "720p"
@@ -756,6 +765,14 @@
       handheld: "-"
       docked: "-"
 
+    - name: Neo Geo Super Sidekicks 2
+      handheld: "-"
+      docked: "-"
+
+    - name: "Neo Geo Super Sidekicks 3: The Next Glory"
+      handheld: "-"
+      docked: "-"
+
     - name: Neo Geo The King of Fighters '96
       handheld: "-"
       docked: "-"      
@@ -939,8 +956,8 @@
       fps: 30fps
       notes: "Allows setting DoF"
       
-    - name: "Project Octopath Traveler"
-      handheld: "600p"
+    - name: "Octopath Traveler (Prologue Demo)"
+      handheld: "720p"
       docked: "720p"
       fps: 30fps
       notes: "info based on early demo"
@@ -969,7 +986,7 @@
       docked: "1080p"
       fps: 60fps
  
-    - name: RBI Baseball 17
+    - name: R.B.I. Baseball 17
       handheld: "-"
       docked: "-"
 
