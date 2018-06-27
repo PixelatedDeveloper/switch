@@ -467,7 +467,26 @@
       docked: "1080p"
       fps: 60fps
 
-    - name: "Naruto: Shippuuden Trilogy"
+    - name: "Naruto Shippuden: Ultimate Ninja Storm"
+      handheld: "540p"
+      docked: "900p"
+      fps: 30fps
+      notes: "Cutscenes in fixed 720p"
+
+
+    - name: "Naruto Shippuden: Ultimate Ninja Storm 2"
+      handheld: "540p"
+      docked: "900p"
+      fps: 30fps
+      notes: "Cutscenes in fixed 720p"
+
+    - name: "Naruto Shippuden: Ultimate Ninja Storm 3"
+      handheld: "540p"
+      docked: "900p"
+      fps: 30fps
+      notes: "Cutscenes in fixed 720p"
+
+    - name: "Naruto Shippuden: Ultimate Ninja Storm Trilogy"
       handheld: "540p"
       docked: "900p"
       fps: 30fps
