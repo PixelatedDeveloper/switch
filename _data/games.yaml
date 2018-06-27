@@ -1036,6 +1036,11 @@
       verified_status: true 
       verified_url: "https://www.redvaluegaming.com/reviews/shantae-half-genie-hero"
 
+    - name: "Shaq-Fu: a Legend Reborn"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: Shephy
       handheld: "-"
       docked: "-"
@@ -1106,8 +1111,6 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-
-
 
     - name: Strikers1945
       handheld: "720p"
