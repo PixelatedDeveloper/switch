@@ -194,10 +194,9 @@
       fps: "30fps"
       verified_status: true
       verified_url: "http://nintendoeverything.com/fire-emblem-warriors-lets-you-play-at-60-fps-in-exchange-for-lower-resolution/"
-      notes: "option to use unlocked framerate with 720p resolution"
+      notes: "option to use unlocked framerate with 720p resolution (near full 60fps lock)"
 
     - name: Fire Emblem 2018
-
 
     - name: Flame in the Flood
       handheld: "672p"
