@@ -457,6 +457,11 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "Little Nightmars Complete Edition"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: LOST SPHEAR
       handheld: "720p"
       docked: "1080p"
@@ -608,6 +613,10 @@
       docked: "-"
 
     - name: Neo Geo Art of Fighting 2
+      handheld: "-"
+      docked: "-"
+
+    - name: Neo Geo Baseball Stars Professional
       handheld: "-"
       docked: "-"
 
@@ -1150,6 +1159,11 @@
       dynamic_scaling: true
       verified_status: true
       verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-skyrim-switch-vs-playstation-4"
+
+    - name: "The Banner Saga"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
 
     - name: "The Binding of Isaac: Afterbirth+"
       handheld: "720p"
