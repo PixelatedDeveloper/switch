@@ -1397,3 +1397,8 @@
       fps: 30fps
       verified_status: true
       verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-yooka-laylee-switch-port-analysis"
+
+    - name: "Ys VIII: Lacrimosa of DANA"
+      handheld: "-"
+      docked: "-"
+      fps: "-"
