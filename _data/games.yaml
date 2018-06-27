@@ -103,7 +103,6 @@
       docked: "1080p"
       fps: 60fps
 
-  
     - name: Darkest Dungeon
       handheld: "720p"
       docked: "720p"
@@ -168,6 +167,11 @@
       verified_status: true      
       verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-dragon-quest-heroes-2-switch-vs-ps4-comparison"
       notes: "Can drop to 20fps"
+
+    - name: "Enter the Gungeon"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
 
     - name: Fast RMX
       handheld: "720p"
