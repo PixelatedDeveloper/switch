@@ -243,6 +243,14 @@
       verified_url: "https://www.youtube.com/watch?v=hrgp1JQ3Xx4"
       notes: "1080p HUD, lower draw distance"
 
+    - name: "Furi"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+      verified_status: true
+      verified_url: "https://twitter.com/TheGameBakers/status/944858083674722304?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E1"
+      notes: "Unstable 60fps, but should impact gameplay according to dev"
+
     - name: GoNNER
       handheld: "720p"
       docked: "1080p"
@@ -471,6 +479,11 @@
     - name: Neo Geo Art of Fighting
       handheld: "-"
       docked: "-"
+
+    - name: Neo Geo Art of Fighting 2
+      handheld: "-"
+      docked: "-"
+
 
     - name: Neo Geo Fatal Fury
       handheld: "-"
