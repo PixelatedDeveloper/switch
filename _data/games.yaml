@@ -4,6 +4,10 @@
       fps: 60fps
       verified_status: true
 
+    - name: "Arcade Archives: Double Dragon"
+      handheld: "-"
+      docked: "-"
+
     - name: "Arcade Archives: VS. Super Mario Bros"
       handheld: "720p"
       docked: "1080p"
@@ -381,6 +385,12 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: LOST SPHEAR
+      handheld: "720p"
+      docked: "1080p"
+      fps: 30fps
+      notes: "Guessing its similar to I Am Setsuna spec"
+
     - name: "Mario & Rabbits: Kingdom Battle"
       handheld: "1066x600"
       docked: "900p"
@@ -539,6 +549,10 @@
       docked: "-"
 
     - name: Neo Geo Metal Slug 3
+      handheld: "-"
+      docked: "-"
+
+    - name: Neo Geo Power Spikes II
       handheld: "-"
       docked: "-"
 
