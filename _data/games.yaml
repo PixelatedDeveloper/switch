@@ -427,7 +427,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
-      notes: "Early look/previews"
+      notes: "Slighty unstable as of release"
 
     - name: "Minecraft: Switch Edition"
       handheld: "720p"
@@ -568,6 +568,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: Neo Geo Samurai Shodown II
+      handheld: "-"
+      docked: "-"
+
     - name: Neo Geo Sengoku
       handheld: "-"
       docked: "-"
@@ -627,6 +631,11 @@
     - name: "New Frontier Days: Founding Pioneers"
       handheld: "-"
       docked: "-"
+
+    - name: "Night in the Woods"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
 
     - name: "Nine Parchments"
       handheld: "720p"
