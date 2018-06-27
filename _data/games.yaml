@@ -18,8 +18,8 @@
       fps: 60fps
 
     - name: "Azure Striker Gunvolt: Striker Pack"
-      handheld: 
-      docked: 
+      handheld: "720p"
+      docked: "1080p"
       fps: 60fps
       verified_status: true 
       verified_url: "https://www.nintendo.com/games/detail/azure-striker-gunvolt-striker-pack-switch"
@@ -47,6 +47,11 @@
       verified_status: true      
       verified_url: "https://www.youtube.com/watch?v=X4sGoZEQPlU"
       notes: "Scales using 400x240 res"
+
+    - name: "Blossom Tales: The Sleeping King"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
 
     - name: Boost Beast
       handheld: "720p"
