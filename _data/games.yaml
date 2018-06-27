@@ -305,6 +305,14 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "InnerSpace"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 30fps
+      dynamic_scaling: false
+      verified_status: true
+      verified_url: "https://www.reddit.com/r/NintendoSwitch/comments/7qtppr/ama_were_the_innerspace_devs_ask_us_anything/dsrweaw"
+
     - name: Ironcast
       handheld: "720p"
       docked: "1080p"
@@ -898,6 +906,11 @@
       verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-skyrim-switch-vs-playstation-4"
 
     - name: "The Binding of Isaac: Afterbirth+"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
+    - name: The Escapists 2
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
