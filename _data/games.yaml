@@ -882,6 +882,14 @@
       verified_status: true
       verified_url: "https://www.youtube.com/watch?v=4aMIko1VRn0"
 
+    - name: "Tiny Metal"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 30fps
+      dynamic_scaling: false
+      verified_status: true
+      verified_url: "https://wccftech.com/tiny-metal-runs-native-4k60fps-ps4-pro/"
+
     - name: Troll and I
       handheld: "720p"
       docked: "-"
