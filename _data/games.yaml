@@ -151,7 +151,6 @@
       handheld: "-"
       docked: "-"
 
-
     - name: "Crypt of the NecroDancer: Nintendo Switch Edition"
       handheld: "720p"
       docked: "1080p"
@@ -411,6 +410,11 @@
       verified_status: true
       verified_url: "https://www.reddit.com/r/NintendoSwitch/comments/7qtppr/ama_were_the_innerspace_devs_ask_us_anything/dsrweaw"
 
+    - name: "INSIDE"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: Ironcast
       handheld: "720p"
       docked: "1080p"
@@ -474,6 +478,11 @@
     - name: "Levels+: Addictive Puzzle Game"
       handheld: "-"
       docked: "-"
+
+    - name: "Limbo"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
 
     - name: Little Inferno
       handheld: "720p"
