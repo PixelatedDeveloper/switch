@@ -626,6 +626,10 @@
       handheld: "-"
       docked: "-"
 
+    - name: Neo Geo Ghost Pilots
+      handheld: "-"
+      docked: "-"
+
     - name: Neo Geo Gururin
       handheld: "-"
       docked: "-"
@@ -776,11 +780,21 @@
       verified_status: true
       verified_url: "https://www.youtube.com/watch?v=DEArk9FdY7E"
 
+    - name: "One Piece: Pirate Warriors 3: Deluxe Edition"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+      notes: "some fps drops"
+      verified_status: true
+      verified_url: "https://www.resetera.com/threads/one-piece-pirate-warriors-3-switch-ot-yo-ho-ho-he-took-a-bite-of-switch-cart.11994/"
+
     - name: "One Piece: Unlimited World Red: Deluxe Edition"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
       notes: "some fps drops"
+      verified_status: true
+      verified_url: "https://gamefaqs.gamespot.com/boards/189706-nintendo-switch/75347948"
 
     - name: Othello
       handheld: "720p"
@@ -986,7 +1000,7 @@
       docked: "1080p"
       fps: 60fps
 
-    - name: "Shantea: Half-Genie Hero"
+    - name: "Shantea: Half-Genie Hero (Ultimate Edition)"
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
