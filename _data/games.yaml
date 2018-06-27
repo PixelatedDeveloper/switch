@@ -354,6 +354,11 @@
       handheld: "-"
       docked: "-"
 
+    - name: "Hollow Knight"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: Human Resource Machine
       handheld: "720p"
       docked: "1080p"
