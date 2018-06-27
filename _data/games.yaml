@@ -118,6 +118,11 @@
       docked: "720p"
       fps: 60fps    
 
+    - name: "Darkest Dungeon: Ancestral Edition"
+      handheld: "720p"
+      docked: "720p"
+      fps: 60fps   
+
     - name: "Dark Souls: Remastered"
       handheld: "720p"
       docked: "1080p"
