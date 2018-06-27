@@ -895,6 +895,11 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "Scribblenauts Showdown"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+
     - name: SEVERED
       handheld: "720p"
       docked: "1080p"
