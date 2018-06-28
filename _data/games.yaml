@@ -585,6 +585,12 @@
       docked: "1080p"
       fps: 60fps
 
+    - name: "MotoGP 18"
+      handheld: "360p"
+      docked: "-"
+      fps: "-"
+      notes: "early impressions"
+
     - name: Mr Shifty
       handheld: "720p"
       docked: "1080p"
