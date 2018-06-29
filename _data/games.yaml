@@ -1359,8 +1359,9 @@
 
     - name: "Wolfenstein II: The New Colossus"
       handheld: "-"
-      docked: "-"
+      docked: "720p"
       fps: 30fps
+      dynamic_scaling: true
 
     - name: "Wonder Boy: Dragon's Trap At Will"
       handheld: "720p"
