@@ -164,6 +164,7 @@
       handheld: "720p"
       docked: "1080p"
       fps: 30fps
+      notes: "No fur textures on Switch"
 
     - name: Disgaea 5 Complete
       handheld: "720p"
