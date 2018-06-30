@@ -1359,10 +1359,13 @@
       notes: "Don't buy!"
 
     - name: "Wolfenstein II: The New Colossus"
-      handheld: "-"
-      docked: "720p"
+      handheld: "360-720p"
+      docked: "360-720p"
       fps: 30fps
       dynamic_scaling: true
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=g6b8FUSB89s"
+      notes: "Average resolution lower in handheld, can drop to 25fps in problem areas"
 
     - name: "Wonder Boy: Dragon's Trap At Will"
       handheld: "720p"
