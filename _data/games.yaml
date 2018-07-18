@@ -873,6 +873,14 @@
       verified_status: true
       verified_url: "https://www.youtube.com/watch?v=DEArk9FdY7E"
 
+    - name: "Octopath Traveler"
+      handheld: "576p"
+      docked: "720p"
+      fps: 30fps
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=2jKOJsoVcro"
+      notes: "UI scales up to 720p in handheld, UI is 720p and scales up to 1080p in docked"
+
     - name: "One Piece: Pirate Warriors 3: Deluxe Edition"
       handheld: "720p"
       docked: "1080p"
@@ -994,12 +1002,6 @@
       fps: 30fps
       notes: "Allows setting DoF"
       
-    - name: "Octopath Traveler (Prologue Demo)"
-      handheld: "720p"
-      docked: "720p"
-      fps: 30fps
-      notes: "info based on early demo"
-
     - name: "Pure Chess"
       handheld: "-"
       docked: "1080p"
