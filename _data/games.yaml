@@ -1237,6 +1237,9 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+      notes: "locks to 60fps since the update (July 19th)"
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=E6_SD97H1WQ"
  
     - name: Steamworld Dig
       handheld: "720p"
