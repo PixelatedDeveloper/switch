@@ -1349,6 +1349,15 @@
       verified_status: true
       verified_url: "https://wccftech.com/tiny-metal-runs-native-4k60fps-ps4-pro/"
 
+    - name: "Trails Rising"
+      handheld: "400-720p"
+      docked: "400-720p"
+      fps: 30fps
+      notes: "Has some framepacing issues"
+      dynamic_scaling: true
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=J5wp_24k3Ls"
+
     - name: Troll and I
       handheld: "720p"
       docked: "-"
