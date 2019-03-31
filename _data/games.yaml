@@ -172,6 +172,14 @@
       fps: 60fps
       notes: "Has some small FPS drops"
 
+    - name: "Daemon X Machina (demo)"
+      handheld: "408-720p"
+      docked: "936-1080p"
+      fps: 30fps  
+      dynamic_scaling: true
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=e3TPb-e9wzY"
+
     - name: Dandara
       handheld: "720p"
       docked: "1080p"
@@ -855,6 +863,13 @@
       handheld: "-"
       docked: "-"
 
+    - name: "New Super Mario Bros. U Deluxe"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=kOYRk5U8CVs"
+
     - name: "Night in the Woods"
       handheld: "720p"
       docked: "1080p"
@@ -1273,6 +1288,14 @@
       handheld: "720p"
       docked: "1080p"
       fps: 60fps
+
+    - name: "Super Smash Brothers: Ultimate"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+      dynamic_scaling: false
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=LEZLvXDZOqA"
 
     - name: "The Elder Scrolls V: Skyrim"
       handheld: "896x720p-1280x720p"
