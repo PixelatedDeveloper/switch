@@ -981,6 +981,24 @@
       docked: "720p"
       fps: Unlocked
 
+    - name: "Pokemon: Let's Go Pikachu!"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 30fps
+      dynamic_scaling: no
+      notes: "rare fps drops in portable"
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=_ahNhq2Pj48"
+
+    - name: "Pokemon: Let's Go Eevee!"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 30fps
+      dynamic_scaling: no
+      notes: "rare fps drops in portable"
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=_ahNhq2Pj48"
+
     - name: "Pokemon Quest"
       handheld: "720p"
       docked: "1080p"
