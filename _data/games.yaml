@@ -1244,6 +1244,15 @@
       docked: "-"
       fps: 60fps
 
+    - name: "Super Mario Maker 2"
+      handheld: "720p"
+      docked: "1080p"
+      fps: 60fps
+      dynamic_scaling: true
+      verified_status: true
+      verified_url: "https://www.youtube.com/watch?v=hnvuL1lJFeU"
+      notes: "900p used for newer graphics modes"
+
     - name: Super Mario Odyssee
       handheld: "720p"
       docked: "720p-900p"
