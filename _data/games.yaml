@@ -1434,7 +1434,7 @@
     - name: Vroom in the night sky
       handheld: "-"
       docked: "-"
-      fps: "60fps"
+      fps: 60fps
       notes: "Don't buy!"
 
     - name: "Wolfenstein II: The New Colossus"
