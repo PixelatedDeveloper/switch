@@ -349,12 +349,18 @@
       fps: 60fps
       verified_status: true
       verified_url: "https://twitter.com/TheGameBakers/status/944858083674722304?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E1"
-      notes: "Unstable 60fps, but should impact gameplay according to dev"
+      notes: "Unstable 60fps, but shouldn't impact gameplay according to dev"
 
     - name: "Gal-Gun 2"
       handheld: "720p"
       docked: "1080p"
       fps: "-"
+
+    - name: "Girls und Panzer Dream Tank Match DX"
+      handheld: "720p"
+      docked: "720p"
+      fps: 30fps
+      notes: "1080p main menu and garage in docked. Average is ~25FPS docked, ~23FPS portable. Peaks to 31FPS before settling when recovering from drop."
 
     - name: GoNNER
       handheld: "720p"
@@ -1428,7 +1434,7 @@
     - name: Vroom in the night sky
       handheld: "-"
       docked: "-"
-      fps: "-"
+      fps: "60fps"
       notes: "Don't buy!"
 
     - name: "Wolfenstein II: The New Colossus"
@@ -1446,6 +1452,12 @@
       fps: 60fps
       verified_status: true
       verified_url: "http://www.thedragonstrap.com/blog/post/201701_NintendoSwitch/"
+
+     - name: World of Final Fantasy Maxima
+      handheld: "576p"
+      docked: "900p"
+      fps: 30fps
+      notes: "The 1.01 update fixes the resolution switching between docked and portable"
 
     - name: World of Goo
       handheld: "720p"
