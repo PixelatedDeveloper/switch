@@ -246,6 +246,14 @@
   verified_status: true      
   verified_url: "https://twitter.com/japanese3ds/status/877748333472653313"
 
+- name: "Dragon Quest 11"
+  handheld: "540p"
+  docked: "720p-810p"
+  dynamic_scaling: true
+  fps: 30fps
+  verified_status: true      
+  verified_url: "https://www.youtube.com/watch?v=Qdm4pB-1Dlc"
+
 - name: "Dragon Quest Builders"
   handheld: "720p"
   docked: 720p
