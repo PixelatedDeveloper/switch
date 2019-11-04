@@ -976,6 +976,15 @@
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-overcooked-on-switch-has-big-performance-problems"
   notes: "framerate improved in later patches"
 
+- name: "Overwatch"
+  handheld: "960x720 - 1280x720p"
+  docked: "1152x900 - 1600x900p"
+  fps: 60fps
+  dynamic_scaling: true
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=zgMxk-eIDOM"
+  notes: "Resolution scales horizontally."
+
 - name: "Owlboy"
   handheld: "720p"
   docked: "1080p"
@@ -1378,7 +1387,7 @@
   fps: 30fps
   dynamic_scaling: true
   verified_status: true
-  verified_url: "https://www.youtube.com/watch?v=E8ACeKxJKQk"
+  verified_url: ""
   notes: "Resolutions are based on previews and estimations"
 
 - name: Thumper
