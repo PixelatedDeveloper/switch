@@ -386,6 +386,15 @@
   handheld: "-"
   docked: "-"
 
+- name: Hellblade
+  handheld: "400p-720p"
+  docked: "576p-720p"
+  fps: 30fps
+  dynamic_scaling: true
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=Xb1BGLGS_UY"
+  notes: "Cutscenes are videos instead of realtime. Framepacing is off (might come up as stuttering)."
+
 - name: "Hollow Knight"
   handheld: "720p"
   docked: "1080p"
