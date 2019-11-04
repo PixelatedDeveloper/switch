@@ -1105,6 +1105,24 @@
   handheld: "-"
   docked: "-"
 
+- name: Resident Evil 5
+  handheld: "720p"
+  docked: "1080p"
+  fps: 30fps
+  dynamic_scaling: false
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=SgIUYW3blFE"
+  notes: "Unlocked framerate with big drops (tearing/judder)"
+
+- name: Resident Evil 6
+  handheld: "720p"
+  docked: "1080p"
+  fps: 30fps
+  dynamic_scaling: false
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=SgIUYW3blFE"
+  notes: "Unlocked framerate with big drops (tearing/judder)"
+
 - name: "Resident Evil: Revelations"
   handheld: "720p"
   docked: "1080p"
