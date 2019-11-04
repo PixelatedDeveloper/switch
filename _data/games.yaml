@@ -1228,6 +1228,19 @@
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-snake-pass-on-switch-holds-up-nicely-against-ps4"
 
+- name: Sniper Elite 3
+  handheld: "630p-720p"
+  docked: "720p-918p"
+  fps: 30fps
+  dynamic_scaling: true
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=nh_PpE1BS1A"
+
+- name: Snipperclips
+  handheld: "720p"
+  docked: "1080p"
+  fps: "Unlocked (target 60fps)"
+
 - name: Splatoon 2
   handheld: "538p-720p"
   docked: "720p-1080p"
@@ -1302,11 +1315,6 @@
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-
-- name: Snipperclips
-  handheld: "720p"
-  docked: "1080p"
-  fps: "Unlocked (target 60fps)"
 
 - name: Sonic Forces
   handheld: "720p"
