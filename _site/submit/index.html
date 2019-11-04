@@ -7,15 +7,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Submit form</title>
-  <meta name="description" content="What resolution and fps does this game run at on Switch?!
+  <meta name="description" content="What is the expected performance of this game on the Nintendo Switch?
 ">
 
   <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-  <link href="//cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" rel="stylesheet">
+  <link href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
   <link rel="stylesheet" href="css/main.css">
   <!-- Latest compiled and minified CSS -->
   <link rel="canonical" href="http://localhost:4000/submit/">
-  <link rel="alternate" type="application/rss+xml" title="What spec on Switch?" href="http://localhost:4000/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="How does game X run on the Nintendo Switch?" href="http://localhost:4000/feed.xml">
 </head>
 
 
@@ -23,11 +24,11 @@
 
     <header>
   <img src="images/nintendo_switch_logo.png"  alt="header" class="content-images circle">
-  <p class="sitedescription">This site is a way for Nintendo Switch users to easily find out what games run at what resolution and framerate.</p>  
+  <p class="sitedescription">This site is a way for Nintendo Switch users to check the technical side of the games. <br /> What is the expected resolution/framerate and are there any performance issues.</p>  
   <div class="socialfooter text-center">
-      <a href="https://github.com/boumannm/switch" target="blank"><i class="fab fa-github"></i></a>
+      <a href="https://github.com/boumannm/switch" target="blank"><i class="fab fa-github fa-2x"></i></a>
 
-      <a href="https://twitter.com/boumannm" target="blank"><i class="fab fa-twitter"></i></a>
+      <a href="https://twitter.com/boumannm" target="blank"><i class="fab fa-twitter fa-2x"></i></a>
 
   </div>
 </header>
@@ -52,13 +53,13 @@
     </main>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.16/js/jquery.dataTables.min.js" crossorigin="anonymous"></script>
-<script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js" crossorigin="anonymous"></script>
 <script>
     $(document).ready(function(){
         $('#main-table').dataTable(
             {
-                "pageLength": 50
+                "pageLength": 50,
+                "dom":' <"search"f><"top"l>rt<"top"ip><"clear">'
             }
 
         );
