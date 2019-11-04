@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What spec on Switch?</title>
-    <description>What resolution and fps does this game run at on Switch?!
+    <title>How does game X run on the Nintendo Switch?</title>
+    <description>What is the expected performance of this game on the Nintendo Switch?
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Apr 2018 23:55:35 +0200</pubDate>
-    <lastBuildDate>Wed, 18 Apr 2018 23:55:35 +0200</lastBuildDate>
-    <generator>Jekyll v3.7.3</generator>
+    <pubDate>Mon, 04 Nov 2019 23:12:33 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Nov 2019 23:12:33 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
   </channel>
 </rss>
