@@ -1228,7 +1228,7 @@
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-snake-pass-on-switch-holds-up-nicely-against-ps4"
 
-- name: Sniper Elite 3
+- name: "Sniper Elite 3: Ultimate Edition"
   handheld: "630p-720p"
   docked: "720p-918p"
   fps: 30fps
