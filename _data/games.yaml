@@ -367,6 +367,12 @@
   docked: "1080p"
   fps: 60fps
 
+- name: Grid Autosport
+  handheld: "720p"
+  docked: "1080p"
+  fps: 60fps
+  notes: "Based on the first GRID game. Has high resolution texture pack in e-Shop. Two settings modes - performance (unlocked 60fps) & quality (30fps)"
+
 - name: "Gunbarich"
   handheld: "720p"
   docked: "1080p"
