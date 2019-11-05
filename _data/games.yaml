@@ -45,6 +45,15 @@
   verified_url: "https://www.youtube.com/watch?v=nP3l19Uio1g"
   notes: " 1080p / 60 FPS single-player, 900p / 60 FPS 2-player multiplayer, 900p / 30 FPS, 3-4-player multiplayer"
 
+- name: "Astral Chain"
+  handheld: "720p"
+  docked: "720p-900p"
+  fps: 30fps
+  dynamic_scaling: true
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=gPT652uw1uM"
+  notes: ""
+
 - name: Astro Dual Deluxe
   handheld: "720p"
   docked: "1080p"
