@@ -1407,6 +1407,15 @@
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-zelda-breath-of-the-wild-uses-dynamic-resolution-scaling"
   notes: "FPS drops in Korok forest to ~20FPS"
 
+- name: "The Legend of Zelda: Link's Awakening"
+  handheld: "576p-720p"
+  docked: "720p-1080p"
+  fps: 30fps
+  dynamic_scaling: true
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=KREpHaA0Tbo"
+  notes: ""
+
 - name: "The Witcher 3: Complete Edition"
   handheld: "540p"
   docked: "504p-720p"
