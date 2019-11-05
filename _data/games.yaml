@@ -217,6 +217,15 @@
   docked: 1080p
   fps: 60fps 
 
+- name: "Divinity Original Sin 2"
+  handheld: "495p-648p"
+  docked: "612p-1080p"
+  fps: 30fps
+  dynamic_scaling: true
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=2oxci-dTujo"
+  notes: "Crossplay with PC. Menu's are 900p docked. Big framedrops in certain battles."
+
 - name: "Donkey Kong County: Tropical Freeze"
   handheld: "1152x648"
   docked: "1080p"
