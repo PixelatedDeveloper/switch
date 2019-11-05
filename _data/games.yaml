@@ -1419,7 +1419,7 @@
 - name: "The Legend of Zelda: Link's Awakening"
   handheld: "576p-720p"
   docked: "720p-1080p"
-  fps: 30fps
+  fps: 60fps
   dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=KREpHaA0Tbo"
