@@ -565,6 +565,15 @@
   fps: 30fps
   notes: "Guessing its similar to I Am Setsuna spec"
 
+- name: "Luigi's Mansion 3"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 30fps
+  dynamic_scaling: true
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=xq_ayMLGDNo"
+  notes: "Resolution drop during cutscenes - 1066x600 portable and 1600x900 docked. Slight framepacing/hitching issues."
+
 - name: "Lumines Remastered"
   handheld: "720p"
   docked: "1080p"
