@@ -1084,6 +1084,24 @@
   docked: "1080p"
   fps: 60fps
 
+- name: "Pokemon Shield"
+  handheld: "576p-720p"
+  docked: "864p-1080p"
+  fps: 30fps
+  dynamic_scaling: true
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=czXsJwfjps8"
+  notes: "Running into wild Pokemon dips framerate."
+
+- name: "Pokemon Sword"
+  handheld: "576p-720p"
+  docked: "864p-1080p"
+  fps: 30fps
+  dynamic_scaling: true
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=czXsJwfjps8"
+  notes: "Running into wild Pokemon dips framerate."
+
 - name: "Pokken Tournament"
   handheld: "960x720p"
   docked: "720p"
