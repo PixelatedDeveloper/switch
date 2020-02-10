@@ -1010,7 +1010,7 @@
   dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=zgMxk-eIDOM"
-  notes: "Resolution scales horizontally."
+  notes: "Resolution scales horizontally. FPS can drop to 20s."
 
 - name: "Owlboy"
   handheld: "720p"
