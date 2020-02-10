@@ -593,7 +593,7 @@
   fps: 60fps
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-mario-kart-8-deluxe-tech-analysis"
-  notes: "30fps in 3-4 player mode"
+  notes: "30fps in 3-4 player mode (HUD still 60)."
 
 - name: "Mario Tennis: Aces"
   handheld: "720p"
@@ -1311,7 +1311,7 @@
   dynamic_scaling: true
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-how-does-splatoon-2-tech-improve-over-wii-u"
-  notes: "Docked can drop to 720p, handheld drop to 964x538"
+  notes: "Docked can drop to 720p, handheld drop to 964x538."
 
 - name: Stardew Valley
   handheld: "720p"
