@@ -1006,7 +1006,7 @@
 - name: "Overwatch"
   handheld: "960x720 - 1280x720p"
   docked: "1152x900 - 1600x900p"
-  fps: 60fps
+  fps: 30fps
   dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=zgMxk-eIDOM"
@@ -1106,6 +1106,7 @@
   handheld: "960x720p"
   docked: "720p"
   fps: 60fps
+  notes: "30fps in 3-4 player mode (HUD still 60)."
 
 - name: "Poly Bridge"
   handheld: "720p"
