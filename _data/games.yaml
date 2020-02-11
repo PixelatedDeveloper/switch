@@ -1107,7 +1107,7 @@
   handheld: "960x720p"
   docked: "720p"
   fps: 60fps
-  notes: "30fps in 2 player mode (HUD still 60)."
+  notes: "30fps in 2 player mode (HUD still 60). Has 2 player splitscreen mode."
 
 - name: "Poly Bridge"
   handheld: "720p"
