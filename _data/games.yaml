@@ -324,7 +324,7 @@
   fps: 60fps
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/2017-06-10-fifa-18-on-switch-wont-have-the-journey-but-does-get-fut-and-co-op-seasons" 
-  notes: "Menu and cutscenes (celebrations and such) are 30fps. Game is based on PS3/X360 version."
+  notes: "Pause Menu and the Outfit Kit Selection Menu are 30fps. Game is based on PS3/X360 version."
 
 - name: Fire Emblem Warriors
   handheld: "720p"
