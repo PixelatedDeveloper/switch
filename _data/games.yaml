@@ -638,8 +638,8 @@
 - name: "Minecraft: Story Mode"
   handheld: "648p"
   docked: "900p"
-  fps: 60fps
-  notes: "Estimated"
+  fps: 30fps
+  notes: ""
 
 - name: "Monopoly for Switch"
   handheld: "720p"
