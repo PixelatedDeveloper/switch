@@ -1,6 +1,6 @@
 ---
 name: Add a game
-about: Add specs to a new game
+about: Add a new game to the database
 title: "[GAME]"
 labels: GAME
 assignees: boumannm
