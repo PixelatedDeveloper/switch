@@ -1,7 +1,7 @@
 ---
 name: Mistake report
 about: Report a game specification mistake
-title: "[UPDATE]"
+title: "🐛"
 labels: UPDATE
 assignees: boumannm
 
