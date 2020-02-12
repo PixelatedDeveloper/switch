@@ -1,7 +1,7 @@
 ---
 name: Add a game
 about: Add a new game to the database
-title: "[GAME]"
+title: "🎮"
 labels: GAME
 assignees: boumannm
 
