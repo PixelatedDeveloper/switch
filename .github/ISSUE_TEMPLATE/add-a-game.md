@@ -7,10 +7,6 @@ assignees: boumannm
 
 ---
 
-# Complete format
-
-The complete format with all in place should look like:
-
 - name: Random Game
   handheld: "600p-720p"
   docked: "1080p"
