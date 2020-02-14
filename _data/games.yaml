@@ -617,6 +617,15 @@
   docked: "1080p"
   fps: 60fps
 
+- name: "Metro Redux"
+  handheld: "480-720p"
+  docked: "720p"
+  fps: 30fps
+  dynamic_scaling: true
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=CXP3t3uPeTE"
+  notes: "Includes Metro 2033 Redux and Metro Last Light Redux. Temporal AA solution to upscale 720p -> 1080p."
+
 - name: "Mighty Gunvolt Burst"
   handheld: "720p"
   docked: "1080p"
