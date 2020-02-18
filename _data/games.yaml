@@ -1544,6 +1544,11 @@
   verified_status: true
   verified_url: "https://wccftech.com/tiny-metal-runs-native-4k60fps-ps4-pro/"
 
+- name: "Tokyo Mirage Sessions #FE Encore"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 30fps
+
 - name: "Trails Rising"
   handheld: "400-720p"
   docked: "400-720p"
