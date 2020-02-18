@@ -260,6 +260,11 @@
   verified_status: true      
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-dooms-impossible-switch-port-analysed"
 
+- name: "DOOM 64"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 60fps
+
 - name: "Dragonball: Xenoverse 2"
   handheld: "Dynamic"
   docked: "900p"
