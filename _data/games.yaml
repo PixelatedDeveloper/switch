@@ -221,6 +221,11 @@
   docked: "1080p"
   fps: 60fps
 
+- name: "Devil May Cry 3: Special Edition"
+  handheld: "720p"
+  docked: 1080p
+  fps: 60fps 
+
 - name: "Disc Jam"
   handheld: "720p"
   docked: 1080p
