@@ -1603,6 +1603,11 @@
   docked: "1080p"
   fps: "-"
 
+- name: "Warriors Orochi 4 Ultimate"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "-"
+
 - name: "Wolfenstein II: The New Colossus"
   handheld: "360-720p"
   docked: "360-720p"
