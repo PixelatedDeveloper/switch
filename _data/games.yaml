@@ -202,6 +202,16 @@
 - name: "Darkest Dungeon: Ancestral Edition"
   handheld: "720p"
   docked: "720p"
+  fps: 60fps
+
+- name: Darksiders Genesis
+  handheld: "720p"
+  docked: "1080p"
+  fps: 60fps    
+
+- name: Darksiders Warmastered Edition
+  handheld: "720p"
+  docked: "720p"
   fps: 60fps   
 
 - name: "Dark Souls: Remastered"
