@@ -1514,6 +1514,11 @@
   verified_url: ""
   notes: "Resolutions are based on previews and estimations"
 
+- name: "Thronebreaker: The Witcher Tales"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 60fps
+
 - name: Thumper
   handheld: "720p"
   docked: "1080p"
