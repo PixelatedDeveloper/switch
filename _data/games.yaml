@@ -1526,6 +1526,11 @@
   docked: "1080p"
   fps: 60fps
 
+- name: "Two Point Hospital"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 60fps
+
 - name: "Unboxed: Newbieś Adventure"
   handheld: "720p"
   docked: "768p"
