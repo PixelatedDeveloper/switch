@@ -212,7 +212,10 @@
 - name: Darksiders Warmastered Edition
   handheld: "720p"
   docked: "720p"
-  fps: 60fps   
+  fps: 60fps
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=PTF0ZvWraMA"
+  notes: "Has a performance and quality mode (HUD is tied to this resolution). Docked 1080p30 (quality) & 810p unlocked fps (performance), portable 720p30 (quality) 540p unlocked (performance)."
 
 - name: "Dark Souls: Remastered"
   handheld: "720p"
