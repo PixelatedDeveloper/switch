@@ -622,6 +622,11 @@
   docked: "1080p"
   fps: 60fps
 
+- name: "Mega Man Zero/ZX Legacy Collection"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 60fps
+
 - name: "Metro Redux"
   handheld: "480-720p"
   docked: "720p"
