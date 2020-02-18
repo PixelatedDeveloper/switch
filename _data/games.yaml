@@ -1505,6 +1505,11 @@
   verified_url: "https://www.youtube.com/watch?v=KREpHaA0Tbo"
   notes: ""
 
+- name: "The Walking Dead: The Telltale Series - A new frontier"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 30fps
+
 - name: "The Walking Dead: Season 2 - A Telltale Game Series"
   handheld: "720p"
   docked: "1080p"
