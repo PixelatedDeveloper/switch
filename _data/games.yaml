@@ -236,8 +236,11 @@
 
 - name: "Devil May Cry 3: Special Edition"
   handheld: "720p"
-  docked: 1080p
+  docked: "1080p"
   fps: 60fps 
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=yw82bPL9k8U"
+  notes: "30fps in cutscenes. 4:3 aspect ratio customizer. Some SD-quality cutscenes. Includes 2 player support (Co-Op) and a freestyle mode in single player."
 
 - name: "Disc Jam"
   handheld: "720p"
