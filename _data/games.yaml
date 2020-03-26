@@ -4,6 +4,14 @@
   fps: 60fps
   verified_status: true
 
+- name: "Animal Crossing New Horizons"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 30fps
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=Iw5epbkgSQM"
+  notes: ""
+
 - name: "Arcade Archives: Crazy Climber"
   handheld: "-"
   docked: "-"
