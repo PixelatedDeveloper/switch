@@ -248,10 +248,6 @@
   background-color: #1976d2 !important;
 }
 
-.navbar-header {
-    height: 75px;
-}
-
 .navbar-nav {
   float:right !important;
 }
@@ -310,6 +306,10 @@ ul li {
     font-size: 24px;
     /* bottom: 0; */
     position: relative;
+    height: 75px;
+    float:none;
+    padding:10px;
+    top:0;
 }
 
 .fa {
@@ -390,11 +390,6 @@ h4.title a {
   color: black;
 }
 
-.navbar-header {
- 	float:none;
-    padding:10px;
-    top:0;
-}
 .navbar-brand {
     font-size:20pt;
     float:none;
