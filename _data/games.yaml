@@ -192,7 +192,7 @@
 - name: "Daemon X Machina (demo)"
   handheld: "408-720p"
   docked: "936-1080p"
-  fps: 30fps  
+  fps: 30fps
   dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=e3TPb-e9wzY"
@@ -228,7 +228,7 @@
 - name: "Dark Souls: Remastered"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps  
+  fps: 30fps
   verified_status: true
   verified_url: "https://www.usgamer.net/articles/17-04-2018-dark-souls-remastered-switch-ps4-xbox-one-pc-release-date-enhancements-features-everything-we-know"
 
@@ -315,7 +315,7 @@
 - name: "Dragon Quest Heroes I+II"
   handheld: "720p"
   docked: 1080p
-  fps: 30fps 
+  fps: 30fps
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-dragon-quest-heroes-2-switch-vs-ps4-comparison"
   notes: "Can drop to 20fps"
@@ -1236,7 +1236,7 @@
 - name: RIME
   handheld: "-"
   docked: "720p"
-  fps: 30fps target
+  fps: 30fps
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/2017-11-14-rime-developer-addresses-switch-performance-issues"
   notes: "Recent patch updates performance/graphics; still no locked 30fps at all times"
@@ -1669,7 +1669,7 @@
 - name: WWE 2K18
   handheld: "720p"
   docked: "540p-720p"
-  fps: 30fps target
+  fps: 30fps
   dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-is-wwe-2k18-the-worst-game-on-switch"
