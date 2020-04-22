@@ -1167,7 +1167,7 @@
   docked: "1080p"
   fps: 30fps
   notes: "Allows setting DoF"
-  
+
 - name: "Pure Chess"
   handheld: "-"
   docked: "1080p"
