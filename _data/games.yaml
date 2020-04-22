@@ -51,7 +51,7 @@
   fps: 60fps
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=nP3l19Uio1g"
-  notes: " 1080p / 60 FPS single-player, 900p / 60 FPS 2-player multiplayer, 900p / 30 FPS, 3-4-player multiplayer (HUD still 60fps)."
+  notes: "1080p / 60 FPS single-player, 900p / 60 FPS 2-player multiplayer, 900p / 30 FPS, 3-4-player multiplayer (HUD still 60fps)."
 
 - name: "Astral Chain"
   handheld: "720p"
@@ -763,7 +763,7 @@
 
 - name: NBA 2K18
   handheld: "720p"
-  docked: "720p"  
+  docked: "720p"
   fps: 30fps
   verified_status: true
   verified_url: "https://nintendoeverything.com/nba-2k18-for-switch-has-same-content-and-modes-as-ps4-version-amiibo-support-confirmed/"
@@ -926,7 +926,7 @@
 
 - name: Neo Geo The King of Fighters '96
   handheld: "-"
-  docked: "-"      
+  docked: "-"
 
 - name: Neo Geo The King of Fighters '98
   handheld: "-"
