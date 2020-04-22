@@ -205,7 +205,7 @@
 - name: Darkest Dungeon
   handheld: "720p"
   docked: "720p"
-  fps: 60fps    
+  fps: 60fps
 
 - name: "Darkest Dungeon: Ancestral Edition"
   handheld: "720p"
@@ -215,7 +215,7 @@
 - name: Darksiders Genesis
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps    
+  fps: 60fps
 
 - name: Darksiders Warmastered Edition
   handheld: "720p"
@@ -245,7 +245,7 @@
 - name: "Devil May Cry 3: Special Edition"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps 
+  fps: 60fps
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=yw82bPL9k8U"
   notes: "30fps in cutscenes. 4:3 aspect ratio customizer. Some SD-quality cutscenes. Includes 2 player support (Co-Op) and a freestyle mode in single player."
@@ -253,7 +253,7 @@
 - name: "Disc Jam"
   handheld: "720p"
   docked: 1080p
-  fps: 60fps 
+  fps: 60fps
 
 - name: "Divinity Original Sin 2"
   handheld: "495p-648p"
@@ -357,7 +357,7 @@
   docked: "1080p"
   fps: 60fps
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/2017-06-10-fifa-18-on-switch-wont-have-the-journey-but-does-get-fut-and-co-op-seasons" 
+  verified_url: "http://www.eurogamer.net/articles/2017-06-10-fifa-18-on-switch-wont-have-the-journey-but-does-get-fut-and-co-op-seasons"
   notes: "Pause Menu, Outfit Kit Selection Menu and match cutscenes are 30fps. Game is based on PS3/X360 version."
 
 - name: Fire Emblem Warriors
