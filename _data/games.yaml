@@ -82,7 +82,7 @@
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-  verified_status: true 
+  verified_status: true
   verified_url: "https://www.nintendo.com/games/detail/azure-striker-gunvolt-striker-pack-switch"
 
 - name: "Battle Chasers: Nightwar"
@@ -110,7 +110,7 @@
   handheld: "1200x720"
   docked: "1800x1080"
   fps: 60fps
-  verified_status: true      
+  verified_status: true
   verified_url: "https://www.youtube.com/watch?v=X4sGoZEQPlU"
   notes: "Scales using 400x240 res"
 
@@ -281,7 +281,7 @@
   docked: "576-720p"
   dynamic_scaling: true
   fps: 30fps
-  verified_status: true      
+  verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-dooms-impossible-switch-port-analysed"
 
 - name: "DOOM 64"
@@ -295,7 +295,7 @@
   fps: 60fps
   dynamic_scaling: true
   notes: "60fps 1v1, 30fps 2v2+"
-  verified_status: true      
+  verified_status: true
   verified_url: "https://twitter.com/japanese3ds/status/877748333472653313"
 
 - name: "Dragon Quest 11"
@@ -303,7 +303,7 @@
   docked: "720p-810p"
   dynamic_scaling: true
   fps: 30fps
-  verified_status: true      
+  verified_status: true
   verified_url: "https://www.youtube.com/watch?v=Qdm4pB-1Dlc"
 
 - name: "Dragon Quest Builders"
@@ -316,7 +316,7 @@
   handheld: "720p"
   docked: 1080p
   fps: 30fps 
-  verified_status: true      
+  verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-dragon-quest-heroes-2-switch-vs-ps4-comparison"
   notes: "Can drop to 20fps"
 
@@ -334,7 +334,7 @@
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-  verified_status: true      
+  verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-fast-rmx-showcases-switches-power-over-wii-u"
 
 - name: "Fate/EXTELLA: The Umbral Star"
@@ -1293,7 +1293,7 @@
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-  verified_status: true 
+  verified_status: true
   verified_url: "https://www.redvaluegaming.com/reviews/shantae-half-genie-hero"
 
 - name: "Shaq-Fu: a Legend Reborn"
@@ -1309,14 +1309,14 @@
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-  verified_status: true 
+  verified_status: true
   verified_url: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
 - name: "Shovel Knight: Treasure Trove"
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-  verified_status: true 
+  verified_status: true
   verified_url: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
 - name: Skies of Fury DX
