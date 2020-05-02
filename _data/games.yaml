@@ -183,6 +183,13 @@
   fps: 30fps
   notes: "No fur textures on Switch"
 
+- name: "Cuphead"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 60fps
+  verified_status: true
+  verified_url: "https://gadgets.ndtv.com/games/news/cuphead-nintendo-switch-release-date-2010915"
+
 - name: Disgaea 5 Complete
   handheld: "720p"
   docked: "720p"
@@ -641,6 +648,13 @@
   docked: "720p"
   fps: 30fps
 
+- name: "Mega Man 11"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 60fps
+  verified_status: true
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-mega-man-11-is-capcoms-sonic-mania-moment"
+
 - name: "Mega Man Legacy Collection"
   handheld: "720p"
   docked: "1080p"
@@ -968,6 +982,13 @@
   handheld: "-"
   docked: "-"
 
+- name: "New Super Lucky's Tale"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 30fps
+  verified_status: true
+  verified_url: "https://contranetwork.it/?p=4588"
+
 - name: "New Super Mario Bros. U Deluxe"
   handheld: "720p"
   docked: "1080p"
@@ -1016,6 +1037,13 @@
   notes: "some fps drops"
   verified_status: true
   verified_url: "https://gamefaqs.gamespot.com/boards/189706-nintendo-switch/75347948"
+
+- name: "Ori and the Blind Forest"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 60fps
+  verified_status: true
+  verified_url: "https://nintendoeverything.com/ori-and-the-blind-forest-switch-details-resolution-frame-rate-xbox-live-achievements-more/"
 
 - name: Othello
   handheld: "720p"
@@ -1695,6 +1723,21 @@
   fps: 30fps
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-yooka-laylee-switch-port-analysis"
+
+- name: "Yooka-Laylee and the Impossible Lair"
+  handheld: "540p"
+  docked: "765p"
+  fps: 60fps
+  notes: "some fps drops below 60"
+  verified_status: true
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2019-yooka-laylee-2-impossible-lair-switch-scales-up-beautifully"
+
+- name: "Yoshi's Crafted World"
+  handheld: "396p-495p"
+  docked: "576p-675p"
+  fps: 60fps
+  verified_status: true
+  verified_url: "https://nintendoeverything.com/yoshis-crafted-world-tech-analysis/"
 
 - name: "Ys VIII: Lacrimosa of DANA"
   handheld: "-"
