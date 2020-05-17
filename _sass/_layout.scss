@@ -261,7 +261,12 @@ a {
   text-decoration: underline !important;
 }
 
-.navbar-brand, .site-title, .page-link{
+.navbar-brand {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+.site-title, .page-link{
 color:white !important;
 }
 
@@ -381,11 +386,6 @@ h4.title {
 
 h4.title a {
   color: black;
-}
-
-.navbar-brand {
-    font-size:20pt;
-    float:none;
 }
 
 #nav-mobile > li > a, #nav-mobile > li > a:hover {
