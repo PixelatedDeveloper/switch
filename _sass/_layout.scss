@@ -167,136 +167,6 @@
 }
 
 
-/**
- * Page content
- */
-.page-content {
-    padding: $spacing-unit 0;
-}
-
-.page-heading {
-    font-size: 20px;
-}
-
-.post-list {
-    margin-left: 0;
-    list-style: none;
-
-    > li {
-        margin-bottom: $spacing-unit;
-    }
-}
-
-.post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
-}
-
-.post-link {
-    display: block;
-    font-size: 24px;
-}
-
-
-
-/**
- * Posts
- */
-.post-header {
-    margin-bottom: $spacing-unit;
-}
-
-.post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
-
-    @include media-query($on-laptop) {
-        font-size: 36px;
-    }
-}
-
-.post-content {
-    margin-bottom: $spacing-unit;
-
-    h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
-    }
-}
-
-.navbar-default {
-  background-color: #1976d2 !important;
-}
-
-.navbar-nav {
-  float:right !important;
-}
-
-.navbar-default .navbar-nav > li > a {
-  color: white !important;
-}
-
-a {
-  color:black;
-  text-decoration: underline !important;
-}
-
-.navbar-brand {
-  color: black !important;
-  text-decoration: none !important;
-}
-
-.site-title, .page-link{
-color:white !important;
-}
-
-.icon-div {
-  width: 100%;
-}
-
-.platform-icons {
-  text-align:right;
-}
-
-.card {
-  padding: 10px !important;
-}
-
-p.titlecss {
-  font-size:18px;
-  white-space: nowrap;
-overflow: hidden;
-text-overflow: ellipsis;
-}
-
-table a, .article a {
-  color: black !important;
-}
-
-a:hover {
-  color: #1976d2 !important;
-}
-
 tr {
   margin:20px;
   border-bottom: 1px solid #ebebeb;
@@ -306,60 +176,14 @@ ul li {
   list-style-type: none;
 }
 
-.navbar-header {
-    color: white;
-    font-size: 24px;
-    /* bottom: 0; */
-    position: relative;
-    height: 75px;
-    float:none;
-    padding:10px;
-    top:0;
-}
-
 .fa {
   margin-left:5px;
   margin-right:5px;
 }
 
-.platforms {
-  margin-top: 10px;
-  margin-left: 10px;
-}
-
-.article {
-  border: 1px solid #ebebeb;
-}
-
-.info {
-  border-top: 1px solid #ebebeb;
-  padding: 10px;
-}
-
- @include media-query($on-palm) {
-     .navbar-nav {
-         display:none !important;
-    }
- }
-
- @include media-query($on-laptop) {
-     .navbar-nav {
-         display:none !important;
-    }
- }
-
-
 /* Custom page CSS
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
-
-h4.title {
-  font-size: 24px;
-}
-
-h4.title a {
-  color: black;
-}
 
 .logo {
   width: auto;
