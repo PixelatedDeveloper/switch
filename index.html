@@ -30,7 +30,7 @@ layout: default
                     <td>{% if entry.dynamic_scaling == true %} <i class="fas fa-check"></i>  {% else %} <i class="fas fa-times"></i> {% endif %}</td>
                     <td>{{ entry.fps }}</td>
                     <td>{% if entry.verified_status == true %}<i class="fas fa-check"></i> <a href='{{ entry.verified_url }}' target='_blank'><i class="fas fa-external-link-alt"></i></a> {% else %} <i class="fas fa-times"></i> {% endif %}</td>
-                    <td>{% if entry.notes %} {{ entry.notes }} {% endif %}</td>
+                    <td class="d-none d-sm-none d-md-block">{% if entry.notes %} {{ entry.notes }} {% endif %}</td>
                     
                   </tr>
             {% endfor %}
