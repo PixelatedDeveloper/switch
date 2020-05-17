@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: How does game X run on the Nintendo Switch?
+title: Canitia's HowOnSwitch
 description: > # this means to ignore newlines until "baseurl:"
   What is the expected performance of this game on the Nintendo Switch? What resolution? How much FPS?
 baseurl: "" # the subpath of your site, e.g. /blog
