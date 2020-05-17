@@ -51,7 +51,7 @@
   fps: 60fps
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=nP3l19Uio1g"
-  notes: " 1080p / 60 FPS single-player, 900p / 60 FPS 2-player multiplayer, 900p / 30 FPS, 3-4-player multiplayer (HUD still 60fps)."
+  notes: "1080p / 60 FPS single-player, 900p / 60 FPS 2-player multiplayer, 900p / 30 FPS, 3-4-player multiplayer (HUD still 60fps)."
 
 - name: "Astral Chain"
   handheld: "720p"
@@ -82,7 +82,7 @@
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-  verified_status: true 
+  verified_status: true
   verified_url: "https://www.nintendo.com/games/detail/azure-striker-gunvolt-striker-pack-switch"
 
 - name: "Battle Chasers: Nightwar"
@@ -110,7 +110,7 @@
   handheld: "1200x720"
   docked: "1800x1080"
   fps: 60fps
-  verified_status: true      
+  verified_status: true
   verified_url: "https://www.youtube.com/watch?v=X4sGoZEQPlU"
   notes: "Scales using 400x240 res"
 
@@ -192,7 +192,7 @@
 - name: "Daemon X Machina (demo)"
   handheld: "408-720p"
   docked: "936-1080p"
-  fps: 30fps  
+  fps: 30fps
   dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=e3TPb-e9wzY"
@@ -205,7 +205,7 @@
 - name: Darkest Dungeon
   handheld: "720p"
   docked: "720p"
-  fps: 60fps    
+  fps: 60fps
 
 - name: "Darkest Dungeon: Ancestral Edition"
   handheld: "720p"
@@ -215,7 +215,7 @@
 - name: Darksiders Genesis
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps    
+  fps: 60fps
 
 - name: Darksiders Warmastered Edition
   handheld: "720p"
@@ -228,7 +228,7 @@
 - name: "Dark Souls: Remastered"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps  
+  fps: 30fps
   verified_status: true
   verified_url: "https://www.usgamer.net/articles/17-04-2018-dark-souls-remastered-switch-ps4-xbox-one-pc-release-date-enhancements-features-everything-we-know"
 
@@ -245,7 +245,7 @@
 - name: "Devil May Cry 3: Special Edition"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps 
+  fps: 60fps
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=yw82bPL9k8U"
   notes: "30fps in cutscenes. 4:3 aspect ratio customizer. Some SD-quality cutscenes. Includes 2 player support (Co-Op) and a freestyle mode in single player."
@@ -253,7 +253,7 @@
 - name: "Disc Jam"
   handheld: "720p"
   docked: 1080p
-  fps: 60fps 
+  fps: 60fps
 
 - name: "Divinity Original Sin 2"
   handheld: "495p-648p"
@@ -281,7 +281,7 @@
   docked: "576-720p"
   dynamic_scaling: true
   fps: 30fps
-  verified_status: true      
+  verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-dooms-impossible-switch-port-analysed"
 
 - name: "DOOM 64"
@@ -295,7 +295,7 @@
   fps: 60fps
   dynamic_scaling: true
   notes: "60fps 1v1, 30fps 2v2+"
-  verified_status: true      
+  verified_status: true
   verified_url: "https://twitter.com/japanese3ds/status/877748333472653313"
 
 - name: "Dragon Quest 11"
@@ -303,7 +303,7 @@
   docked: "720p-810p"
   dynamic_scaling: true
   fps: 30fps
-  verified_status: true      
+  verified_status: true
   verified_url: "https://www.youtube.com/watch?v=Qdm4pB-1Dlc"
 
 - name: "Dragon Quest Builders"
@@ -315,8 +315,8 @@
 - name: "Dragon Quest Heroes I+II"
   handheld: "720p"
   docked: 1080p
-  fps: 30fps 
-  verified_status: true      
+  fps: 30fps
+  verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-dragon-quest-heroes-2-switch-vs-ps4-comparison"
   notes: "Can drop to 20fps"
 
@@ -334,7 +334,7 @@
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-  verified_status: true      
+  verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-fast-rmx-showcases-switches-power-over-wii-u"
 
 - name: "Fate/EXTELLA: The Umbral Star"
@@ -357,7 +357,7 @@
   docked: "1080p"
   fps: 60fps
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/2017-06-10-fifa-18-on-switch-wont-have-the-journey-but-does-get-fut-and-co-op-seasons" 
+  verified_url: "http://www.eurogamer.net/articles/2017-06-10-fifa-18-on-switch-wont-have-the-journey-but-does-get-fut-and-co-op-seasons"
   notes: "Pause Menu, Outfit Kit Selection Menu and match cutscenes are 30fps. Game is based on PS3/X360 version."
 
 - name: Fire Emblem Warriors
@@ -772,7 +772,7 @@
 
 - name: NBA 2K18
   handheld: "720p"
-  docked: "720p"  
+  docked: "720p"
   fps: 30fps
   verified_status: true
   verified_url: "https://nintendoeverything.com/nba-2k18-for-switch-has-same-content-and-modes-as-ps4-version-amiibo-support-confirmed/"
@@ -935,7 +935,7 @@
 
 - name: Neo Geo The King of Fighters '96
   handheld: "-"
-  docked: "-"      
+  docked: "-"
 
 - name: Neo Geo The King of Fighters '98
   handheld: "-"
@@ -1176,7 +1176,7 @@
   docked: "1080p"
   fps: 30fps
   notes: "Allows setting DoF"
-  
+
 - name: "Pure Chess"
   handheld: "-"
   docked: "1080p"
@@ -1245,7 +1245,7 @@
 - name: RIME
   handheld: "-"
   docked: "720p"
-  fps: 30fps target
+  fps: 30fps
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/2017-11-14-rime-developer-addresses-switch-performance-issues"
   notes: "Recent patch updates performance/graphics; still no locked 30fps at all times"
@@ -1302,7 +1302,7 @@
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-  verified_status: true 
+  verified_status: true
   verified_url: "https://www.redvaluegaming.com/reviews/shantae-half-genie-hero"
 
 - name: "Shaq-Fu: a Legend Reborn"
@@ -1318,14 +1318,14 @@
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-  verified_status: true 
+  verified_status: true
   verified_url: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
 - name: "Shovel Knight: Treasure Trove"
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-  verified_status: true 
+  verified_status: true
   verified_url: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
 - name: Skies of Fury DX
@@ -1678,7 +1678,7 @@
 - name: WWE 2K18
   handheld: "720p"
   docked: "540p-720p"
-  fps: 30fps target
+  fps: 30fps
   dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-is-wwe-2k18-the-worst-game-on-switch"
