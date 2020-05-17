@@ -10,10 +10,9 @@ layout: default
           <thead>
             <tr>
                 <th data-field="name">Name</th>
-                <th data-field="handheld">HH</th>
-                <th data-field="docked">D</th>
+                <th data-field="handheld">Handheld</th>
+                <th data-field="docked">Docked</th>
                 <th data-field="fps">FPS</th>
-                <th data-field="verified_status">Verified</th>
                 <th class="d-none d-sm-none d-md-block" data-field="notes">Notes</th>
               </tr>
             </thead>
@@ -21,11 +20,10 @@ layout: default
             <tbody>
               {% for entry in site.data.games %}
                   <tr>
-                    <td>{{ entry.name }}</td>
+                    <td>{{ entry.name }} {% if entry.verified_status == true %}<a href='{{ entry.verified_url }}' target='_blank' title="External verification link"><i class="fas fa-check"></i></a>{% endif %}</td>
                     <td>{{ entry.handheld }}</td>
                     <td>{{ entry.docked }}</td>
                     <td>{{ entry.fps }}</td>
-                    <td>{% if entry.verified_status == true %}<i class="fas fa-check"></i> <a href='{{ entry.verified_url }}' target='_blank'><i class="fas fa-external-link-alt"></i></a> {% else %} <i class="fas fa-times"></i> {% endif %}</td>
                     <td class="d-none d-sm-none d-md-block">{% if entry.notes %}{{ entry.notes }}{% endif %}</td>
                     
                   </tr>
