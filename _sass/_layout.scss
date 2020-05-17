@@ -248,10 +248,6 @@
   background-color: #1976d2 !important;
 }
 
-.navbar-header {
-    height: 75px;
-}
-
 .navbar-nav {
   float:right !important;
 }
@@ -310,6 +306,10 @@ ul li {
     font-size: 24px;
     /* bottom: 0; */
     position: relative;
+    height: 75px;
+    float:none;
+    padding:10px;
+    top:0;
 }
 
 .fa {
@@ -341,13 +341,6 @@ ul li {
      .navbar-nav {
          display:none !important;
     }
-
-
-    .navbar-nav {
-      margin-top:20px !important;
-      float:right !important;
-    }
-
  }
 
 
@@ -382,10 +375,6 @@ ul li {
   padding-right: 15px;
 }
 
-h1 {
-  font-size: 30px !important;
-}
-
 h4.title {
   font-size: 24px;
 }
@@ -394,11 +383,6 @@ h4.title a {
   color: black;
 }
 
-.navbar-header {
- 	float:none;
-    padding:10px;
-    top:0;
-}
 .navbar-brand {
     font-size:20pt;
     float:none;
@@ -419,10 +403,6 @@ h4.title a {
 }
 #bottomNav a:hover {
     color:#fff;
-}
-
-main {
-   background-color:lightgrey;
 }
 
 .logo {
@@ -452,7 +432,7 @@ html body{
 
 body {
   background-color: white;
-  margin: 0px;
+  margin: 0;
 }
 
 strong {
@@ -515,8 +495,7 @@ td {
   border-bottom: 1px dotted grey;
 }
 
-main
-{
+main {
   background-color: white;
   margin-bottom:-15px;
   margin-top: -7px;
@@ -622,7 +601,6 @@ footer .blogdescription {
 
 .socialfooter a i {
     color: #fff;
-    border-radius: 20px;
     font-size: 25px;
     text-align: center;
     margin-right: 10px;
@@ -642,7 +620,7 @@ footer .blogdescription {
   padding-left: 35px;
   padding-right:35px;
   padding-top: 10px;
-  padding-bottom:0px;
+  padding-bottom: 0;
   margin-left: auto;
   margin-right: auto;
   margin-top:30px !important;
@@ -717,7 +695,7 @@ img.userprofileimages:hover {
 }
 
 nav {
-  box-shadow: 0px !important;
+  box-shadow: 0 !important;
 }
 
 /* icons on table*/
