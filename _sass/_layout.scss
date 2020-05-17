@@ -172,19 +172,6 @@ tr {
   border-bottom: 1px solid #ebebeb;
 }
 
-ul li {
-  list-style-type: none;
-}
-
-.fa {
-  margin-left:5px;
-  margin-right:5px;
-}
-
-/* Custom page CSS
--------------------------------------------------- */
-/* Not required for template or sticky footer method. */
-
 .logo {
   width: auto;
   max-height: 100px;
@@ -199,7 +186,6 @@ input.search {
   margin-bottom:20px !important;
 }
 
-/* new CSS copied from michaelboumann.info */
 /* **************************************
 
   General settings
@@ -295,31 +281,6 @@ header {
   background-color: #D20014 !important;
   padding-bottom:35px;
   width: 100%;
-}
-
-.tabs .tab a:hover, .tabs .tab a.active {
-  color: white !important;
-}
-
-.tabs .tab a {
-  color: white !important;
-}
-
-header > div.col.s12 > ul > li > a:hover {
-  border-bottom: 2px solid white;
-}
-
-.tabs .indicator {
-    background-color: white !important;
-}
-
-.tabs {
-  background-color: #D20014;
-}
-
-.language-nav {
-  position: absolute;
-  right: 0;
 }
 
 /* **************************************
