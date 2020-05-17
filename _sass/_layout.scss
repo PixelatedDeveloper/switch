@@ -485,6 +485,19 @@ a i {
 }
 
 
+@media only screen and (max-width: 576px) { 
+  
+  body {
+    font-size: 14px !important;
+  }
+
+  #items {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+
 /* medium width devices */
 @media only screen and (max-width: 770px) {
 
@@ -505,4 +518,9 @@ a i {
     	font-weight: 500;
     	line-height: 26.3999996185303px;
     }
+    
   }
+
+
+
+
