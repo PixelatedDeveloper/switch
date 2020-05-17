@@ -10,7 +10,6 @@
   fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=Iw5epbkgSQM"
-  notes: ""
 
 - name: "Arcade Archives: Crazy Climber"
   handheld: "-"
@@ -59,7 +58,6 @@
   fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=gPT652uw1uM"
-  notes: ""
 
 - name: Astro Dual Deluxe
   handheld: "720p"
@@ -74,7 +72,7 @@
 - name: "Attelier Lydie & Suelle: The Alchemists and the Mysterious Paintings"
   handheld: "-"
   docked: "720p"
-  fps: ""30""
+  fps: "30"
   notes: "1.0.4 performance patch"
 
 - name: "Azure Striker Gunvolt: Striker Pack"
@@ -95,7 +93,7 @@
   fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=R_M0gX0GE0o"
-  notes: "some minor fps drops below "60""
+  notes: "some minor fps drops below 60"
 
 - name: "Bayonetta 2"
   handheld: "720p"
@@ -103,7 +101,7 @@
   fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=R_M0gX0GE0o"
-  notes: "some minor fps drops below "60""
+  notes: "some minor fps drops below 60"
 
 - name: Blaster Master Zero
   handheld: "1200x720"
@@ -225,7 +223,7 @@
 - name: Darksiders Warmastered Edition
   handheld: "720p"
   docked: "1080p"
-  fps: ""30"-"60""
+  fps: "30-60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=PTF0ZvWraMA"
   notes: "Has a performance and quality mode (HUD is tied to this resolution). Docked 1080p"30" (quality) & 810p unlocked fps (performance), portable 720p"30" (quality) 540p unlocked (performance)."
@@ -253,7 +251,7 @@
   fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=yw82bPL9k8U"
-  notes: ""30" in cutscenes. 4:3 aspect ratio customizer. Some SD-quality cutscenes. Includes 2 player support (Co-Op) and a freestyle mode in single player."
+  notes: "30 in cutscenes. 4:3 aspect ratio customizer. Some SD-quality cutscenes. Includes 2 player support (Co-Op) and a freestyle mode in single player."
 
 - name: "Disc Jam"
   handheld: "720p"
@@ -296,7 +294,7 @@
   handheld: "Dynamic"
   docked: "900p"
   fps: "60"
-  notes: ""60" 1v1, "30" 2v2+"
+  notes: "60 1v1, 30 2v2+"
   verified_status: true
   verified_url: "https://twitter.com/japanese3ds/status/877748333472653313"
 
@@ -364,7 +362,7 @@
 - name: Fire Emblem Warriors
   handheld: "720p"
   docked: "1080p"
-  fps: ""30""
+  fps: 30"
   verified_status: true
   verified_url: "http://nintendoeverything.com/fire-emblem-warriors-lets-you-play-at-"60"-fps-in-exchange-for-lower-resolution/"
   notes: "Option to use unlocked framerate with 720p resolution (near full "60" lock)"
@@ -544,7 +542,7 @@
   handheld: "648p"
   docked: "864p"
   fps: "30"
-  notes: "menus are native/"60""
+  notes: "menus are native/60"
   verified_status: true
   verified_url: "https://www.reddit.com/r/NintendoSwitch/comments/7vupsr/kirby_star_allies_runs_at_roughly_900p/"
 
@@ -632,7 +630,7 @@
   fps: "60"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-mario-kart-8-deluxe-tech-analysis"
-  notes: ""30" in 3-4 player mode (HUD still "60")."
+  notes: "30 in 3-4 player mode (HUD still 60)."
 
 - name: "Mario Tennis: Aces"
   handheld: "720p"
@@ -697,7 +695,6 @@
   handheld: "648p"
   docked: "900p"
   fps: "30"
-  notes: ""
 
 - name: "Monopoly for Switch"
   handheld: "720p"
@@ -1172,7 +1169,7 @@
   handheld: "9"60"x720p"
   docked: "720p"
   fps: "60"
-  notes: ""30" in 2 player mode (HUD still "60"). Has 2 player splitscreen mode."
+  notes: "30 in 2 player mode (HUD still 60). Has 2 player splitscreen mode."
 
 - name: "Poly Bridge"
   handheld: "720p"
@@ -1267,7 +1264,7 @@
   fps: "60"
   verified_status: true
   verified_url: "https://www.rocketleague.com/news/patch-notes-v1-43-tournaments-update/"
-  notes: "Recent patch improved general performance. Added a Quality Mode with better graphics and full resolution (720 handheld and 1080 docked) but lowers FPS to "30""
+  notes: "Recent patch improved general performance. Added a Quality Mode with better graphics and full resolution (720 handheld and 1080 docked) but lowers FPS to 30"
 
 - name: "Romancing Saga 2"
   handheld: "-"
@@ -1520,7 +1517,6 @@
   fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=KREpHaA0Tbo"
-  notes: ""
 
 - name: "The Walking Dead: The Telltale Series - A new frontier"
   handheld: "720p"
@@ -1537,7 +1533,7 @@
   docked: "504p-720p"
   fps: "30"
   verified_status: true
-  verified_url: ""
+  verified_url: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjjkefGu7vpAhUSsaQKHfNMDTkQwqsBMAB6BAgVEAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhUHNowimzDA&usg=AOvVaw1z_hPjfOPfeVlQVBIgVtKz"
   notes: "Resolutions are based on previews and estimations"
 
 - name: "Thronebreaker: The Witcher Tales"
@@ -1700,7 +1696,7 @@
   handheld: "540p"
   docked: "765p"
   fps: "60"
-  notes: "some fps drops below "60""
+  notes: "some fps drops below 60"
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2019-yooka-laylee-2-impossible-lair-switch-scales-up-beautifully"
 
