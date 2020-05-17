@@ -1,13 +1,13 @@
 - name: "1,2 Switch"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
 
 - name: "Animal Crossing New Horizons"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=Iw5epbkgSQM"
   notes: ""
@@ -43,20 +43,20 @@
 - name: "Arcade Archives: VS. Super Mario Bros"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: ARMS
   handheld: "720p"
   docked: "900p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=nP3l19Uio1g"
-  notes: "1080p / 60 FPS single-player, 900p / 60 FPS 2-player multiplayer, 900p / 30 FPS, 3-4-player multiplayer (HUD still 60fps)."
+  notes: "1080p / "60" FPS single-player, 900p / "60" FPS 2-player multiplayer, 900p / "30" FPS, 3-4-player multiplayer (HUD still "60")."
 
 - name: "Astral Chain"
   handheld: "720p"
   docked: "720p-900p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=gPT652uw1uM"
   notes: ""
@@ -64,23 +64,23 @@
 - name: Astro Dual Deluxe
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Attack on Titan 2 (Deluxe Edition)"
   handheld: "-"
   docked: "-"
-  fps: 30fps
+  fps: "30"
 
 - name: "Attelier Lydie & Suelle: The Alchemists and the Mysterious Paintings"
   handheld: "-"
   docked: "720p"
-  fps: "30fps"
+  fps: ""30""
   notes: "1.0.4 performance patch"
 
 - name: "Azure Striker Gunvolt: Striker Pack"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.nintendo.com/games/detail/azure-striker-gunvolt-striker-pack-switch"
 
@@ -92,23 +92,23 @@
 - name: Bayonetta
   handheld: "720p"
   docked: "720p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=R_M0gX0GE0o"
-  notes: "some minor fps drops below 60"
+  notes: "some minor fps drops below "60""
 
 - name: "Bayonetta 2"
   handheld: "720p"
   docked: "720p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=R_M0gX0GE0o"
-  notes: "some minor fps drops below 60"
+  notes: "some minor fps drops below "60""
 
 - name: Blaster Master Zero
   handheld: "1200x720"
   docked: "1800x1080"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=X4sGoZEQPlU"
   notes: "Scales using 400x240 res"
@@ -116,56 +116,56 @@
 - name: "Blazblue Cross Tag Battle"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Blossom Tales: The Sleeping King"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Boost Beast
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Brawlout
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
-  verified_url: "https://www.resetera.com/threads/brawlout-will-be-1080p60fps-720p60fps-on-switch.10996/"
+  verified_url: "https://www.resetera.com/threads/brawlout-will-be-1080p"60"-720p"60"-on-switch.10996/"
 
 - name: Bulb Boy
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Cars 3"
   handheld: "-"
   docked: "-"
-  fps: 30fps
+  fps: "30"
 
 - name: "Captain Toad's: Treasure Tracker"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=iq0N-AsZ8Vo"
 
 - name: "Cave Story+"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Celeste"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Clustertruck
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: ClusterPuck
   handheld: "-"
@@ -174,96 +174,96 @@
 - name: "Crypt of the NecroDancer: Nintendo Switch Edition"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Crash Bandicoot: The N-Sane Trilogy"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   notes: "No fur textures on Switch"
 
 - name: "Cuphead"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://gadgets.ndtv.com/games/news/cuphead-nintendo-switch-release-date-2010915"
 
 - name: Disgaea 5 Complete
   handheld: "720p"
   docked: "720p"
-  fps: 60fps
+  fps: "60"
   notes: "Has some small FPS drops"
 
 - name: "Daemon X Machina (demo)"
   handheld: "408-720p"
   docked: "936-1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=e3TPb-e9wzY"
 
 - name: Dandara
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Darkest Dungeon
   handheld: "720p"
   docked: "720p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Darkest Dungeon: Ancestral Edition"
   handheld: "720p"
   docked: "720p"
-  fps: 60fps
+  fps: "60"
 
 - name: Darksiders Genesis
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Darksiders Warmastered Edition
   handheld: "720p"
   docked: "1080p"
-  fps: "30-60fps"
+  fps: ""30"-"60""
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=PTF0ZvWraMA"
-  notes: "Has a performance and quality mode (HUD is tied to this resolution). Docked 1080p30 (quality) & 810p unlocked fps (performance), portable 720p30 (quality) 540p unlocked (performance)."
+  notes: "Has a performance and quality mode (HUD is tied to this resolution). Docked 1080p"30" (quality) & 810p unlocked fps (performance), portable 720p"30" (quality) 540p unlocked (performance)."
 
 - name: "Dark Souls: Remastered"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.usgamer.net/articles/17-04-2018-dark-souls-remastered-switch-ps4-xbox-one-pc-release-date-enhancements-features-everything-we-know"
 
 - name: Death Squared
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: De Mambo
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Devil May Cry 3: Special Edition"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=yw82bPL9k8U"
-  notes: "30fps in cutscenes. 4:3 aspect ratio customizer. Some SD-quality cutscenes. Includes 2 player support (Co-Op) and a freestyle mode in single player."
+  notes: ""30" in cutscenes. 4:3 aspect ratio customizer. Some SD-quality cutscenes. Includes 2 player support (Co-Op) and a freestyle mode in single player."
 
 - name: "Disc Jam"
   handheld: "720p"
   docked: 1080p
-  fps: 60fps
+  fps: "60"
 
 - name: "Divinity Original Sin 2"
   handheld: "495p-648p"
   docked: "612p-1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=2oxci-dTujo"
   notes: "Crossplay with PC. Menu's are 900p docked. Big framedrops in certain battles."
@@ -271,84 +271,84 @@
 - name: "Donkey Kong County: Tropical Freeze"
   handheld: "1152x648"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-donkey-kong-country-tropical-freeze-another-welcome-switch-port"
 
 - name: "Dont Starve: Nintendo Switch Edition"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "DOOM (2016)"
   handheld: "408-720p"
   docked: "576-720p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-dooms-impossible-switch-port-analysed"
 
 - name: "DOOM 64"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Dragonball: Xenoverse 2"
   handheld: "Dynamic"
   docked: "900p"
-  fps: 60fps
-  notes: "60fps 1v1, 30fps 2v2+"
+  fps: "60"
+  notes: ""60" 1v1, "30" 2v2+"
   verified_status: true
   verified_url: "https://twitter.com/japanese3ds/status/877748333472653313"
 
 - name: "Dragon Quest 11"
   handheld: "540p"
   docked: "720p-810p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=Qdm4pB-1Dlc"
 
 - name: "Dragon Quest Builders"
   handheld: "720p"
   docked: 720p
-  fps: 60fps
+  fps: "60"
   notes: "Unlocked framerate in handheld"
 
 - name: "Dragon Quest Heroes I+II"
   handheld: "720p"
   docked: 1080p
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-dragon-quest-heroes-2-switch-vs-ps4-comparison"
-  notes: "Can drop to 20fps"
+  notes: "Can drop to 20"
 
 - name: "Enter the Gungeon"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Fallout Shelter"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Fast RMX
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-fast-rmx-showcases-switches-power-over-wii-u"
 
 - name: "Fate/EXTELLA: The Umbral Star"
   handheld: "720p"
   docked: "720p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://michibiku.com/fateextella-switch-things-switch/"
 
 - name: Fe
   handheld: "720p"
   docked: "720p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "http://gearnuke.com/fe-nintendo-switch-vs-ps4-comparison-visually-strong-average-performance/"
   notes: "has drops below that sometimes"
@@ -356,18 +356,18 @@
 - name: "FIFA18 for Nintendo Switch"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/2017-06-10-fifa-18-on-switch-wont-have-the-journey-but-does-get-fut-and-co-op-seasons"
-  notes: "Pause Menu, Outfit Kit Selection Menu and match cutscenes are 30fps. Game is based on PS3/X360 version."
+  notes: "Pause Menu, Outfit Kit Selection Menu and match cutscenes are "30". Game is based on PS3/X3"60" version."
 
 - name: Fire Emblem Warriors
   handheld: "720p"
   docked: "1080p"
-  fps: "30fps"
+  fps: ""30""
   verified_status: true
-  verified_url: "http://nintendoeverything.com/fire-emblem-warriors-lets-you-play-at-60-fps-in-exchange-for-lower-resolution/"
-  notes: "Option to use unlocked framerate with 720p resolution (near full 60fps lock)"
+  verified_url: "http://nintendoeverything.com/fire-emblem-warriors-lets-you-play-at-"60"-fps-in-exchange-for-lower-resolution/"
+  notes: "Option to use unlocked framerate with 720p resolution (near full "60" lock)"
 
 - name: Fire Emblem 2018
 
@@ -379,27 +379,27 @@
 - name: Flip Wars
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Floor Kids
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Football Manager Touch 2018"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "forma.8"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Fortnite"
-  handheld: "360-720p"
+  handheld: "3"60"-720p"
   docked: "729-900p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=hrgp1JQ3Xx4"
   notes: "1080p HUD, lower draw distance"
@@ -407,10 +407,10 @@
 - name: "Furi"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
-  verified_url: "https://twitter.com/TheGameBakers/status/944858083674722304?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E1"
-  notes: "Unstable 60fps, but shouldn't impact gameplay according to dev"
+  verified_url: "https://twitter.com/TheGameBakers/status/944858083674722"30"4?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E1"
+  notes: "Unstable "60", but shouldn't impact gameplay according to dev"
 
 - name: "Gal-Gun 2"
   handheld: "720p"
@@ -420,29 +420,29 @@
 - name: "Girls und Panzer Dream Tank Match DX"
   handheld: "720p"
   docked: "720p"
-  fps: 30fps
+  fps: "30"
   notes: "1080p main menu and garage in docked. Average is ~25FPS docked, ~23FPS portable. Peaks to 31FPS before settling when recovering from drop."
 
 - name: GoNNER
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Grid Autosport
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
-  notes: "Based on the first GRID game. Has high resolution texture pack in e-Shop. Two settings modes - performance (unlocked 60fps) & quality (30fps)"
+  fps: "60"
+  notes: "Based on the first GRID game. Has high resolution texture pack in e-Shop. Two settings modes - performance (unlocked "60") & quality ("30")"
 
 - name: "Gunbarich"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Graceful Explosion Machine
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Harvest Moon: Light of Hope"
   handheld: "-"
@@ -456,7 +456,7 @@
 - name: Hellblade
   handheld: "400p-720p"
   docked: "576p-720p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=Xb1BGLGS_UY"
   notes: "Cutscenes are videos instead of realtime. Framepacing is off (might come up as stuttering)."
@@ -464,17 +464,17 @@
 - name: "Hollow Knight"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Human Resource Machine
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Human: Fall flat"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
 
 - name: "Hyrule Warriors: Definitive Edition"
   handheld: "720p"
@@ -482,36 +482,36 @@
   fps: Variable
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=rMfpXkROIMw"
-  notes: "Unlocked framerate (40-60ish)"
+  notes: "Unlocked framerate (40-"60"ish)"
 
 - name: I am Setsuna
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-i-am-setsuna-switch-vs-ps4-face-off"
 
 - name: Implosion
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Infinite Minigolf"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "InnerSpace"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.reddit.com/r/NintendoSwitch/comments/7qtppr/ama_were_the_innerspace_devs_ask_us_anything/dsrweaw"
 
 - name: "Ion Fury"
   handheld: "1080p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=JXoB1Q4WyAw"
   notes: "Portable downscales 1080p to 720p. Game stutters are fixed in upcoming patch."
@@ -519,12 +519,12 @@
 - name: "INSIDE"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Ironcast
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: I And Me
   handheld: "-"
@@ -533,31 +533,31 @@
 - name: Just Dance 2017
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Kamiko
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Kirby: Star Allies"
   handheld: "648p"
   docked: "864p"
-  fps: 30fps
-  notes: "menus are native/60fps"
+  fps: "30"
+  notes: "menus are native/"60""
   verified_status: true
   verified_url: "https://www.reddit.com/r/NintendoSwitch/comments/7vupsr/kirby_star_allies_runs_at_roughly_900p/"
 
 - name: L.A. Noire
-  handheld: "960x720p-1280x720p"
+  handheld: "9"60"x720p-1280x720p"
   docked: "1440x1080p-1920x1080p"
-  fps: 30fps
+  fps: "30"
   notes: "framedrops at stresspoints"
 
 - name: LEGO City Undercover
-  handheld: "960x720p"
+  handheld: "9"60"x720p"
   docked: "1440x1080"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-lego-city-undercover-face-off"
   notes: "FPS drops"
@@ -565,7 +565,7 @@
 - name: LEGO Marvel Super Heroes 2
   handheld: "540p"
   docked: "720p"
-  fps: 30fps
+  fps: "30"
 
 - name: "LEGO: Ninjago Movie"
   handheld: "-"
@@ -578,7 +578,7 @@
 - name: LEGO Worlds
   handheld: "540p"
   docked: "720p"
-  fps: 30fps
+  fps: "30"
 
 - name: "Levels+: Addictive Puzzle Game"
   handheld: "-"
@@ -587,90 +587,90 @@
 - name: "Limbo"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Little Inferno
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Little Nightmars Complete Edition"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: LOST SPHEAR
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   notes: "Guessing its similar to I Am Setsuna spec"
 
 - name: "Luigi's Mansion 3"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=xq_ayMLGDNo"
-  notes: "Resolution drop during cutscenes - 1066x600 portable and 1600x900 docked. Slight framepacing/hitching issues."
+  notes: "Resolution drop during cutscenes - 1066x"60"0 portable and 1"60"0x900 docked. Slight framepacing/hitching issues."
 
 - name: "Lumines Remastered"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Mario & Rabbits: Kingdom Battle"
-  handheld: "1066x600"
+  handheld: "1066x"60"0"
   docked: "900p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://twitter.com/DavideSoliani/status/893556215569043456"
-  notes: "FPS locked to 30 in later patches"
+  notes: "FPS locked to "30" in later patches"
 
 - name: "Mario Kart 8: Deluxe"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-mario-kart-8-deluxe-tech-analysis"
-  notes: "30fps in 3-4 player mode (HUD still 60)."
+  notes: ""30" in 3-4 player mode (HUD still "60")."
 
 - name: "Mario Tennis: Aces"
   handheld: "720p"
   docked: "900p"
-  fps: 60fps
+  fps: "60"
   notes: "Early estimates"
 
 - name: "Max: the curse of the Brotherhood"
   handheld: "720p"
   docked: "720p"
-  fps: 30fps
+  fps: "30"
 
 - name: "Mega Man 11"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-mega-man-11-is-capcoms-sonic-mania-moment"
 
 - name: "Mega Man Legacy Collection"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Mega Man Legacy Collection 2"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Mega Man Zero/ZX Legacy Collection"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Metro Redux"
   handheld: "480-720p"
   docked: "720p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=CXP3t3uPeTE"
   notes: "Includes Metro 2033 Redux and Metro Last Light Redux. Temporal AA solution to upscale 720p -> 1080p."
@@ -678,39 +678,39 @@
 - name: "Mighty Gunvolt Burst"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Minecraft (Bedrock)"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   notes: "Slighty unstable as of release"
 
 - name: "Minecraft: Switch Edition"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-switch-minecraft-patch-1080p-confirmed-and-more"
 
 - name: "Minecraft: Story Mode"
   handheld: "648p"
   docked: "900p"
-  fps: 30fps
+  fps: "30"
   notes: ""
 
 - name: "Monopoly for Switch"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Morphite
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "MotoGP 18"
-  handheld: "360p"
+  handheld: "3"60"p"
   docked: "-"
   fps: "-"
   notes: "early impressions"
@@ -718,63 +718,63 @@
 - name: Mr Shifty
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
 
 - name: Mulaka
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Namco Museum"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Namco Museum - Pacman Vs."
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Naruto Shippuden: Ultimate Ninja Storm"
   handheld: "540p"
   docked: "900p"
-  fps: 30fps
+  fps: "30"
   notes: "Cutscenes in fixed 720p"
 
 
 - name: "Naruto Shippuden: Ultimate Ninja Storm 2"
   handheld: "540p"
   docked: "900p"
-  fps: 30fps
+  fps: "30"
   notes: "Cutscenes in fixed 720p"
 
 - name: "Naruto Shippuden: Ultimate Ninja Storm 3"
   handheld: "540p"
   docked: "900p"
-  fps: 30fps
+  fps: "30"
   notes: "Cutscenes in fixed 720p"
 
 - name: "Naruto Shippuden: Ultimate Ninja Storm Trilogy"
   handheld: "540p"
   docked: "900p"
-  fps: 30fps
+  fps: "30"
   notes: "Cutscenes in fixed 720p"
 
 - name: NBA Playgrounds
   handheld: "540p"
   docked: "720p"
-  fps: 60fps
+  fps: "60"
 
 - name: "NBA Playgrounds: Enhanced Edition"
   handheld: "540p"
   docked: "720p"
-  fps: 60fps
+  fps: "60"
   notes: "brings game up to date with other platforms"
 
 - name: NBA 2K18
   handheld: "720p"
   docked: "720p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://nintendoeverything.com/nba-2k18-for-switch-has-same-content-and-modes-as-ps4-version-amiibo-support-confirmed/"
 
@@ -981,39 +981,39 @@
 - name: "New Super Lucky's Tale"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://contranetwork.it/?p=4588"
 
 - name: "New Super Mario Bros. U Deluxe"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=kOYRk5U8CVs"
 
 - name: "Night in the Woods"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Nine Parchments"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   notes: "interlaced"
 
 - name: Oceanhorn
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=DEArk9FdY7E"
 
 - name: "Octopath Traveler"
   handheld: "576p"
   docked: "720p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=2jKOJsoVcro"
   notes: "UI scales up to 720p in handheld, UI is 720p and scales up to 1080p in docked"
@@ -1021,7 +1021,7 @@
 - name: "One Piece: Pirate Warriors 3: Deluxe Edition"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   notes: "some fps drops"
   verified_status: true
   verified_url: "https://www.resetera.com/threads/one-piece-pirate-warriors-3-switch-ot-yo-ho-ho-he-took-a-bite-of-switch-cart.11994/"
@@ -1029,7 +1029,7 @@
 - name: "One Piece: Unlimited World Red: Deluxe Edition"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   notes: "some fps drops"
   verified_status: true
   verified_url: "https://gamefaqs.gamespot.com/boards/189706-nintendo-switch/75347948"
@@ -1037,26 +1037,26 @@
 - name: "Ori and the Blind Forest"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://nintendoeverything.com/ori-and-the-blind-forest-switch-details-resolution-frame-rate-xbox-live-achievements-more/"
 
 - name: Othello
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Outlast
   handheld: "720p"
   docked: "1008p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://twitter.com/TheRedBarrels/status/968498404190978048"
 
 - name: Outlast 2
   handheld: "720p"
   docked: "1008p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://twitter.com/TheRedBarrels/status/968498404190978048"
 
@@ -1064,22 +1064,22 @@
   handheld: "720p"
   docked: "1008p"
   notes: "both games"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://twitter.com/TheRedBarrels/status/968498404190978048"
 
 - name: "Overcooked: Special Edition"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-overcooked-on-switch-has-big-performance-problems"
   notes: "framerate improved in later patches"
 
 - name: "Overwatch"
-  handheld: "960x720 - 1280x720p"
-  docked: "1152x900 - 1600x900p"
-  fps: 30fps
+  handheld: "9"60"x720 - 1280x720p"
+  docked: "1152x900 - 1"60"0x900p"
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=zgMxk-eIDOM"
   notes: "Resolution scales horizontally. FPS can drop to 20s."
@@ -1087,7 +1087,7 @@
 - name: "Owlboy"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "PAC-MAN Championship Edition 2 PLUS"
   handheld: "-"
@@ -1096,14 +1096,14 @@
 - name: "Paladins"
   handheld: "378-720p"
   docked: "567-900p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=q0h9bilVjEY"
 
 - name: "Payday 2"
   handheld: "720p"
   docked: "900p"
-  fps: 30fps
+  fps: "30"
   notes: "framerate can be very bad & not fully up to date yet"
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-payday2-switch-looks-fine-but-runs-poorly"
@@ -1111,12 +1111,12 @@
 - name: "Penny-Punching Princess"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Phantom Trigger"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Physical Contact: Speed"
   handheld: "-"
@@ -1134,7 +1134,7 @@
 - name: "Pokemon: Let's Go Pikachu!"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   notes: "rare fps drops in portable"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=_ahNhq2Pj48"
@@ -1142,7 +1142,7 @@
 - name: "Pokemon: Let's Go Eevee!"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   notes: "rare fps drops in portable"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=_ahNhq2Pj48"
@@ -1150,12 +1150,12 @@
 - name: "Pokemon Quest"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Pokemon Shield"
   handheld: "576p-720p"
   docked: "864p-1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=czXsJwfjps8"
   notes: "Running into wild Pokemon dips framerate."
@@ -1163,26 +1163,26 @@
 - name: "Pokemon Sword"
   handheld: "576p-720p"
   docked: "864p-1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=czXsJwfjps8"
   notes: "Running into wild Pokemon dips framerate."
 
 - name: "Pokken Tournament"
-  handheld: "960x720p"
+  handheld: "9"60"x720p"
   docked: "720p"
-  fps: 60fps
-  notes: "30fps in 2 player mode (HUD still 60). Has 2 player splitscreen mode."
+  fps: "60"
+  notes: ""30" in 2 player mode (HUD still "60"). Has 2 player splitscreen mode."
 
 - name: "Poly Bridge"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Portal Knights"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   notes: "Allows setting DoF"
 
 - name: "Pure Chess"
@@ -1193,12 +1193,12 @@
 - name: "Puyo Puyo Tetris"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Puzzle Adventure Blockle"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Qbics Paint
   handheld: "-"
@@ -1207,7 +1207,7 @@
 - name: "Rayman Legends: Definitive Edition"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: R.B.I. Baseball 17
   handheld: "-"
@@ -1220,7 +1220,7 @@
 - name: Resident Evil 5
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=SgIUYW3blFE"
   notes: "Unlocked framerate with big drops (tearing/judder)"
@@ -1228,7 +1228,7 @@
 - name: Resident Evil 6
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=SgIUYW3blFE"
   notes: "Unlocked framerate with big drops (tearing/judder)"
@@ -1246,28 +1246,28 @@
 - name: "Retro City Rampage DX"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: RIME
   handheld: "-"
   docked: "720p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/2017-11-14-rime-developer-addresses-switch-performance-issues"
-  notes: "Recent patch updates performance/graphics; still no locked 30fps at all times"
+  notes: "Recent patch updates performance/graphics; still no locked "30" at all times"
 
 - name: Rocket Fist
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Rocket League
   handheld: "576p-720p"
   docked: "720p-900p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.rocketleague.com/news/patch-notes-v1-43-tournaments-update/"
-  notes: "Recent patch improved general performance. Added a Quality Mode with better graphics and full resolution (720 handheld and 1080 docked) but lowers FPS to 30"
+  notes: "Recent patch improved general performance. Added a Quality Mode with better graphics and full resolution (720 handheld and 1080 docked) but lowers FPS to "30""
 
 - name: "Romancing Saga 2"
   handheld: "-"
@@ -1276,22 +1276,22 @@
 - name: Runner 3
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Saints Row IV Re-Elected"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
 
 - name: "Scribblenauts Showdown"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: SEVERED
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   notes: "Handheld only"
 
 - name: Shakedown Hawaii
@@ -1301,19 +1301,19 @@
 - name: "Shantea and the Pirates Curse"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Shantea: Half-Genie Hero (Ultimate Edition)"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.redvaluegaming.com/reviews/shantae-half-genie-hero"
 
 - name: "Shaq-Fu: a Legend Reborn"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Shephy
   handheld: "-"
@@ -1322,113 +1322,113 @@
 - name: "Shovel Knight: Spectre of Torment"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
 - name: "Shovel Knight: Treasure Trove"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://twitter.com/YachtClubGames/status/847243699733975041"
 
 - name: Skies of Fury DX
   handheld: "720p"
   docked: "-"
-  fps: 60fps
+  fps: "60"
 
 - name: Skylanders Imaginators
   handheld: "-"
   docked: "-"
-  fps: 30fps
+  fps: "30"
 
 - name: "South Park: The Fractured but Whole (Gold Edition)"
   handheld: "-"
   docked: "-"
-  fps: 30fps
+  fps: "30"
 
 - name: "Slime-san"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Snake Pass
   handheld: "457p"
   docked: "675p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-snake-pass-on-switch-holds-up-nicely-against-ps4"
 
 - name: "Sniper Elite 3: Ultimate Edition"
-  handheld: "630p-720p"
+  handheld: "6"30"p-720p"
   docked: "720p-918p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=nh_PpE1BS1A"
 
 - name: Snipperclips
   handheld: "720p"
   docked: "1080p"
-  fps: "Unlocked (target 60fps)"
+  fps: "Unlocked (target "60")"
 
 - name: Splatoon 2
   handheld: "538p-720p"
   docked: "720p-1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-how-does-splatoon-2-tech-improve-over-wii-u"
-  notes: "Docked can drop to 720p, handheld drop to 964x538. Hub area is a locked 30 fps."
+  notes: "Docked can drop to 720p, handheld drop to 964x538. Hub area is a locked "30" fps."
 
 - name: Stardew Valley
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "http://www.neogaf.com/forum/showthread.php?t=1418096"
 
 - name: "Stern Pinball"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
-- name: "Street Fighter 30th Anniversary Collection"
+- name: "Street Fighter "30"th Anniversary Collection"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Strikers1945
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Strikers1945 II
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Sushi Striker: The Way of Sushido"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Super Bomberman R
   handheld: "540p"
   docked: "720p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-super-bomberman-r-60fps-patch-report"
-  notes: "45fps story mode, 60fps battle"
+  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-super-bomberman-r-"60"-patch-report"
+  notes: "45fps story mode, "60" battle"
 
 - name: "Super Daryl Deluxe"
   handheld: "720p"
   docked: "-"
-  fps: 60fps
+  fps: "60"
 
 - name: "Super Mario Maker 2"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=hnvuL1lJFeU"
   notes: "1080p no anti-aliasing in Mario Bros U mode. 3D World runs at 900p."
@@ -1436,88 +1436,88 @@
 - name: Super Mario Odyssee
   handheld: "720p"
   docked: "720p-900p"
-  fps: 60fps
+  fps: "60"
   notes: "Interlaced in handheld, Averages ~1440x810 docked"
 
 - name: Super Meat Boy
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Sonic Forces
   handheld: "720p"
   docked: "720p"
-  fps: 30fps
+  fps: "30"
 
 - name: Sonic Mania
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
-  notes: "locks to 60fps since the update (July 19th)"
+  fps: "60"
+  notes: "locks to "60" since the update (July 19th)"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=E6_SD97H1WQ"
 
 - name: Steamworld Dig
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Steamworld Dig 2
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Steamworld Heist
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Super Smash Brothers: Ultimate"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=LEZLvXDZOqA"
 
 - name: "The Elder Scrolls V: Skyrim"
   handheld: "896x720p-1280x720p"
   docked: "900p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-skyrim-switch-vs-playstation-4"
 
 - name: "The Banner Saga"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "The Banner Saga 2"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "The Binding of Isaac: Afterbirth+"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: The Escapists 2
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "The Legend of Zelda: Breath of the Wild"
   handheld: "720p"
   docked: "900p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-zelda-breath-of-the-wild-uses-dynamic-resolution-scaling"
-  notes: "FPS drops in Korok forest to ~20FPS"
+  notes: "FPS drops in Korok forest to ~20"
 
 - name: "The Legend of Zelda: Link's Awakening"
   handheld: "576p-720p"
   docked: "720p-1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=KREpHaA0Tbo"
   notes: ""
@@ -1525,17 +1525,17 @@
 - name: "The Walking Dead: The Telltale Series - A new frontier"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
 
 - name: "The Walking Dead: Season 2 - A Telltale Game Series"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
 
 - name: "The Witcher 3: Complete Edition"
   handheld: "540p"
   docked: "504p-720p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: ""
   notes: "Resolutions are based on previews and estimations"
@@ -1543,31 +1543,31 @@
 - name: "Thronebreaker: The Witcher Tales"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Thumper
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=4aMIko1VRn0"
 
 - name: "Tiny Metal"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
-  verified_url: "https://wccftech.com/tiny-metal-runs-native-4k60fps-ps4-pro/"
+  verified_url: "https://wccftech.com/tiny-metal-runs-native-4k"60"-ps4-pro/"
 
 - name: "Tokyo Mirage Sessions #FE Encore"
   handheld: "720p"
   docked: "1080p"
-  fps: 30fps
+  fps: "30"
 
 - name: "Trails Rising"
   handheld: "400-720p"
   docked: "400-720p"
-  fps: 30fps
+  fps: "30"
   notes: "Has some framepacing issues"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=J5wp_24k3Ls"
@@ -1575,18 +1575,18 @@
 - name: Troll and I
   handheld: "720p"
   docked: "-"
-  fps: 30fps
+  fps: "30"
   notes: "Dont buy!"
 
 - name: Tumbleseed
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Two Point Hospital"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Unboxed: Newbieś Adventure"
   handheld: "720p"
@@ -1599,22 +1599,22 @@
 - name: "Urban Trial Playground"
   handheld: "720p"
   docked: "-"
-  fps: 60fps
+  fps: "60"
 
 - name: "Use Your Words"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Ultra Hyperball"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: "Ultra Street Fighter 2: The Final Challengers"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: Vaccine
   handheld: "-"
@@ -1623,13 +1623,13 @@
 - name: VOEZ
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   notes: "Handheld only game"
 
 - name: Vroom in the night sky
   handheld: "-"
   docked: "-"
-  fps: 60fps
+  fps: "60"
   notes: "Don't buy!"
 
 - name: Warface
@@ -1643,9 +1643,9 @@
   fps: "-"
 
 - name: "Wolfenstein II: The New Colossus"
-  handheld: "360-720p"
-  docked: "360-720p"
-  fps: 30fps
+  handheld: "3"60"-720p"
+  docked: "3"60"-720p"
+  fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=g6b8FUSB89s"
   notes: "Average resolution lower in handheld, can drop to 25fps in problem areas"
@@ -1653,33 +1653,33 @@
 - name: "Wonder Boy: Dragon's Trap At Will"
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "http://www.thedragonstrap.com/blog/post/201701_NintendoSwitch/"
 
 - name: World of Final Fantasy Maxima
   handheld: "576p"
   docked: "900p"
-  fps: 30fps
+  fps: "30"
   notes: "The 1.01 update fixes the resolution switching between docked and portable"
 
 - name: World of Goo
   handheld: "720p"
   docked: "1080p"
-  fps: 60fps
+  fps: "60"
 
 - name: WWE 2K18
   handheld: "-"
   docked: "540p-720p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-is-wwe-2k18-the-worst-game-on-switch"
-  notes: "Big drops to 20FPS or lower. Don't buy this!!!"
+  notes: "Big drops to 20 or lower. Don't buy this!!!"
 
 - name: Xenoblade Chronicles 2
   handheld: "368p-552p"
   docked: "720p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-does-xenoblade-chronicles-2-push-switch-mobile-mode-too-far"
   notes: "Has pop-in, especially in handheld"
@@ -1690,24 +1690,24 @@
   fps: "-"
 
 - name: Yooka-Laylee
-  handheld: "630p"
+  handheld: "6"30"p"
   docked: "900p"
-  fps: 30fps
+  fps: "30"
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-yooka-laylee-switch-port-analysis"
 
 - name: "Yooka-Laylee and the Impossible Lair"
   handheld: "540p"
   docked: "765p"
-  fps: 60fps
-  notes: "some fps drops below 60"
+  fps: "60"
+  notes: "some fps drops below "60""
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2019-yooka-laylee-2-impossible-lair-switch-scales-up-beautifully"
 
 - name: "Yoshi's Crafted World"
   handheld: "396p-495p"
   docked: "576p-675p"
-  fps: 60fps
+  fps: "60"
   verified_status: true
   verified_url: "https://nintendoeverything.com/yoshis-crafted-world-tech-analysis/"
 
