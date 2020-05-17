@@ -167,25 +167,6 @@
 }
 
 
-tr {
-  margin:20px;
-  border-bottom: 1px solid #ebebeb;
-}
-
-.logo {
-  width: auto;
-  max-height: 100px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 25px;
-  display: block;
-}
-
-input.search {
-  margin-top: 35px !important;
-  margin-bottom:20px !important;
-}
-
 /* **************************************
 
   General settings
@@ -271,6 +252,24 @@ td {
 }
 
 
+tr {
+  margin:20px;
+  border-bottom: 1px solid #ebebeb;
+}
+
+.logo {
+  width: auto;
+  max-height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  display: block;
+}
+
+input.search {
+  margin-top: 35px !important;
+  margin-bottom:20px !important;
+}
 
 /* **************************************
 
@@ -285,37 +284,9 @@ header {
 
 /* **************************************
 
-  FOOTER
+  SOCIALS
 
 *****************************************/
-footer {
-    width: 100%;
-    padding-bottom:15px;
-    overflow: hidden;
-    z-index: 999;
-    -webkit-transition: height 1.0s;
-    -moz-transition: height 1.0s;
-    -ms-transition: height 1.0s;
-    -o-transition: height 1.0s;
-    transition: height 1.0s;
-}
-
-footer a {
-  color: white !important;
-}
-
-footer .blogdescription {
-    color: white;
-    text-overflow: ellipsis;
-    padding: 20px;
-}
-
-.socialfooter {
-
-  display: block;
-  text-align: center;
-
-}
 
 .svg-inline--fa.fa-twitter.fa-w-16, .svg-inline--fa.fa-github.fa-w-16 {
   color: white;
@@ -395,7 +366,3 @@ footer .blogdescription {
     }
     
   }
-
-
-
-
