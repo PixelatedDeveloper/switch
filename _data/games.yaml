@@ -57,7 +57,6 @@
   handheld: "720p"
   docked: "720p-900p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=gPT652uw1uM"
   notes: ""
@@ -200,7 +199,6 @@
   handheld: "408-720p"
   docked: "936-1080p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=e3TPb-e9wzY"
 
@@ -266,7 +264,6 @@
   handheld: "495p-648p"
   docked: "612p-1080p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=2oxci-dTujo"
   notes: "Crossplay with PC. Menu's are 900p docked. Big framedrops in certain battles."
@@ -286,7 +283,6 @@
 - name: "DOOM (2016)"
   handheld: "408-720p"
   docked: "576-720p"
-  dynamic_scaling: true
   fps: 30fps
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-dooms-impossible-switch-port-analysed"
@@ -300,7 +296,6 @@
   handheld: "Dynamic"
   docked: "900p"
   fps: 60fps
-  dynamic_scaling: true
   notes: "60fps 1v1, 30fps 2v2+"
   verified_status: true
   verified_url: "https://twitter.com/japanese3ds/status/877748333472653313"
@@ -308,7 +303,6 @@
 - name: "Dragon Quest 11"
   handheld: "540p"
   docked: "720p-810p"
-  dynamic_scaling: true
   fps: 30fps
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=Qdm4pB-1Dlc"
@@ -406,7 +400,6 @@
   handheld: "360-720p"
   docked: "729-900p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=hrgp1JQ3Xx4"
   notes: "1080p HUD, lower draw distance"
@@ -464,7 +457,6 @@
   handheld: "400p-720p"
   docked: "576p-720p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=Xb1BGLGS_UY"
   notes: "Cutscenes are videos instead of realtime. Framepacing is off (might come up as stuttering)."
@@ -513,7 +505,6 @@
   handheld: "720p"
   docked: "1080p"
   fps: 30fps
-  dynamic_scaling: false
   verified_status: true
   verified_url: "https://www.reddit.com/r/NintendoSwitch/comments/7qtppr/ama_were_the_innerspace_devs_ask_us_anything/dsrweaw"
 
@@ -521,7 +512,6 @@
   handheld: "1080p"
   docked: "1080p"
   fps: 30fps
-  dynamic_scaling: false
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=JXoB1Q4WyAw"
   notes: "Portable downscales 1080p to 720p. Game stutters are fixed in upcoming patch."
@@ -562,7 +552,6 @@
   handheld: "960x720p-1280x720p"
   docked: "1440x1080p-1920x1080p"
   fps: 30fps
-  dynamic_scaling: true
   notes: "framedrops at stresspoints"
 
 - name: LEGO City Undercover
@@ -620,7 +609,6 @@
   handheld: "720p"
   docked: "1080p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=xq_ayMLGDNo"
   notes: "Resolution drop during cutscenes - 1066x600 portable and 1600x900 docked. Slight framepacing/hitching issues."
@@ -683,7 +671,6 @@
   handheld: "480-720p"
   docked: "720p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=CXP3t3uPeTE"
   notes: "Includes Metro 2033 Redux and Metro Last Light Redux. Temporal AA solution to upscale 720p -> 1080p."
@@ -1093,7 +1080,6 @@
   handheld: "960x720 - 1280x720p"
   docked: "1152x900 - 1600x900p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=zgMxk-eIDOM"
   notes: "Resolution scales horizontally. FPS can drop to 20s."
@@ -1111,7 +1097,6 @@
   handheld: "378-720p"
   docked: "567-900p"
   fps: 60fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=q0h9bilVjEY"
 
@@ -1119,7 +1104,6 @@
   handheld: "720p"
   docked: "900p"
   fps: 30fps
-  dynamic_scaling: no
   notes: "framerate can be very bad & not fully up to date yet"
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-payday2-switch-looks-fine-but-runs-poorly"
@@ -1151,7 +1135,6 @@
   handheld: "720p"
   docked: "1080p"
   fps: 30fps
-  dynamic_scaling: no
   notes: "rare fps drops in portable"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=_ahNhq2Pj48"
@@ -1160,7 +1143,6 @@
   handheld: "720p"
   docked: "1080p"
   fps: 30fps
-  dynamic_scaling: no
   notes: "rare fps drops in portable"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=_ahNhq2Pj48"
@@ -1174,7 +1156,6 @@
   handheld: "576p-720p"
   docked: "864p-1080p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=czXsJwfjps8"
   notes: "Running into wild Pokemon dips framerate."
@@ -1183,7 +1164,6 @@
   handheld: "576p-720p"
   docked: "864p-1080p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=czXsJwfjps8"
   notes: "Running into wild Pokemon dips framerate."
@@ -1241,7 +1221,6 @@
   handheld: "720p"
   docked: "1080p"
   fps: 30fps
-  dynamic_scaling: false
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=SgIUYW3blFE"
   notes: "Unlocked framerate with big drops (tearing/judder)"
@@ -1250,7 +1229,6 @@
   handheld: "720p"
   docked: "1080p"
   fps: 30fps
-  dynamic_scaling: false
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=SgIUYW3blFE"
   notes: "Unlocked framerate with big drops (tearing/judder)"
@@ -1287,7 +1265,6 @@
   handheld: "576p-720p"
   docked: "720p-900p"
   fps: 60fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.rocketleague.com/news/patch-notes-v1-43-tournaments-update/"
   notes: "Recent patch improved general performance. Added a Quality Mode with better graphics and full resolution (720 handheld and 1080 docked) but lowers FPS to 30"
@@ -1387,7 +1364,6 @@
   handheld: "630p-720p"
   docked: "720p-918p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=nh_PpE1BS1A"
 
@@ -1400,7 +1376,6 @@
   handheld: "538p-720p"
   docked: "720p-1080p"
   fps: 60fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-how-does-splatoon-2-tech-improve-over-wii-u"
   notes: "Docked can drop to 720p, handheld drop to 964x538. Hub area is a locked 30 fps."
@@ -1454,16 +1429,14 @@
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=hnvuL1lJFeU"
-  notes: "900p used for newer graphics modes"
+  notes: "1080p no anti-aliasing in Mario Bros U mode. 3D World runs at 900p."
 
 - name: Super Mario Odyssee
   handheld: "720p"
   docked: "720p-900p"
   fps: 60fps
-  dynamic_scaling: true
   notes: "Interlaced in handheld, Averages ~1440x810 docked"
 
 - name: Super Meat Boy
@@ -1503,7 +1476,6 @@
   handheld: "720p"
   docked: "1080p"
   fps: 60fps
-  dynamic_scaling: false
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=LEZLvXDZOqA"
 
@@ -1511,7 +1483,6 @@
   handheld: "896x720p-1280x720p"
   docked: "900p"
   fps: 60fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-skyrim-switch-vs-playstation-4"
 
@@ -1539,7 +1510,6 @@
   handheld: "720p"
   docked: "900p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-zelda-breath-of-the-wild-uses-dynamic-resolution-scaling"
   notes: "FPS drops in Korok forest to ~20FPS"
@@ -1548,7 +1518,6 @@
   handheld: "576p-720p"
   docked: "720p-1080p"
   fps: 60fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=KREpHaA0Tbo"
   notes: ""
@@ -1567,7 +1536,6 @@
   handheld: "540p"
   docked: "504p-720p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: ""
   notes: "Resolutions are based on previews and estimations"
@@ -1588,7 +1556,6 @@
   handheld: "720p"
   docked: "1080p"
   fps: 30fps
-  dynamic_scaling: false
   verified_status: true
   verified_url: "https://wccftech.com/tiny-metal-runs-native-4k60fps-ps4-pro/"
 
@@ -1602,7 +1569,6 @@
   docked: "400-720p"
   fps: 30fps
   notes: "Has some framepacing issues"
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=J5wp_24k3Ls"
 
@@ -1680,7 +1646,6 @@
   handheld: "360-720p"
   docked: "360-720p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=g6b8FUSB89s"
   notes: "Average resolution lower in handheld, can drop to 25fps in problem areas"
@@ -1704,10 +1669,9 @@
   fps: 60fps
 
 - name: WWE 2K18
-  handheld: "720p"
+  handheld: "-"
   docked: "540p-720p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-is-wwe-2k18-the-worst-game-on-switch"
   notes: "Big drops to 20FPS or lower. Don't buy this!!!"
@@ -1716,7 +1680,6 @@
   handheld: "368p-552p"
   docked: "720p"
   fps: 30fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-does-xenoblade-chronicles-2-push-switch-mobile-mode-too-far"
   notes: "Has pop-in, especially in handheld"
