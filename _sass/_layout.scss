@@ -222,13 +222,6 @@ pre {
 	line-height: 18.5714302062988px;
 }
 
-#items {
-  margin-top: 15px;
-  padding-left: 25px;
-  padding-right: 25px;
-  width: 100%;
-}
-
 table {
   width: 100%;
   color: black;
@@ -270,6 +263,10 @@ tr {
 input.search {
   margin-top: 35px !important;
   margin-bottom:20px !important;
+}
+
+.row {
+  width: 100%;
 }
 
 /* **************************************
@@ -343,20 +340,7 @@ header {
   }
 
   #items {
-    margin-top: 15px;
-    padding-left: 8px;
-    padding-right: 0px;
     width: 100%;
-  }
-
-  .row {
-    width: 100%;
-  }
-  
-  .col-sm-12 {
-    padding: 0 !important;
-    margin-left: auto;
-    margin-right: auto;
   }
 }
 
