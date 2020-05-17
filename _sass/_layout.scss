@@ -349,36 +349,9 @@ ul li {
  }
 
 
-/* Wrapper for page content to push down footer */
-#wrap {
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  /* Negative indent footer by its height */
-  margin: 0 auto -60px;
-  /* Pad bottom by footer height */
-  padding: 0 0 60px;
-}
-
-/* Set the fixed height of the footer here */
-#footer {
-  height: 60px;
-  background-color: #f5f5f5;
-}
-
-
 /* Custom page CSS
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
-
-#wrap > .container {
-  padding: 10px 15px 0;
-}
-
-#footer > .container {
-  padding-left: 15px;
-  padding-right: 15px;
-}
 
 h4.title {
   font-size: 24px;
@@ -386,23 +359,6 @@ h4.title {
 
 h4.title a {
   color: black;
-}
-
-#nav-mobile > li > a, #nav-mobile > li > a:hover {
-  color: white;
-}
-
-#bottomNav {
-	padding:10px;
-  height:50px;
-}
-#bottomNav a {
-    font-size:16px;
-    color:#ddd;
-    text-decoration:none;
-}
-#bottomNav a:hover {
-    color:#fff;
 }
 
 .logo {
@@ -479,6 +435,8 @@ table {
   width: 100%;
   color: black;
   padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 table a {
@@ -493,13 +451,6 @@ th {
 td {
   padding: 10px;
   border-bottom: 1px dotted grey;
-}
-
-main {
-  background-color: white;
-  margin-bottom:-15px;
-  margin-top: -7px;
-  padding-top:18px;
 }
 
 
