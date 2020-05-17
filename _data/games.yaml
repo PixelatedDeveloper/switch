@@ -510,6 +510,15 @@
   verified_status: true
   verified_url: "https://www.reddit.com/r/NintendoSwitch/comments/7qtppr/ama_were_the_innerspace_devs_ask_us_anything/dsrweaw"
 
+- name: "Ion Fury"
+  handheld: "1080p"
+  docked: "1080p"
+  fps: 30fps
+  dynamic_scaling: false
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=JXoB1Q4WyAw"
+  notes: "Portable downscales 1080p to 720p. Game stutters are fixed in upcoming patch."
+
 - name: "INSIDE"
   handheld: "720p"
   docked: "1080p"
