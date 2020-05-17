@@ -13,7 +13,6 @@ assignees: boumannm
   handheld: "600p-720p"
   docked: "1080p"
   fps: 60fps
-  dynamic_scaling: true
   verified_status: true
   verified_url: "https://switchgame.com/specs.html"
   notes: "framerate drops sometimes"
