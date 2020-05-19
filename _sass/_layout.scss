@@ -194,7 +194,9 @@ h1 {
 	line-height: 26.3999996185303px;
   color: #1e88e5 !important;
 }
-h2, h3, h4 {
+h2,
+h3,
+h4 {
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
@@ -286,7 +288,8 @@ header {
 
 *****************************************/
 
-.svg-inline--fa.fa-twitter.fa-w-16, .svg-inline--fa.fa-github.fa-w-16 {
+.svg-inline--fa.fa-twitter.fa-w-16,
+.svg-inline--fa.fa-github.fa-w-16 {
   color: white;
   padding: 20px;
   border-radius: 50%;
