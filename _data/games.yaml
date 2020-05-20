@@ -1524,6 +1524,7 @@
   fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=KREpHaA0Tbo"
+  notes: "some sporadic fps drops to 30"
 
 - name: "The Walking Dead: The Telltale Series - A new frontier"
   handheld: "720p"
