@@ -1394,6 +1394,13 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Streets of Rage 4"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 60fps
+  verified_status: true
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2020-streets-of-rage-4-switch-xbox-one-port-analysis"
+
 - name: Strikers1945
   handheld: "720p"
   docked: "1080p"
