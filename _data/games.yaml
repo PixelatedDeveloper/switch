@@ -1394,6 +1394,13 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Streets of Rage 4"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 60fps
+  verified_status: true
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2020-streets-of-rage-4-switch-xbox-one-port-analysis"
+
 - name: Strikers1945
   handheld: "720p"
   docked: "1080p"
@@ -1430,7 +1437,7 @@
   verified_url: "https://www.youtube.com/watch?v=hnvuL1lJFeU"
   notes: "1080p no anti-aliasing in Mario Bros U mode. 3D World runs at 900p."
 
-- name: Super Mario Odyssee
+- name: Super Mario Odyssey
   handheld: "720p"
   docked: "720p-900p"
   fps: "60"
@@ -1517,6 +1524,7 @@
   fps: "60"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=KREpHaA0Tbo"
+  notes: "some sporadic fps drops to 30"
 
 - name: "The Walking Dead: The Telltale Series - A new frontier"
   handheld: "720p"
