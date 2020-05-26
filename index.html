@@ -13,7 +13,7 @@ layout: default
                 <th data-field="handheld">Handheld</th>
                 <th data-field="docked">Docked</th>
                 <th data-field="fps">FPS</th>
-                <th class="d-none d-sm-none d-md-block" data-field="notes">Notes</th>
+                <th class="d-none d-sm-none d-md-none d-lg-flex" data-field="notes">Notes</th>
               </tr>
             </thead>
 
@@ -24,7 +24,7 @@ layout: default
                     <td>{{ entry.handheld }}</td>
                     <td>{{ entry.docked }}</td>
                     <td>{{ entry.fps }}</td>
-                    <td class="d-none d-sm-none d-md-block">{% if entry.notes %}{{ entry.notes }}{% endif %}</td>
+                    <td class="d-none d-sm-none d-md-none d-lg-flex">{% if entry.notes %}{{ entry.notes }}{% endif %}</td>
                     
                   </tr>
             {% endfor %}
