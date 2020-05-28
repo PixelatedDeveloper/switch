@@ -373,3 +373,16 @@ header {
     }
     
   }
+
+  /* #############################
+
+  DATATABLES specific
+
+  ############################## */
+  .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background-color: #ebebeb !important;
+  }
+
+  .paginate_button a {
+    color: black !important;
+}
