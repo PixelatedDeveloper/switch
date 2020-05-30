@@ -483,6 +483,7 @@
   handheld: "720p"
   docked: "1080p"
   fps: "60"
+  notes: "30-60fps in split-screen mode"
   verified_status: true
   verified_url: "https://www.nintendoenthusiast.com/horizon-chase-turbo-dev-confirms-1080p-60-fps-on-switch-plus-more/"
 
