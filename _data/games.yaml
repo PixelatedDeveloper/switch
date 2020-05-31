@@ -261,6 +261,13 @@
   verified_url: "https://www.youtube.com/watch?v=yw82bPL9k8U"
   notes: "30 in cutscenes. 4:3 aspect ratio customizer. Some SD-quality cutscenes. Includes 2 player support (Co-Op) and a freestyle mode in single player."
 
+- name: "Diablo III"
+  handheld: "540-720p"
+  docked: "756p-900p"
+  fps: "60"
+  verified_status: true
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2018-11-09-diablo-3-on-switch-better-than-last-gen-and-a-brilliant-conversion"
+
 - name: "Disc Jam"
   handheld: "720p"
   docked: 1080p
@@ -471,6 +478,14 @@
   handheld: "720p"
   docked: "1080p"
   fps: "60"
+
+- name: "Horizon Chase Turbo"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+  notes: "30-60fps in split-screen mode"
+  verified_status: true
+  verified_url: "https://www.nintendoenthusiast.com/horizon-chase-turbo-dev-confirms-1080p-60-fps-on-switch-plus-more/"
 
 - name: Human Resource Machine
   handheld: "720p"
@@ -704,10 +719,25 @@
   docked: "900p"
   fps: "30"
 
+- name: "Minecraft Dungeons"
+  handheld: "720p"
+  docked: "900p-1080p"
+  fps: "30"
+  notes: "drops to 25fps, sometimes a bit below"
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=E1ZHZa8Lgig"
+
 - name: "Monopoly for Switch"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
+
+- name: "Monster Boy and the Cursed Kingdom"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+  verified_status: true
+  verified_url: "https://nintendoeverything.com/monster-boy-and-the-cursed-kingdom-resolution-and-frame-rate-details/"
 
 - name: Morphite
   handheld: "720p"
@@ -1533,6 +1563,13 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=KREpHaA0Tbo"
   notes: "some sporadic fps drops to 30"
+
+- name: "The Touryst"
+  handheld: "612p-720p"
+  docked: "810p-1080p"
+  fps: "60"
+  verified_status: true
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2019-the-touryst-switch-analysis"
 
 - name: "The Walking Dead: The Telltale Series - A new frontier"
   handheld: "720p"
