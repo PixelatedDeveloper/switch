@@ -1570,7 +1570,7 @@
   fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=ZRWp5_FBvOs"
-  notes: "Blurry with TAA. Texture streaming issues. Major FPS drops (in 20s) and framepacing issues."
+  notes: "Blurry with TAA. Texture streaming issues. Major FPS drops (15-low 20s) and framepacing issues."
 
 - name: "The Touryst"
   handheld: "612p-720p"
