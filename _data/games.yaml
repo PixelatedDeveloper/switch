@@ -103,6 +103,14 @@
   verified_url: "https://www.youtube.com/watch?v=R_M0gX0GE0o"
   notes: "some minor fps drops below 60"
 
+- name: "Bioshock: The Collection"
+  handheld: "720p"
+  docked: "810-1080p"
+  fps: "30"
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=0VwyyO4gQiQ"
+  notes: "Effects are dropped in resolution. Texture quality around Xbox360 level. Bioshock Infinite minor framepacing issues."
+
 - name: Blaster Master Zero
   handheld: "1200x720"
   docked: "1800x1080"
