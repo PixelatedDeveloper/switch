@@ -93,7 +93,7 @@
   fps: "30"
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=-FuSiIdcZRI"
-  notes: "Incl. Borderlands 1-2-prequel. Max 2 player splitscreen. No AA and reduced AF. Prequel has dynamic 720/1080p drops to 810p, has AA, reduce alpha-effects resolution."
+  notes: "Incl. Borderlands 1-2-prequel. Max 2 player splitscreen. No AA and reduced AF, FPS dips with explosions on Borderlands 1-2. Prequel has dynamic 720/1080p drops to 810p, has AA, reduce alpha-effects resolution."
 
 - name: Bayonetta
   handheld: "720p"
