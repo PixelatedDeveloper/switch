@@ -119,6 +119,11 @@
   verified_url: "https://www.youtube.com/watch?v=0VwyyO4gQiQ"
   notes: "Effects are dropped in resolution. Texture quality around Xbox360 level. Bioshock Infinite minor framepacing issues."
 
+- name: Blair Witch
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: Blaster Master Zero
   handheld: "1200x720"
   docked: "1800x1080"
