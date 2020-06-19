@@ -14,8 +14,10 @@
 - name: "Apex Legends"
   handheld: ""
   docked: ""
-  fps: "60"
+  fps: ""
   notes: "Has Gyro aiming support. Supports crossplay with all platforms."
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=Kn4cBmafBf0"
 
 - name: "Arcade Archives: Crazy Climber"
   handheld: "-"
