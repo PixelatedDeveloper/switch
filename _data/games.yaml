@@ -169,11 +169,11 @@
 
 - name: "Burnout Paradise Remastered"
   handheld: "720p"
-  docked: "1080p"
+  docked: "900p"
   fps: "60"
   verified_status: true
-  verified_url: "https://www.youtube.com/watch?v=VsvXgmlwLUU"
-  notes: "Will generally look similar to X360/PS3 version of non-remastered. Handheld looks worse (texture resolution and such)."
+  verified_url: "https://www.youtube.com/watch?v=h9kcCPFOeHo"
+  notes: "Will generally look between last-gen and current-gen ie lower texture resolution, lack of ambient occlusion and such. Some drops to 50FPS."
 
 - name: "Cars 3"
   handheld: "-"
