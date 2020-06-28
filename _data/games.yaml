@@ -1631,6 +1631,10 @@
   docked: "1080p"
   fps: "30"
 
+- name: "The War of Genesis: Remnants of Gray"
+  handheld: "-"
+  docked: "-"
+
 - name: "The Witcher 3: Complete Edition"
   handheld: "540p"
   docked: "504p-720p"
