@@ -90,6 +90,11 @@
   verified_status: true
   verified_url: "https://www.nintendo.com/games/detail/azure-striker-gunvolt-striker-pack-switch"
 
+- name: "Azure Striker Gunvolt 3"
+  handheld: ""
+  docked: ""
+  fps: ""
+
 - name: "Battle Chasers: Nightwar"
   handheld: "-"
   docked: "-"
