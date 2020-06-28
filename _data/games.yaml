@@ -385,6 +385,10 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Fallen Legion: Revenants"
+  handheld: "-"
+  docked: "-"
+
 - name: "Fallout Shelter"
   handheld: "720p"
   docked: "1080p"
