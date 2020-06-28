@@ -132,6 +132,10 @@
   verified_url: "https://www.youtube.com/watch?v=0VwyyO4gQiQ"
   notes: "Effects are dropped in resolution. Texture quality around Xbox360 level. Bioshock Infinite minor framepacing issues."
 
+- name: Bladed Fury
+  handheld: "-"
+  docked: "-"
+
 - name: Blair Witch
   handheld: "720p"
   docked: "1080p"
