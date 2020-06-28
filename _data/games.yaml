@@ -1257,6 +1257,10 @@
   verified_url: "https://www.youtube.com/watch?v=czXsJwfjps8"
   notes: "Running into wild Pokemon dips framerate."
 
+- name: "Pokemon Unite"
+  handheld: "-"
+  docked: "-"
+
 - name: "Pokken Tournament"
   handheld: "960x720p"
   docked: "720p"
