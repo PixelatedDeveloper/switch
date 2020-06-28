@@ -1817,6 +1817,10 @@
   verified_status: true
   verified_url: "https://nintendoeverything.com/yoshis-crafted-world-tech-analysis/"
 
+- name: "Ys IX Monstrum Nox"
+  handheld: "-"
+  docked: "-"
+
 - name: "Ys VIII: Lacrimosa of DANA"
   handheld: "-"
   docked: "-"
