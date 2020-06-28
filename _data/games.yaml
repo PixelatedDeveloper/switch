@@ -4,6 +4,10 @@
   fps: "60"
   verified_status: true
 
+- name: "Alchemic Cutie"
+  handheld: "-"
+  docked: "-"
+
 - name: "Animal Crossing New Horizons"
   handheld: "720p"
   docked: "1080p"
