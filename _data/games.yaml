@@ -730,6 +730,10 @@
   docked: "1080p"
   fps: "60"
 
+- name: Metal Revolution
+  handheld: "-"
+  docked: "-"
+
 - name: "Metro Redux"
   handheld: "480-720p"
   docked: "720p"
