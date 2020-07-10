@@ -1198,6 +1198,11 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=q0h9bilVjEY"
 
+- name: "Paper Mario: The Origami King"
+  handheld: ""
+  docked: ""
+  fps: "60"
+
 - name: "Payday 2"
   handheld: "720p"
   docked: "900p"
