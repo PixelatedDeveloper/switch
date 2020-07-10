@@ -141,9 +141,11 @@
   verified_url: "https://www.youtube.com/watch?v=0VwyyO4gQiQ"
   notes: "Effects are dropped in resolution. Texture quality around Xbox360 level. Bioshock Infinite minor framepacing issues."
 
-- name: Bladed Fury
+- name: "Bloodstained: Curse of the Moon 2"
   handheld: "-"
   docked: "-"
+  fps: "60"
+  notes: "eShop title"
 
 - name: Blair Witch
   handheld: "720p"
@@ -162,6 +164,10 @@
   handheld: "720p"
   docked: "1080p"
   fps: "60"
+
+- name: Bladed Fury
+  handheld: "-"
+  docked: "-"
 
 - name: "Blossom Tales: The Sleeping King"
   handheld: "720p"
