@@ -520,6 +520,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Gradius"
+  handheld: ""
+  docked: ""
+  fps: "-"
+
 - name: Grid Autosport
   handheld: "720p"
   docked: "1080p"
