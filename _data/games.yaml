@@ -1511,6 +1511,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Story of Seasons: Friends of Mineral Town"
+  handheld: ""
+  docked: ""
+  fps: ""
+
 - name: "Street Fighter 30th Anniversary Collection"
   handheld: "720p"
   docked: "1080p"
