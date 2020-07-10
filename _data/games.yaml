@@ -1228,6 +1228,12 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Persona 5 Scramble: The Phantom Strikers"
+  handheld: ""
+  docked: ""
+  fps: ""
+  notes: "Japan only"
+
 - name: "Phantom Trigger"
   handheld: "720p"
   docked: "1080p"
