@@ -304,6 +304,12 @@
   verified_status: true
   verified_url: "https://www.usgamer.net/articles/17-04-2018-dark-souls-remastered-switch-ps4-xbox-one-pc-release-date-enhancements-features-everything-we-know"
 
+- name: "Dead Cells: Prisoner's Edition"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+  notes: "Releases in August with all DLC on cart."
+
 - name: Death Squared
   handheld: "720p"
   docked: "1080p"
