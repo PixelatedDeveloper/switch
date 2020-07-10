@@ -1431,6 +1431,11 @@
   handheld: "-"
   docked: "-"
 
+- name: "Shantae"
+  handheld: ""
+  docked: ""
+  fps: ""
+
 - name: "Shantae and the Pirate's Curse"
   handheld: "720p"
   docked: "1080p"
@@ -1442,6 +1447,11 @@
   fps: "60"
   verified_status: true
   verified_url: "https://www.redvaluegaming.com/reviews/shantae-half-genie-hero"
+
+- name: "Shantae: Risky's Revenge"
+  handheld: ""
+  docked: ""
+  fps: ""
 
 - name: "Shaq-Fu: a Legend Reborn"
   handheld: "720p"
