@@ -1720,6 +1720,12 @@
   docked: "1080p"
   fps: "30"
 
+- name: "Tomb Raider: The Ultimate Experience"
+  handheld: ""
+  docked: ""
+  fps: ""
+  notes: "Rumoured to come to Switch"
+
 - name: "Trails Rising"
   handheld: "400-720p"
   docked: "400-720p"
