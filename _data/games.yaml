@@ -256,12 +256,6 @@
   verified_status: true
   verified_url: "https://gadgets.ndtv.com/games/news/cuphead-nintendo-switch-release-date-2010915"
 
-- name: Disgaea 5 Complete
-  handheld: "720p"
-  docked: "720p"
-  fps: "60"
-  notes: "Has some small FPS drops"
-
 - name: "Daemon X Machina (demo)"
   handheld: "408-720p"
   docked: "936-1080p"
@@ -339,6 +333,12 @@
   handheld: "720p"
   docked: 1080p
   fps: "60"
+
+- name: Disgaea 5 Complete
+  handheld: "720p"
+  docked: "720p"
+  fps: "60"
+  notes: "Has some small FPS drops"
 
 - name: "Divinity Original Sin 2"
   handheld: "495p-648p"
