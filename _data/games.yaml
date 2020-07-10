@@ -99,6 +99,11 @@
   docked: ""
   fps: ""
 
+- name: "Bakugan: Champions of Vestroia"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
 - name: "Battle Chasers: Nightwar"
   handheld: "-"
   docked: "-"
