@@ -305,12 +305,12 @@
   notes: "Releases in August with all DLC on cart."
 
 - name: "Deadly Premonition 2"
-  handheld: "-"
-  docked: "-"
-  fps: "-"
+  handheld: "720p"
+  docked: "810p"
+  fps: "30"
   verified_status: true
-  verified_url: "https://www.nintendolife.com/news/2020/07/swery_says_he_will_fight_with_the_producer_to_work_on_deadly_premonition_2s_awful_frame_rate"
-  notes: "Has FPS issues."
+  verified_url: "https://www.youtube.com/watch?v=5CHUT-9uofw"
+  notes: "Has some major FPS issues. Loading seems stuck."
 
 - name: Death Squared
   handheld: "720p"
