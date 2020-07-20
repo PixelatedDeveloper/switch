@@ -1467,6 +1467,12 @@
   handheld: "-"
   docked: "-"
 
+- name: "Shin Megami Tensei III: Nocturne HD Remaster"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+  # notes: "coming in 2021"
+
 - name: "Shovel Knight: Spectre of Torment"
   handheld: "720p"
   docked: "1080p"
