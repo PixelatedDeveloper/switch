@@ -249,6 +249,14 @@
   fps: "30"
   notes: "No fur textures on Switch"
 
+- name: "Crysis Remastered"
+  handheld: "540-720p"
+  docked: "540-720p"
+  fps: "30"
+  notes: "Game based on Cryengine 3 (X360/PS3). Averages 720p resolution but can drop slightly below 540p. Reduced shadows handheld mode. Adds global illumination. Inconsistent framerate."
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=WRBwVAy03O8"
+
 - name: "Cuphead"
   handheld: "720p"
   docked: "1080p"
