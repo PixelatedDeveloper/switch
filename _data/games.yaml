@@ -243,6 +243,11 @@
   handheld: "-"
   docked: "-"
 
+- name: CrossCode
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
 - name: "Crypt of the NecroDancer: Nintendo Switch Edition"
   handheld: "720p"
   docked: "1080p"
