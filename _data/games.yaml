@@ -1852,6 +1852,11 @@
   docked: "1080p"
   fps: "-"
 
+- name: "Warhammer 40,000: Mechanicus"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
 - name: "Warriors Orochi 4 Ultimate"
   handheld: "720p"
   docked: "1080p"
