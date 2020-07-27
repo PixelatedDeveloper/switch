@@ -1754,6 +1754,11 @@
   verified_url: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjjkefGu7vpAhUSsaQKHfNMDTkQwqsBMAB6BAgVEAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhUHNowimzDA&usg=AOvVaw1z_hPjfOPfeVlQVBIgVtKz"
   notes: "Resolutions are based on previews and estimations"
 
+- name: "The Wonderful 101: Remastered"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Thronebreaker: The Witcher Tales"
   handheld: "720p"
   docked: "1080p"
