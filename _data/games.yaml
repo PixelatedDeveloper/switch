@@ -1273,6 +1273,11 @@
   docked: "720p"
   fps: Unlocked
 
+- name: "Pokemon Cafe mix"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "-"
+
 - name: "Pokemon: Let's Go Pikachu!"
   handheld: "720p"
   docked: "1080p"
