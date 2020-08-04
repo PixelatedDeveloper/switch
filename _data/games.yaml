@@ -1523,6 +1523,11 @@
   docked: "-"
   fps: "60"
 
+- name: "Skully"
+  handheld: "-"
+  docked: "-"
+  fps: "30"
+
 - name: Skylanders Imaginators
   handheld: "-"
   docked: "-"
