@@ -1687,17 +1687,23 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=LEZLvXDZOqA"
 
+- name: "The Alto Collection"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+  notes: "Includes Alto's Adventure and Alto's Odyssey."
+
+- name: "The Banner Saga"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "The Elder Scrolls V: Skyrim"
   handheld: "896x720p-1280x720p"
   docked: "900p"
   fps: "60"
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-skyrim-switch-vs-playstation-4"
-
-- name: "The Banner Saga"
-  handheld: "720p"
-  docked: "1080p"
-  fps: "60"
 
 - name: "The Banner Saga 2"
   handheld: "720p"
