@@ -51,6 +51,10 @@
   handheld: "-"
   docked: "-"
 
+- name: "Arcade Archives: Super Punch-Out!!"
+  handheld: "-"
+  docked: "-"
+
 - name: "Arcade Archives: VS. Super Mario Bros"
   handheld: "720p"
   docked: "1080p"
