@@ -754,6 +754,10 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Manifold Garden"
+  handheld: "720p"
+  docked: "1080p"
+
 - name: "Mario & Rabbits: Kingdom Battle"
   handheld: "1066x600"
   docked: "900p"
