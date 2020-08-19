@@ -1643,6 +1643,14 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Subnautica"
+  handheld: "-"
+  docked: "-"
+
+- name: "Subnautica Below Zero"
+  handheld: "-"
+  docked: "-"
+
 - name: "Superhot"
   handheld: "720p"
   docked: "1080p"
