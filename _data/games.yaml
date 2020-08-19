@@ -1691,6 +1691,10 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=E6_SD97H1WQ"
 
+- name: "Spiritfarer"
+  handheld: "720p"
+  docked: "1080p"
+
 - name: Steamworld Dig
   handheld: "720p"
   docked: "1080p"
