@@ -441,6 +441,10 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Evergate"
+  handheld: "720p"
+  docked: "1080p"
+
 - name: "Fallen Legion: Revenants"
   handheld: "-"
   docked: "-"
