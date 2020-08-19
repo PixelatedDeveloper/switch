@@ -4,6 +4,10 @@
   fps: "60"
   verified_status: true
 
+- name: "A Short Hike"
+  handheld: "-"
+  docked: "-"
+
 - name: "Alchemic Cutie"
   handheld: "-"
   docked: "-"
