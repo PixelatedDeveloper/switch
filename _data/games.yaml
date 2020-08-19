@@ -576,6 +576,10 @@
   docked: "1080p"
   fps: "60"
 
+- name: "HADES"
+  handheld: "-"
+  docked: "-"
+
 - name: "Harvest Moon: Light of Hope"
   handheld: "-"
   docked: "-"
