@@ -224,6 +224,10 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=iq0N-AsZ8Vo"
 
+- name: "Card Shark"
+  handheld: "-"
+  docked: "-"
+
 - name: "Catherine: Full Body"
   handheld: "-"
   docked: "-"
