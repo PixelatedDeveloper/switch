@@ -23,7 +23,6 @@
   handheld: "-"
   docked: "-"
 
-
 - name: "Apex Legends"
   handheld: ""
   docked: ""
@@ -609,6 +608,10 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=Xb1BGLGS_UY"
   notes: "Cutscenes are videos instead of realtime. Framepacing is off (might come up as stuttering)."
+
+- name: "Hellpoint"
+  handheld: "-"
+  docked: "-"
 
 - name: "Hollow Knight"
   handheld: "720p"
