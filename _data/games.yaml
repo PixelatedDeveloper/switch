@@ -1591,11 +1591,6 @@
   verified_status: true
   verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-snake-pass-on-switch-holds-up-nicely-against-ps4"
 
-- name: "South Park: The Fractured but Whole (Gold Edition)"
-  handheld: "-"
-  docked: "-"
-  fps: "30"
-
 - name: "Sniper Elite 3: Ultimate Edition"
   handheld: "630p-720p"
   docked: "720p-918p"
@@ -1607,6 +1602,15 @@
   handheld: "720p"
   docked: "1080p"
   fps: "Unlocked (target 60)"
+
+- name: "South Park: The Fractured but Whole (Gold Edition)"
+  handheld: "-"
+  docked: "-"
+  fps: "30"
+
+- name: "Spinch"
+  handheld: "-"
+  docked: "-"
 
 - name: Splatoon 2
   handheld: "538p-720p"
