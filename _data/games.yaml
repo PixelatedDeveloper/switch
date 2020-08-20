@@ -562,6 +562,10 @@
   fps: "30"
   notes: "1080p main menu and garage in docked. Average is ~25FPS docked, ~23FPS portable. Peaks to 31FPS before settling when recovering from drop."
 
+- name: "Gleamlight"
+  handheld: "-"
+  docked: "-"
+
 - name: GoNNER
   handheld: "720p"
   docked: "1080p"
