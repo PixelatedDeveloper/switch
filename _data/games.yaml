@@ -544,6 +544,10 @@
   docked: "1080p"
   fps: "-"
 
+- name: "Garden Story"
+  handheld: "-"
+  docked: "-"
+
 - name: "Girls und Panzer Dream Tank Match DX"
   handheld: "720p"
   docked: "720p"
