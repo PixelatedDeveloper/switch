@@ -624,6 +624,10 @@
   docked: "1080p"
   fps: "30"
 
+- name: "Hypnospace Outlaw"
+  handheld: "-"
+  docked: "-"
+
 - name: "Hyrule Warriors: Definitive Edition"
   handheld: "720p"
   docked: "1080p"
