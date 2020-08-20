@@ -19,6 +19,11 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=Iw5epbkgSQM"
 
+- name: "Aokana: Four Rhythms Across The Blue"
+  handheld: "-"
+  docked: "-"
+
+
 - name: "Apex Legends"
   handheld: ""
   docked: ""
