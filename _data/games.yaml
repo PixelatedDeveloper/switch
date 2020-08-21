@@ -1182,6 +1182,10 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=kOYRk5U8CVs"
 
+- name: "Nexomon: Extinction"
+  handheld: "-"
+  docked: "-"
+
 - name: "Night in the Woods"
   handheld: "720p"
   docked: "1080p"
