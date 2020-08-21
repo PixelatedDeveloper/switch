@@ -669,6 +669,10 @@
   docked: "1080p"
   fps: "60"
 
+- name: "INMOST"
+  handheld: ""
+  docked: ""
+
 - name: "InnerSpace"
   handheld: "720p"
   docked: "1080p"
