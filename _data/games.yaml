@@ -1209,6 +1209,10 @@
   fps: "30"
   notes: "interlaced"
 
+- name: "No Straight Roads"
+  handheld: "-"
+  docked: "-"
+
 - name: Oceanhorn
   handheld: "720p"
   docked: "1080p"
