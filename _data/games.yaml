@@ -556,6 +556,10 @@
   handheld: "-"
   docked: "-"
 
+- name: "Giraffe and Annika"
+  handheld: ""
+  docked: ""
+
 - name: "Girls und Panzer Dream Tank Match DX"
   handheld: "720p"
   docked: "720p"
