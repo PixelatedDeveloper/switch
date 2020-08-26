@@ -731,6 +731,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "KINGDOM HEARTS Melody of Memory"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
 - name: "Kirby: Star Allies"
   handheld: "648p"
   docked: "864p"
