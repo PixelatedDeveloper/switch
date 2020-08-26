@@ -1446,6 +1446,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Puyo Puyo Tetris 2"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Puzzle Adventure Blockle"
   handheld: "720p"
   docked: "1080p"
