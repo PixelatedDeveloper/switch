@@ -2040,6 +2040,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "World of Tanks Blitz"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
 - name: WWE 2K18
   handheld: "-"
   docked: "540p-720p"
