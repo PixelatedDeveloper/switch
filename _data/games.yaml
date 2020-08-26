@@ -265,8 +265,8 @@
   docked: "-"
 
 - name: "COLLECTION of SaGa FINAL FANTASY LEGEND"
-  handheld: "720p"
-  docked: "1080p"
+  handheld: "-"
+  docked: "-"
   fps: "60"
   notes: "Collection of Final Fantasy Legend, Legend 2 and Legend 3."
 
