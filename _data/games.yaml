@@ -502,6 +502,11 @@
   verified_url: "http://www.eurogamer.net/articles/2017-06-10-fifa-18-on-switch-wont-have-the-journey-but-does-get-fut-and-co-op-seasons"
   notes: "Pause Menu, Outfit Kit Selection Menu and match cutscenes are 30. Game is based on PS3/X360 version."
 
+- name: "FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: Fire Emblem Warriors
   handheld: "720p"
   docked: "1080p"
@@ -515,7 +520,7 @@
 - name: Flame in the Flood
   handheld: "672p"
   docked: "900p"
-  fps: Unlocked
+  fps: "Unlocked"
 
 - name: Flip Wars
   handheld: "720p"
