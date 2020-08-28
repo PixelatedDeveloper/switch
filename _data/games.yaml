@@ -451,7 +451,7 @@
   docked: 1080p
   fps: "30"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-dragon-quest-heroes-2-switch-vs-ps4-comparison"
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-dragon-quest-heroes-2-switch-vs-ps4-comparison"
   notes: "Can drop to 20"
 
 - name: "Enter the Gungeon"
@@ -477,7 +477,7 @@
   docked: "1080p"
   fps: "60"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-fast-rmx-showcases-switches-power-over-wii-u"
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-fast-rmx-showcases-switches-power-over-wii-u"
 
 - name: "Fate/EXTELLA: The Umbral Star"
   handheld: "720p"
@@ -491,7 +491,7 @@
   docked: "720p"
   fps: "30"
   verified_status: true
-  verified_url: "http://gearnuke.com/fe-nintendo-switch-vs-ps4-comparison-visually-strong-average-performance/"
+  verified_url: "https://gearnuke.com/fe-nintendo-switch-vs-ps4-comparison-visually-strong-average-performance/"
   notes: "has drops below that sometimes"
 
 - name: "FIFA18 for Nintendo Switch"
@@ -499,7 +499,7 @@
   docked: "1080p"
   fps: "60"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/2017-06-10-fifa-18-on-switch-wont-have-the-journey-but-does-get-fut-and-co-op-seasons"
+  verified_url: "https://www.eurogamer.net/articles/2017-06-10-fifa-18-on-switch-wont-have-the-journey-but-does-get-fut-and-co-op-seasons"
   notes: "Pause Menu, Outfit Kit Selection Menu and match cutscenes are 30. Game is based on PS3/X360 version."
 
 - name: "FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition"
@@ -512,7 +512,7 @@
   docked: "1080p"
   fps: 30"
   verified_status: true
-  verified_url: "http://nintendoeverything.com/fire-emblem-warriors-lets-you-play-at-60-fps-in-exchange-for-lower-resolution/"
+  verified_url: "https://nintendoeverything.com/fire-emblem-warriors-lets-you-play-at-60-fps-in-exchange-for-lower-resolution/"
   notes: "Option to use unlocked framerate with 720p resolution (near full 60 lock)"
 
 - name: Fire Emblem 2018
@@ -672,7 +672,7 @@
   docked: "1080p"
   fps: "30"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-i-am-setsuna-switch-vs-ps4-face-off"
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-i-am-setsuna-switch-vs-ps4-face-off"
 
 - name: Implosion
   handheld: "720p"
@@ -760,7 +760,7 @@
   docked: "1440x1080"
   fps: "30"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-lego-city-undercover-face-off"
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-lego-city-undercover-face-off"
   notes: "FPS drops"
 
 - name: LEGO Marvel Super Heroes 2
@@ -841,7 +841,7 @@
   docked: "1080p"
   fps: "60"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-mario-kart-8-deluxe-tech-analysis"
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-mario-kart-8-deluxe-tech-analysis"
   notes: "30 in 3-4 player mode (HUD still 60)."
 
 - name: "Mario Tennis: Aces"
@@ -905,7 +905,7 @@
   docked: "1080p"
   fps: "60"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-switch-minecraft-patch-1080p-confirmed-and-more"
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-switch-minecraft-patch-1080p-confirmed-and-more"
 
 - name: "Minecraft: Story Mode"
   handheld: "648p"
@@ -1309,7 +1309,7 @@
   docked: "1080p"
   fps: "30"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-overcooked-on-switch-has-big-performance-problems"
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-overcooked-on-switch-has-big-performance-problems"
   notes: "framerate improved in later patches"
 
 - name: "Override 2: Super Mech League"
@@ -1657,7 +1657,7 @@
   docked: "675p"
   fps: "30"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-snake-pass-on-switch-holds-up-nicely-against-ps4"
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-snake-pass-on-switch-holds-up-nicely-against-ps4"
 
 - name: "Sniper Elite 3: Ultimate Edition"
   handheld: "630p-720p"
@@ -1685,7 +1685,7 @@
   docked: "720p-1080p"
   fps: "60"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-how-does-splatoon-2-tech-improve-over-wii-u"
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-how-does-splatoon-2-tech-improve-over-wii-u"
   notes: "Docked can drop to 720p, handheld drop to 964x538. Hub area is a locked 30 fps."
 
 - name: Stardew Valley
@@ -1693,7 +1693,7 @@
   docked: "1080p"
   fps: "60"
   verified_status: true
-  verified_url: "http://www.neogaf.com/forum/showthread.php?t=1418096"
+  verified_url: "https://www.neogaf.com/forum/showthread.php?t=1418096"
 
 - name: "Stern Pinball"
   handheld: "720p"
@@ -1751,7 +1751,7 @@
   docked: "720p"
   fps: "60"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-super-bomberman-r-60-patch-report"
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-super-bomberman-r-60-patch-report"
   notes: "45fps story mode, 60fps battle"
 
 - name: "Super Daryl Deluxe"
@@ -1859,7 +1859,7 @@
   docked: "900p"
   fps: "30"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-zelda-breath-of-the-wild-uses-dynamic-resolution-scaling"
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-zelda-breath-of-the-wild-uses-dynamic-resolution-scaling"
   notes: "FPS drops in Korok forest to ~20"
 
 - name: "The Legend of Zelda: Link's Awakening"
@@ -2042,7 +2042,7 @@
   docked: "1080p"
   fps: "60"
   verified_status: true
-  verified_url: "http://www.thedragonstrap.com/blog/post/201701_NintendoSwitch/"
+  verified_url: "https://www.thedragonstrap.com/blog/post/201701_NintendoSwitch/"
 
 - name: World of Final Fantasy Maxima
   handheld: "576p"
@@ -2098,7 +2098,7 @@
   docked: "900p"
   fps: "30"
   verified_status: true
-  verified_url: "http://www.eurogamer.net/articles/digitalfoundry-2017-yooka-laylee-switch-port-analysis"
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-yooka-laylee-switch-port-analysis"
 
 - name: "Yooka-Laylee and the Impossible Lair"
   handheld: "540p"
