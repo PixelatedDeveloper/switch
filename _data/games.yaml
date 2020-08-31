@@ -1685,6 +1685,11 @@
   handheld: "-"
   docked: "-"
 
+- name: "Spiritfarer"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "-"
+
 - name: Splatoon 2
   handheld: "538p-720p"
   docked: "720p-1080p"
