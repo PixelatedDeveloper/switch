@@ -233,9 +233,9 @@
   docked: "-"
 
 - name: "Catherine: Full Body"
-  handheld: "-"
-  docked: "-"
-  fps: "-"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
   verified_status: true
   verified_url: "https://personacentral.com/catherine-full-body-for-nintendo-switch-qa-confirms-upcoming-demo/"
   notes: "Local 2 player coop (single joycon), Local wireless multiplayer (2 game copies needed)."
