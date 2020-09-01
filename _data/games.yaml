@@ -1537,6 +1537,11 @@
   verified_url: "https://www.eurogamer.net/articles/2017-11-14-rime-developer-addresses-switch-performance-issues"
   notes: "Recent patch updates performance/graphics; still no locked 30 at all times"
 
+- name: "Ring Fit Adventure"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Road to Guangdong"
   handheld: "720p"
   docked: "1080p"
