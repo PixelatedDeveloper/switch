@@ -1388,6 +1388,10 @@
   handheld: "-"
   docked: "-"
 
+- name: "Piffle"
+  handheld: "720p"
+  docked: "1080p"
+
 - name: "Pikmin 3 Deluxe"
   handheld: ""
   docked: ""
