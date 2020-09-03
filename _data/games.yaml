@@ -854,6 +854,11 @@
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-mario-kart-8-deluxe-tech-analysis"
   notes: "30 in 3-4 player mode (HUD still 60)."
 
+- name: "Mario Kart Live: Home Circuit"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Mario Tennis: Aces"
   handheld: "720p"
   docked: "900p"
@@ -1795,6 +1800,12 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=hnvuL1lJFeU"
   notes: "1080p no anti-aliasing in Mario Bros U mode. 3D World runs at 900p."
+
+- name: "Super Mario Bros. 35"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+  notes: "Exclusive to Nintendo Switch Online members."
 
 - name: Super Mario Odyssey
   handheld: "720p"
