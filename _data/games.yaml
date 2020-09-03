@@ -1793,6 +1793,11 @@
   docked: "-"
   fps: "60"
 
+- name: "Super Mario 3D World + Bowser's Fury"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Super Mario Maker 2"
   handheld: "720p"
   docked: "1080p"
