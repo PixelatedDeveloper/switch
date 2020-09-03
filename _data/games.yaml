@@ -1793,6 +1793,12 @@
   docked: "-"
   fps: "60"
 
+- name: "Super Mario 3D All-Stars"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+  notes: "Includes Super Mario 64, Super Mario Sunshine and Super Mario Galaxy."
+
 - name: "Super Mario 3D World + Bowser's Fury"
   handheld: "720p"
   docked: "1080p"
