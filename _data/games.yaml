@@ -1361,6 +1361,11 @@
   docked: ""
   fps: "60"
 
+- name: "Paradise Killer"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: "Payday 2"
   handheld: "720p"
   docked: "900p"
