@@ -1705,6 +1705,11 @@
   docked: "-"
   fps: "30"
 
+- name: "Spellbreak"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
 - name: "Spinch"
   handheld: "720p"
   docked: "1080p"
