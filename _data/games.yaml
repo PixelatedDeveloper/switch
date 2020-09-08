@@ -665,6 +665,11 @@
   handheld: "-"
   docked: "-"
 
+- name: "Hyrule Warriors: Age of Calamity"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
 - name: "Hyrule Warriors: Definitive Edition"
   handheld: "720p"
   docked: "1080p"
