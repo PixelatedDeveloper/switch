@@ -1596,6 +1596,11 @@
   verified_url: "https://www.youtube.com/watch?v=EXghJeLSXHQ"
   notes: "Skydive start runs 30fps. Handheld has lower quality shadows and a switch to FXAA instead of TAA."
 
+- name: "RollerCoaster Tycoon 3: Complete Edition"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
 - name: "Romancing Saga 2"
   handheld: "-"
   docked: "-"
