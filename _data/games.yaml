@@ -237,6 +237,11 @@
   handheld: "-"
   docked: "-"
 
+- name: "Carto"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Catherine: Full Body"
   handheld: "720p"
   docked: "1080p"
