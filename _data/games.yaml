@@ -408,6 +408,11 @@
   fps: "60"
   notes: "Has some small FPS drops"
 
+- name: "Disgaea 6: Defiance of Destiny"
+  handheld: "-"
+  docked: "-"
+  fps: "60"
+
 - name: "Divinity Original Sin 2"
   handheld: "495p-648p"
   docked: "612p-1080p"
