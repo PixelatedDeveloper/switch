@@ -1631,7 +1631,12 @@
   handheld: "-"
   docked: "-"
 
-- name: Runner 3
+- name: "Rune Factory 5"
+  handheld: "-"
+  docked: "-"
+  fps: "30"
+
+- name: "Runner 3"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
