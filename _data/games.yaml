@@ -121,6 +121,11 @@
   docked: "-"
   fps: "-"
 
+- name: Balan Wonderworld
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Battle Chasers: Nightwar"
   handheld: "-"
   docked: "-"
