@@ -1323,6 +1323,11 @@
   verified_status: true
   verified_url: "https://nintendoeverything.com/ori-and-the-blind-forest-switch-details-resolution-frame-rate-xbox-live-achievements-more/"
 
+- name: "Ori and the Will of the Wisps"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: Othello
   handheld: "720p"
   docked: "1080p"
