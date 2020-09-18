@@ -543,6 +543,11 @@
 
 - name: Fire Emblem 2018
 
+- name: "Fitness Boxing 2: Rhythm & Exercise"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: Flame in the Flood
   handheld: "672p"
   docked: "900p"
