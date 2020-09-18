@@ -541,7 +541,11 @@
   verified_url: "https://nintendoeverything.com/fire-emblem-warriors-lets-you-play-at-60-fps-in-exchange-for-lower-resolution/"
   notes: "Option to use unlocked framerate with 720p resolution (near full 60 lock)"
 
-- name: Fire Emblem 2018
+- name: "Fire Emblem: Three Houses"
+  handheld: "720p"
+  docked: "1080p"
+  fps: 30"
+  notes: "Dynamic resolution. FPS drops."
 
 - name: "Fitness Boxing 2: Rhythm & Exercise"
   handheld: "720p"
