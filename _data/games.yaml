@@ -983,6 +983,11 @@
   docked: "-"
   fps: "30"
 
+- name: "Monster Hunter Stories 2: Wings of Ruin"
+  handheld: "-"
+  docked: "-"
+  fps: "30"
+
 - name: Morphite
   handheld: "720p"
   docked: "1080p"
