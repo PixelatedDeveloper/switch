@@ -980,6 +980,11 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=E1ZHZa8Lgig"
 
+- name: "Mini Motor Racing X"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Monopoly for Switch"
   handheld: "720p"
   docked: "1080p"
