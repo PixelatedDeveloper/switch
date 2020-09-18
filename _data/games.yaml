@@ -474,6 +474,11 @@
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-dragon-quest-heroes-2-switch-vs-ps4-comparison"
   notes: "Can drop to 20"
 
+- name: "Empire of Sin"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
 - name: "Enter the Gungeon"
   handheld: "720p"
   docked: "1080p"
