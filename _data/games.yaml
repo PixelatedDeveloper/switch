@@ -1988,6 +1988,11 @@
   verified_url: "https://www.youtube.com/watch?v=KREpHaA0Tbo"
   notes: "some sporadic fps drops to 30"
 
+- name: "The Long Dark"
+  handheld: "-"
+  docked: "-"
+  fps: "30"
+
 - name: "The Outer Worlds"
   handheld: "384-720p"
   docked: "720-1080p"
