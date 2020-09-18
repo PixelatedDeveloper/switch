@@ -978,6 +978,11 @@
   verified_status: true
   verified_url: "https://nintendoeverything.com/monster-boy-and-the-cursed-kingdom-resolution-and-frame-rate-details/"
 
+- name: "Monster Hunter Rise"
+  handheld: "-"
+  docked: "-"
+  fps: "30"
+
 - name: Morphite
   handheld: "720p"
   docked: "1080p"
