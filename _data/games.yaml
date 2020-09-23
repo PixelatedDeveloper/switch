@@ -602,6 +602,11 @@
   handheld: "-"
   docked: "-"
 
+- name: Ghostrunner
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Giraffe and Annika"
   handheld: ""
   docked: ""
