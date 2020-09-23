@@ -2154,6 +2154,11 @@
   handheld: "-"
   docked: "-"
 
+- name: Vigor
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: VOEZ
   handheld: "720p"
   docked: "1080p"
