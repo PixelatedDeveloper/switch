@@ -1641,6 +1641,11 @@
   docked: "1080p"
   fps: "30"
 
+- name: "Rivals of Aether"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Road to Guangdong"
   handheld: "720p"
   docked: "1080p"
