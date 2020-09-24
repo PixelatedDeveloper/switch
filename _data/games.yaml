@@ -810,6 +810,11 @@
   verified_status: true
   verified_url: "https://www.reddit.com/r/NintendoSwitch/comments/7vupsr/kirby_star_allies_runs_at_roughly_900p/"
 
+- name: "Kirby Fighters 2"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: L.A. Noire
   handheld: "960x720p-1280x720p"
   docked: "1440x1080p-1920x1080p"
