@@ -621,6 +621,11 @@
   handheld: "-"
   docked: "-"
 
+- name: "Going Under"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: GoNNER
   handheld: "720p"
   docked: "1080p"
