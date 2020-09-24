@@ -1479,7 +1479,7 @@
 
 - name: "Pinball FX 3"
   handheld: "720p"
-  docked: "720p"
+  docked: "1080p"
   fps: Unlocked
 
 - name: "Pokemon Cafe mix"
@@ -2068,6 +2068,7 @@
   handheld: "720p"
   docked: "1080p"
   fps: "60"
+  notes: "Has significant slowdowns to 20s, FPS roughly around 50 most of the time."
 
 - name: "Thronebreaker: The Witcher Tales"
   handheld: "720p"
