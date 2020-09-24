@@ -2074,7 +2074,9 @@
   handheld: "720p"
   docked: "1080p"
   fps: "60"
-  notes: "Has significant slowdowns to 20s, FPS roughly around 50 most of the time."
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=4BOCR4pdwuo"
+  notes: "Targets 60 but regularly is around 40-50fps. Has significant slowdowns to 20s."
 
 - name: "Thronebreaker: The Witcher Tales"
   handheld: "720p"
