@@ -649,8 +649,9 @@
 
 - name: "HADES"
   handheld: "720p"
-  docked: "1080p"
+  docked: "720p"
   fps: "60"
+  notes: "Has slowdowns in certain battles."
 
 - name: "Harvest Moon: Light of Hope"
   handheld: "-"
