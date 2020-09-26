@@ -1370,8 +1370,11 @@
 
 - name: "Ori and the Will of the Wisps"
   handheld: "720p"
-  docked: "1080p"
+  docked: "900p"
   fps: "60"
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=kH6wTpIObxE"
+  notes: "Minor dips to 50s."
 
 - name: Othello
   handheld: "720p"
