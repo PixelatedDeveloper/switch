@@ -1559,6 +1559,11 @@
   fps: "30"
   notes: "Allows setting DoF"
 
+- name: "Projection: First Light"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Pure Chess"
   handheld: "-"
   docked: "1080p"
