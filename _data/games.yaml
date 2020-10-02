@@ -1487,9 +1487,9 @@
   docked: "1080p"
 
 - name: "Pikmin 3 Deluxe"
-  handheld: ""
-  docked: ""
-  fps: ""
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
 
 - name: "Pinball FX 3"
   handheld: "720p"
