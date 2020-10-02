@@ -802,6 +802,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "King of Seas"
+  handheld: "720p"
+  docked: "1080p"
+  fps: ""
+
 - name: "KINGDOM HEARTS Melody of Memory"
   handheld: "-"
   docked: "-"
