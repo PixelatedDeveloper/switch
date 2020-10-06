@@ -1102,6 +1102,11 @@
   verified_status: true
   verified_url: "https://nintendoeverything.com/nba-2k18-for-switch-has-same-content-and-modes-as-ps4-version-amiibo-support-confirmed/"
 
+- name: "Need for Speed: Hot Pursuit Remastered"
+  handheld: "-"
+  docked: "-"
+  fps: "30"
+
 - name: Neo Geo 2020 Super Baseball
   handheld: "-"
   docked: "-"
