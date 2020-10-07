@@ -783,6 +783,11 @@
   handheld: "-"
   docked: "-"
 
+- name: "John Wick Hex"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Jurassic World Evolution: Complete Edition"
   handheld: "-"
   docked: "-"
