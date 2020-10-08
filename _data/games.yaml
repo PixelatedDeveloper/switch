@@ -642,12 +642,12 @@
   fps: "60"
   notes: "Based on the first GRID game. Has high resolution texture pack in e-Shop. Two settings modes - performance (unlocked 60) & quality (30)"
 
-- name: "Gunbarich"
+- name: Graceful Explosion Machine
   handheld: "720p"
   docked: "1080p"
   fps: "60"
 
-- name: Graceful Explosion Machine
+- name: "Gunbarich"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
