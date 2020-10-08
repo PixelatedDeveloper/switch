@@ -602,6 +602,11 @@
   handheld: "-"
   docked: "-"
 
+- name: "Ghost of a Tale"
+  handheld: "-"
+  docked: "-"
+  fps: "30"
+
 - name: Ghostrunner
   handheld: "720p"
   docked: "1080p"
