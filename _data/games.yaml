@@ -724,6 +724,11 @@
   verified_url: "https://www.youtube.com/watch?v=rMfpXkROIMw"
   notes: "Unlocked framerate (40-60ish)"
 
+- name: "I am Dead"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: I am Setsuna
   handheld: "720p"
   docked: "1080p"
