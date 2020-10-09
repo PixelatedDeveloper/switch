@@ -736,6 +736,11 @@
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-i-am-setsuna-switch-vs-ps4-face-off"
 
+- name: "Ikenfell"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "-"
+
 - name: Immortals Fenyx Rising
   handheld: "-"
   docked: "-"
