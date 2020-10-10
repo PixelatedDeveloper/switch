@@ -528,6 +528,24 @@
   verified_url: "https://www.eurogamer.net/articles/2017-06-10-fifa-18-on-switch-wont-have-the-journey-but-does-get-fut-and-co-op-seasons"
   notes: "Pause Menu, Outfit Kit Selection Menu and match cutscenes are 30. Game is based on PS3/X360 version."
 
+- name: "FIFA19 built for Nintendo Switch"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+  notes: "Still uses PS3/X360 engine."
+
+- name: "FIFA20 Legacy Edition"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+  notes: "Still uses PS3/X360 engine."
+
+- name: "FIFA21 Legacy Edition"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+  notes: "Still uses PS3/X360 engine. Carbon-copy of FIFA20."
+
 - name: "FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition"
   handheld: "720p"
   docked: "1080p"
