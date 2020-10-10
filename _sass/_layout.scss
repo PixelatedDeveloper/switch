@@ -379,6 +379,11 @@ header {
   DATATABLES specific
 
   ############################## */
+
+  #main-table_wrapper {
+    margin-top: 20px;
+  }
+
   .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
     background: #ebebeb !important;
   }
