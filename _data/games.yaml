@@ -2089,6 +2089,11 @@
   verified_url: "https://www.youtube.com/watch?v=ZRWp5_FBvOs"
   notes: "Blurry with TAA. Texture streaming issues. Major FPS drops (15-low 20s) and framepacing issues."
 
+- name: "The Survivalists"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "The Touryst"
   handheld: "612p-720p"
   docked: "810p-1080p"
