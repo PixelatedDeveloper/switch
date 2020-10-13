@@ -402,7 +402,7 @@
   docked: 1080p
   fps: "60"
 
-- name: Disgaea 5 Complete
+- name: "Disgaea 5: Complete"
   handheld: "720p"
   docked: "720p"
   fps: "60"
@@ -1606,6 +1606,11 @@
   docked: "1080p"
   fps: "30"
   notes: "Allows setting DoF"
+
+- name: "Prinny 1•2: Exploded and Reloaded"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
 
 - name: "Projection: First Light"
   handheld: "720p"
