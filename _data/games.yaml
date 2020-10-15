@@ -265,6 +265,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Cloudpunk"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: "Clubhouse Games: 51 Worldwide Classics"
   handheld: "720p"
   docked: "1080p"
