@@ -590,6 +590,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Foregone"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "forma.8"
   handheld: "720p"
   docked: "1080p"
