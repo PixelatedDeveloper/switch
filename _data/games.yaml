@@ -1722,6 +1722,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Röki"
+  handheld: "-"
+  docked: "-"
+  fps: "30"
+
 - name: "Road to Guangdong"
   handheld: "720p"
   docked: "1080p"
