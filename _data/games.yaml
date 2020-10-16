@@ -2098,6 +2098,41 @@
   docked: "1080p"
   fps: "60"
 
+- name: "The Jackbox Party Pack"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "The Jackbox Party Pack 2"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "The Jackbox Party Pack 3"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "The Jackbox Party Pack 4"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "The Jackbox Party Pack 5"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "The Jackbox Party Pack 6"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "The Jackbox Party Pack 7"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: "The Legend of Zelda: Breath of the Wild"
   handheld: "720p"
   docked: "900p"
