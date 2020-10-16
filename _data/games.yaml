@@ -2432,5 +2432,6 @@
   fps: "-"
 
 - name: "Zoids Wild: Blast Unleashed"
-  handheld: "-"
-  docked: "-"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
