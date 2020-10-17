@@ -295,6 +295,11 @@
   docked: "-"
   fps: "-"
 
+- name: "Crown Trick"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Crypt of the NecroDancer: Nintendo Switch Edition"
   handheld: "720p"
   docked: "1080p"
