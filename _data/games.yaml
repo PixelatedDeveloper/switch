@@ -1670,8 +1670,15 @@
   docked: "-"
 
 - name: Redout
-  handheld: "-"
-  docked: "-"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
+- name: "Remothered: Broken Porcelain"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+  notes: "Super buggy"
 
 - name: Resident Evil 5
   handheld: "720p"
