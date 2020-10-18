@@ -265,6 +265,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Cloudpunk"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: "Clubhouse Games: 51 Worldwide Classics"
   handheld: "720p"
   docked: "1080p"
@@ -289,6 +294,11 @@
   handheld: "-"
   docked: "-"
   fps: "-"
+
+- name: "Crown Trick"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
 
 - name: "Crypt of the NecroDancer: Nintendo Switch Edition"
   handheld: "720p"
@@ -402,7 +412,7 @@
   docked: 1080p
   fps: "60"
 
-- name: Disgaea 5 Complete
+- name: "Disgaea 5: Complete"
   handheld: "720p"
   docked: "720p"
   fps: "60"
@@ -528,6 +538,24 @@
   verified_url: "https://www.eurogamer.net/articles/2017-06-10-fifa-18-on-switch-wont-have-the-journey-but-does-get-fut-and-co-op-seasons"
   notes: "Pause Menu, Outfit Kit Selection Menu and match cutscenes are 30. Game is based on PS3/X360 version."
 
+- name: "FIFA19 built for Nintendo Switch"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+  notes: "Still uses PS3/X360 engine."
+
+- name: "FIFA20 Legacy Edition"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+  notes: "Still uses PS3/X360 engine."
+
+- name: "FIFA21 Legacy Edition"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+  notes: "Still uses PS3/X360 engine. Carbon-copy of FIFA20."
+
 - name: "FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition"
   handheld: "720p"
   docked: "1080p"
@@ -572,6 +600,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Foregone"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "forma.8"
   handheld: "720p"
   docked: "1080p"
@@ -602,6 +635,11 @@
   handheld: "-"
   docked: "-"
 
+- name: "Ghost of a Tale"
+  handheld: "-"
+  docked: "-"
+  fps: "30"
+
 - name: Ghostrunner
   handheld: "720p"
   docked: "1080p"
@@ -631,6 +669,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: Graceful Explosion Machine
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Gradius"
   handheld: ""
   docked: ""
@@ -643,11 +686,6 @@
   notes: "Based on the first GRID game. Has high resolution texture pack in e-Shop. Two settings modes - performance (unlocked 60) & quality (30)"
 
 - name: "Gunbarich"
-  handheld: "720p"
-  docked: "1080p"
-  fps: "60"
-
-- name: Graceful Explosion Machine
   handheld: "720p"
   docked: "1080p"
   fps: "60"
@@ -719,12 +757,22 @@
   verified_url: "https://www.youtube.com/watch?v=rMfpXkROIMw"
   notes: "Unlocked framerate (40-60ish)"
 
+- name: "I am Dead"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: I am Setsuna
   handheld: "720p"
   docked: "1080p"
   fps: "30"
   verified_status: true
   verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2017-i-am-setsuna-switch-vs-ps4-face-off"
+
+- name: "Ikenfell"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "-"
 
 - name: Immortals Fenyx Rising
   handheld: "-"
@@ -783,6 +831,11 @@
   handheld: "-"
   docked: "-"
 
+- name: "John Wick Hex"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Jurassic World Evolution: Complete Edition"
   handheld: "-"
   docked: "-"
@@ -801,6 +854,11 @@
   handheld: "720p"
   docked: "1080p"
   fps: "60"
+
+- name: "King of Seas"
+  handheld: "720p"
+  docked: "1080p"
+  fps: ""
 
 - name: "KINGDOM HEARTS Melody of Memory"
   handheld: "-"
@@ -1096,6 +1154,11 @@
   fps: "30"
   verified_status: true
   verified_url: "https://nintendoeverything.com/nba-2k18-for-switch-has-same-content-and-modes-as-ps4-version-amiibo-support-confirmed/"
+
+- name: "Need for Speed: Hot Pursuit Remastered"
+  handheld: "-"
+  docked: "-"
+  fps: "30"
 
 - name: Neo Geo 2020 Super Baseball
   handheld: "-"
@@ -1487,9 +1550,9 @@
   docked: "1080p"
 
 - name: "Pikmin 3 Deluxe"
-  handheld: ""
-  docked: ""
-  fps: ""
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
 
 - name: "Pinball FX 3"
   handheld: "720p"
@@ -1559,6 +1622,16 @@
   fps: "30"
   notes: "Allows setting DoF"
 
+- name: "Prinny 1•2: Exploded and Reloaded"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
+- name: "Projection: First Light"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Pure Chess"
   handheld: "-"
   docked: "1080p"
@@ -1597,8 +1670,15 @@
   docked: "-"
 
 - name: Redout
-  handheld: "-"
-  docked: "-"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
+- name: "Remothered: Broken Porcelain"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+  notes: "Super buggy"
 
 - name: Resident Evil 5
   handheld: "720p"
@@ -1653,6 +1733,11 @@
   handheld: "720p"
   docked: "1080p"
   fps: "60"
+
+- name: "Röki"
+  handheld: "-"
+  docked: "-"
+  fps: "30"
 
 - name: "Road to Guangdong"
   handheld: "720p"
@@ -2025,6 +2110,41 @@
   docked: "1080p"
   fps: "60"
 
+- name: "The Jackbox Party Pack"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "The Jackbox Party Pack 2"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "The Jackbox Party Pack 3"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "The Jackbox Party Pack 4"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "The Jackbox Party Pack 5"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "The Jackbox Party Pack 6"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "The Jackbox Party Pack 7"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: "The Legend of Zelda: Breath of the Wild"
   handheld: "720p"
   docked: "900p"
@@ -2053,6 +2173,11 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=ZRWp5_FBvOs"
   notes: "Blurry with TAA. Texture streaming issues. Major FPS drops (15-low 20s) and framepacing issues."
+
+- name: "The Survivalists"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
 
 - name: "The Touryst"
   handheld: "612p-720p"
@@ -2109,6 +2234,11 @@
   fps: "30"
   verified_status: true
   verified_url: "https://wccftech.com/tiny-metal-runs-native-4k60-ps4-pro/"
+
+- name: "TOHU"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
 
 - name: "Tokyo Mirage Sessions #FE Encore"
   handheld: "720p"
@@ -2314,5 +2444,6 @@
   fps: "-"
 
 - name: "Zoids Wild: Blast Unleashed"
-  handheld: "-"
-  docked: "-"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
