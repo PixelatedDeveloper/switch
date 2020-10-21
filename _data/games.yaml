@@ -1789,6 +1789,11 @@
   docked: "1080p"
   fps: "30"
 
+- name: "Sakuna: Of Rice and Ruin"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "-"
+
 - name: "Scribblenauts Showdown"
   handheld: "720p"
   docked: "1080p"
