@@ -1995,6 +1995,11 @@
   fps: ""
   notes: "Mind Control Delete update will come to Switch later."
 
+- name: "Supraland"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: "Sushi Striker: The Way of Sushido"
   handheld: "720p"
   docked: "1080p"
