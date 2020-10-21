@@ -1440,9 +1440,9 @@
   handheld: "720p"
   docked: "900p"
   fps: "60"
+  notes: "minor fps drops to the upper 50s"
   verified_status: true
-  verified_url: "https://www.youtube.com/watch?v=kH6wTpIObxE"
-  notes: "Minor dips to 50s."
+  verified_url: "https://www.eurogamer.net/articles/digitalfoundry-2020-ori-and-the-will-of-the-wisps-switch-inside-an-impossible-port"
 
 - name: Othello
   handheld: "720p"
