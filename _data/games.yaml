@@ -1081,6 +1081,11 @@
   docked: "-"
   fps: "30"
 
+- name: "Monster Sanctuary"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: Morphite
   handheld: "720p"
   docked: "1080p"
