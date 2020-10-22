@@ -2277,8 +2277,9 @@
   notes: "Rumoured to come to Switch"
 
 - name: "Torchlight III"
-  handheld: "-"
-  docked: "-"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
 
 - name: "Trails Rising"
   handheld: "400-720p"
