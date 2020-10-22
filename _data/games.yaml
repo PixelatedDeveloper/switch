@@ -669,7 +669,12 @@
   docked: "1080p"
   fps: "60"
 
-- name: GoNNER
+- name: "GoNNER"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
+- name: "GoNNER2"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
