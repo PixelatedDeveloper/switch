@@ -1409,6 +1409,16 @@
   fps: "30"
   notes: "interlaced"
 
+- name: "No More Heroes"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
+- name: "No More Heroes 2: Desperate Struggle"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "No Straight Roads"
   handheld: "-"
   docked: "-"
