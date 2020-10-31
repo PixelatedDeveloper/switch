@@ -2208,6 +2208,16 @@
   docked: "1080p"
   fps: "30"
 
+- name: "The Legend of Heroes: Trails of Cold Steel I"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "-"
+
+- name: "The Legend of Heroes: Trails of Cold Steel II"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "-"
+
 - name: "The Legend of Zelda: Breath of the Wild"
   handheld: "720p"
   docked: "900p"
