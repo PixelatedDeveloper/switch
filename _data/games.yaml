@@ -1857,6 +1857,10 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Seven Knights Time Wanderer"
+  handheld: "-"
+  docked: "-"
+
 - name: SEVERED
   handheld: "720p"
   docked: "1080p"
