@@ -1852,6 +1852,10 @@
   docked: "1080p"
   fps: "-"
 
+- name: "Saviors of Sapphire Wings"
+  handheld: "-"
+  docked: "-"
+
 - name: "Scribblenauts Showdown"
   handheld: "720p"
   docked: "1080p"
