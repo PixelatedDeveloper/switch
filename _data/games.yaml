@@ -1042,6 +1042,10 @@
   handheld: "-"
   docked: "-"
 
+- name: "Metaverse Keeper"
+  handheld: "-"
+  docked: "-"
+
 - name: "Metro Redux"
   handheld: "480-720p"
   docked: "720p"
