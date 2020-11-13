@@ -3,10 +3,10 @@
 <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.22/datatables.min.js"></script>
 <script>
     $(document).ready(function(){
-        $('#main-table').dataTable(
+        $('#main-table').dataTable.FixedHeader(
             {
                 "pageLength": 50,
-                "responsive": true,
+                responsive: true,
                 "bPaginate": false,
                 "bLengthChange": false,
                 "bFilter": true,
