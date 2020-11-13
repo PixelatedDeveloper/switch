@@ -20,7 +20,7 @@ layout: default
               {% for entry in site.data.games %}
                   <tr>
                     <td>{{ entry.name }} {% if entry.verified_status == true %}<a href='{{ entry.verified_url }}' target='_blank' title="External verification link"><i class="fas fa-check"></i></a>{% endif %}
-                    <td>{{ entry.handheld }} {% if entry.verified_status == true %}| {{ entry.docked }}{% endif %}</td>
+                    <td>{{ entry.handheld }} {% if entry.docked == true %}| {{ entry.docked }}{% endif %}</td>
                     </td>
                     <td>{{ entry.fps }}</td>
                     <td class="d-none d-sm-none d-md-none d-lg-flex w-100">{% if entry.notes %}{{ entry.notes }}{% endif %}</td>
