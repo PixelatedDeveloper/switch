@@ -9,9 +9,8 @@ layout: default
         <table id="main-table" class="display table table-striped compact">
           <thead>
             <tr>
-                <th data-field="name">Name</th>
-                <th data-field="handheld">Handheld</th>
-                <th data-field="docked">Docked</th>
+                <th data-field="gamename">Name</th>
+                <th data-field="resolution">HH|DCK</th>
                 <th data-field="fps">FPS</th>
                 <th class="d-none d-sm-none d-md-none d-lg-flex w-100" data-field="notes">Notes</th>
               </tr>
@@ -20,12 +19,11 @@ layout: default
             <tbody>
               {% for entry in site.data.games %}
                   <tr>
-                    <td>{{ entry.name }} {% if entry.verified_status == true %}<a href='{{ entry.verified_url }}' target='_blank' title="External verification link"><i class="fas fa-check"></i></a>{% endif %}</td>
-                    <td>{{ entry.handheld }}</td>
-                    <td>{{ entry.docked }}</td>
+                    <td>{{ entry.name }} {% if entry.verified_status == true %}<a href='{{ entry.verified_url }}' target='_blank' title="External verification link"><i class="fas fa-check"></i></a>{% endif %}
+                    <td>{{ entry.handheld }} | {{ entry.docked }}</td>
+                    </td>
                     <td>{{ entry.fps }}</td>
                     <td class="d-none d-sm-none d-md-none d-lg-flex w-100">{% if entry.notes %}{{ entry.notes }}{% endif %}</td>
-                    
                   </tr>
             {% endfor %}
       </tbody>
