@@ -7,8 +7,7 @@
 
 # Site settings
 title: Canitia's HowOnSwitch
-description: > # this means to ignore newlines until "baseurl:"
-  What is the expected performance of this game on the Nintendo Switch? What resolution? How much FPS?
+description: "What is the expected performance specification of your games on the Nintendo Switch?"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://switch.canitia.nl/" # the base hostname & protocol for your site
 enforce_ssl: canitia.nl
