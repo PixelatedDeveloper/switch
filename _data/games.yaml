@@ -1081,7 +1081,7 @@
   handheld: "720p"
   docked: "900p-1080p"
   fps: "30"
-  notes: "drops to 25fps, sometimes a bit below"
+  notes: "FPS drops to low 20s. Supports cross-platform play."
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=E1ZHZa8Lgig"
 
