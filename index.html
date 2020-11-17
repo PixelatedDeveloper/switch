@@ -10,7 +10,8 @@ layout: default
           <thead>
             <tr>
                 <th data-field="gamename">Name</th>
-                <th data-field="resolution">HH|DOCK</th>
+                <th data-field="resolution-handheld">Handheld</th>
+                <th data-field="resolution-docked">Docked</th>
                 <th data-field="fps">FPS</th>
                 <th class="d-none d-sm-none d-md-none d-lg-flex w-100" data-field="notes">Notes</th>
               </tr>
@@ -20,8 +21,8 @@ layout: default
               {% for entry in site.data.games %}
                   <tr>
                     <td>{{ entry.name }} {% if entry.verified_status == true %}<a href='{{ entry.verified_url }}' target='_blank' title="External verification link"><i class="fas fa-check"></i></a>{% endif %}
-                    <td>{{ entry.handheld }} / {{ entry.docked }}</td>
-                    </td>
+                    <td>{{ entry.handheld }}</td>
+                    <td>{{ entry.docked }}</td>
                     <td>{{ entry.fps }}</td>
                     <td class="d-none d-sm-none d-md-none d-lg-flex w-100">{% if entry.notes %}{{ entry.notes }}{% endif %}</td>
                   </tr>
