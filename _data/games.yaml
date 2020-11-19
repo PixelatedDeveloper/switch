@@ -519,6 +519,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Family Feud"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: Fast RMX
   handheld: "720p"
   docked: "1080p"
