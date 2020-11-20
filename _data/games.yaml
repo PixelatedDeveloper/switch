@@ -466,6 +466,12 @@
   docked: "1080p"
   fps: "60"
 
+- name: "DOOM: Eternal"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+  notes: "Digital only."
+
 - name: "Dragonball: Xenoverse 2"
   handheld: "Dynamic"
   docked: "900p"
