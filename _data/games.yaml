@@ -2334,6 +2334,11 @@
   verified_url: "https://www.youtube.com/watch?v=4BOCR4pdwuo"
   notes: "Targets 60 but regularly is around 40-50fps. Has significant slowdowns to 20s."
 
+- name: "The World Ends With You: Final Remix"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Thronebreaker: The Witcher Tales"
   handheld: "720p"
   docked: "1080p"
