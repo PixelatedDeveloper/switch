@@ -1399,6 +1399,12 @@
   handheld: "-"
   docked: "-"
 
+- name: "NEO: The World Ends With You"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+  notes: "Comes in 2021"
+
 - name: NeuroVoider
   handheld: "-"
   docked: "-"
