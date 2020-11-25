@@ -1471,6 +1471,11 @@
   verified_url: "https://www.youtube.com/watch?v=2jKOJsoVcro"
   notes: "UI scales up to 720p in handheld, UI is 720p and scales up to 1080p in docked"
 
+- name: "Olija"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "One Piece: Pirate Warriors 3: Deluxe Edition"
   handheld: "720p"
   docked: "1080p"
