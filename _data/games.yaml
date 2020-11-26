@@ -622,6 +622,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Food Girls"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Football Manager Touch 2018"
   handheld: "720p"
   docked: "1080p"
