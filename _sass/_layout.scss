@@ -400,4 +400,8 @@ header {
 
   .paginate_button a {
     color: black !important;
-}
+  }
+
+  .table td, .table th {
+    padding: 0 !important;
+  }
