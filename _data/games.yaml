@@ -2194,6 +2194,10 @@
   handheld: "-"
   docked: "-"
 
+- name: "TETRIS® 99"
+  handheld: "720p"
+  docked: "1080p"
+
 - name: "The Alto Collection"
   handheld: "720p"
   docked: "1080p"
