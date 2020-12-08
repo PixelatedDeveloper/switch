@@ -1605,6 +1605,11 @@
   fps: ""
   notes: "Japan only"
 
+- name: "Persona 5 Strikers"
+  handheld: ""
+  docked: ""
+  fps: ""
+
 - name: "Phantom Trigger"
   handheld: "720p"
   docked: "1080p"
