@@ -1119,8 +1119,8 @@
   verified_url: "https://nintendoeverything.com/monster-boy-and-the-cursed-kingdom-resolution-and-frame-rate-details/"
 
 - name: "Monster Hunter Rise"
-  handheld: "-"
-  docked: "-"
+  handheld: "720p"
+  docked: "1080p"
   fps: "30"
 
 - name: "Monster Hunter Stories 2: Wings of Ruin"
