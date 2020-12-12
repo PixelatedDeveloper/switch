@@ -1897,10 +1897,15 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Sea of Solitude"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Serious Sam Collection"
   handheld: "720p"
   docked: "1080p"
-  fps: "-"
+  fps: "30"
   notes: "Includes Serious Sam HD: First Encounter, HD: Second Encounter and 3: BFE."
 
 - name: "Seven Knights Time Wanderer"
