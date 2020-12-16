@@ -2491,6 +2491,10 @@
   handheld: "-"
   docked: "-"
 
+- name: "Very Very Valet"
+  handheld: "-"
+  docked: "-"
+
 - name: Vigor
   handheld: "720p"
   docked: "1080p"
