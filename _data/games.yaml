@@ -2454,6 +2454,10 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Tunche"
+  handheld: "-"
+  docked: "-"
+
 - name: "Two Point Hospital"
   handheld: "720p"
   docked: "1080p"
