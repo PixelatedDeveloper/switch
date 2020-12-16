@@ -12,6 +12,11 @@
   handheld: "-"
   docked: "-"
 
+- name: "Among Us"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Animal Crossing New Horizons"
   handheld: "720p"
   docked: "1080p"
