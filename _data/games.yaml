@@ -2056,6 +2056,16 @@
   docked: "-"
   fps: "-"
 
+- name: "Spelunky"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
+- name: "Spelunky 2"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
 - name: "Spinch"
   handheld: "720p"
   docked: "1080p"
