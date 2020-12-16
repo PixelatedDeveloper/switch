@@ -346,6 +346,10 @@
   verified_status: true
   verified_url: "https://gadgets.ndtv.com/games/news/cuphead-nintendo-switch-release-date-2010915"
 
+- name: "Cyber Shadow"
+  handheld: "-"
+  docked: "-"
+
 - name: "Daemon X Machina (demo)"
   handheld: "408-720p"
   docked: "936-1080p"
