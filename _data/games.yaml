@@ -2186,6 +2186,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: " Super Meat Boy Forever"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: Sonic Forces
   handheld: "720p"
   docked: "720p"
