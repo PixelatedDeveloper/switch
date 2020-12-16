@@ -206,6 +206,10 @@
   docked: "1080p"
   fps: "60"
 
+- name: "COLLECTION of SaGa FINAL FANTASY LEGEND"
+  handheld: "-"
+  docked: "-"
+
 - name: Boost Beast
   handheld: "720p"
   docked: "1080p"
