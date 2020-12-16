@@ -746,6 +746,10 @@
   fps: "60"
   notes: "Has slowdowns in certain battles."
 
+- name: "Happy Game"
+  handheld: "-"
+  docked: "-"
+
 - name: "Harvest Moon: Light of Hope"
   handheld: "-"
   docked: "-"
