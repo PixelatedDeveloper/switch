@@ -775,6 +775,10 @@
   handheld: "-"
   docked: "-"
 
+- name: "Hazel Sky"
+  handheld: "-"
+  docked: "-"
+
 - name: Hellblade
   handheld: "400p-720p"
   docked: "576p-720p"
