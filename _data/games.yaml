@@ -600,6 +600,11 @@
   docked: "1080p"
   fps: "30"
 
+- name: "Finding Paradise"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: "Fire Emblem: Shadow Dragon and the Blade of Light"
   handheld: "720p"
   docked: "1080p"
