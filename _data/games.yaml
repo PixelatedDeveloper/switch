@@ -954,6 +954,10 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Kosmokrats"
+  handheld: "-"
+  docked: "-"
+
 - name: L.A. Noire
   handheld: "960x720p-1280x720p"
   docked: "1440x1080p-1920x1080p"
