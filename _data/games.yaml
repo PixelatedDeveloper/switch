@@ -2454,6 +2454,10 @@
   docked: "1080p"
   fps: "30"
 
+- name: "Tunche"
+  handheld: "-"
+  docked: "-"
+
 - name: "Tokyo Mirage Sessions #FE Encore"
   handheld: "720p"
   docked: "1080p"
