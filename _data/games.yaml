@@ -1596,7 +1596,7 @@
 - name: "Override 2: Super Mech League"
   handheld: "720p"
   docked: "1080p"
-  fps: "-"
+  fps: "60"
 
 - name: "Overwatch"
   handheld: "960x720 - 1280x720p"
