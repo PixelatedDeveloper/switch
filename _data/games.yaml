@@ -1664,7 +1664,7 @@
 - name: "Persona 5 Strikers"
   handheld: ""
   docked: ""
-  fps: ""
+  fps: "30"
 
 - name: "Phantom Trigger"
   handheld: "720p"
