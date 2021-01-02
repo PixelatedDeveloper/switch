@@ -2271,6 +2271,11 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=LEZLvXDZOqA"
 
+- name: "Sword of the Necromancer"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Taiko no Tatsujin: Rhythmic Adventure Pack"
   handheld: "-"
   docked: "-"
