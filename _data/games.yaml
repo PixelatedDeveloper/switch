@@ -1803,6 +1803,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Redout: Space Assault"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Remothered: Broken Porcelain"
   handheld: "720p"
   docked: "1080p"
