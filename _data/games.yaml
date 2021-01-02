@@ -109,6 +109,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Azure Lane: Crosswave"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
 - name: "Azure Striker Gunvolt: Striker Pack"
   handheld: "720p"
   docked: "1080p"
