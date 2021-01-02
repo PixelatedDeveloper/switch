@@ -633,6 +633,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Five Nights at Freddy's Core Collection"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "-"
+
 - name: Flame in the Flood
   handheld: "672p"
   docked: "900p"
