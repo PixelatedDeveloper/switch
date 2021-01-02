@@ -220,6 +220,10 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Bravely Default II"
+  handheld: "-"
+  docked: "-"
+
 - name: Brawlout
   handheld: "720p"
   docked: "1080p"
