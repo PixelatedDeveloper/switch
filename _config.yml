@@ -9,10 +9,9 @@
 title: "How On Switch"
 description: "How does a game run on the Nintendo Switch?"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://switch.mibou.nl/" # the base hostname & protocol for your site
-enforce_ssl: mibou.nl
-twitter_username: boumannm
-github_username:  boumannm
+url: "https://switch.pixelateddeveloper.com/" # the base hostname & protocol for your site
+enforce_ssl: pixelateddeveloper.com
+github_username:  PixelatedDeveloper
 
 # Build settings
 markdown: kramdown
