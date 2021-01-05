@@ -1,14 +1,14 @@
 pipeline:
   build:
-  image: ruby
-  commands:
-    - gem install bundler
-    - bundle install
-    - bundle exec jekyll build
+    image: ruby
+    commands:
+      - gem install bundler
+      - bundle install
+      - bundle exec jekyll build
   netlify:
     image: lucap/drone-netlify
     token:
       from_secret: netlify_token
     site_id: 95322f55-49cc-47ab-9b56-7290895f65e8
     site_name: infallible-feynman-fbf9bd
-    path: _site
+    path: _site/
