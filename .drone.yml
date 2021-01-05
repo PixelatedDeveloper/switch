@@ -1,0 +1,7 @@
+pipeline:
+  netlify:
+    image: lucap/drone-netlify
+    token:
+      from_secret: netlify_token
+    site_id: 4347467b-0cfa-427d-ad78-b350dd6fe378
+    site_name: reverent-poincare-0b3135
