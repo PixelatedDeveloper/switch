@@ -1522,6 +1522,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "No More Heroes III"
+  handheld: "-"
+  docked: "-"
+  fps: "-"
+
 - name: "No Straight Roads"
   handheld: "-"
   docked: "-"
