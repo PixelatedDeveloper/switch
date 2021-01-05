@@ -3,5 +3,5 @@ pipeline:
     image: lucap/drone-netlify
     token:
       from_secret: netlify_token
-    site_id: 4347467b-0cfa-427d-ad78-b350dd6fe378
-    site_name: reverent-poincare-0b3135
+    site_id: a6d0b385-61a6-40ee-a040-0ea3fc02fc7c
+    site_name: vigorous-mahavira-68a612
