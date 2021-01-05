@@ -3,5 +3,6 @@ pipeline:
     image: lucap/drone-netlify
     token:
       from_secret: netlify_token
-    site_id: a6d0b385-61a6-40ee-a040-0ea3fc02fc7c
-    site_name: vigorous-mahavira-68a612
+    site_id: 95322f55-49cc-47ab-9b56-7290895f65e8
+    site_name: infallible-feynman-fbf9bd
+    path: _site
