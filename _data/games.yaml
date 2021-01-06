@@ -98,6 +98,10 @@
   docked: "-"
   fps: "30"
 
+- name: "Atelier Ryza 2: Lost Legends & The Secret Fairy"
+  handheld: "-"
+  docked: "-"
+
 - name: "Attelier Lydie & Suelle: The Alchemists and the Mysterious Paintings"
   handheld: "-"
   docked: "720p"
@@ -948,7 +952,7 @@
   handheld: "720p"
   docked: "1080p"
   fps: "60"
- 
+
 - name: "Just Dance 2021"
   handheld: "720p"
   docked: "1080p"
@@ -1238,7 +1242,6 @@
   docked: "900p"
   fps: "30"
   notes: "Cutscenes in fixed 720p"
-
 
 - name: "Naruto Shippuden: Ultimate Ninja Storm 2"
   handheld: "540p"
@@ -1895,7 +1898,7 @@
 - name: "Risk of Rain 2"
   handheld: "720p"
   docked: "1080p"
-  fps: "30" 
+  fps: "30"
 
 - name: "Rivals of Aether"
   handheld: "720p"
