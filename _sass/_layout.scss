@@ -147,17 +147,6 @@ header {
   CONTENT
 
 *****************************************/
-
-@media only screen and (max-width: 576px) {
-  #main-table {
-    width: 100%;
-  }
-
-  #items {
-    width: 100%;
-  }
-}
-
 .table td,
 .table th {
   padding: 0.75rem;
@@ -173,6 +162,7 @@ header {
 
 #main-table {
   text-align: left;
+  padding: 0 !important;
 }
 
 .dataTables_wrapper .dataTables_paginate .paginate_button:hover {

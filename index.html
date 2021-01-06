@@ -1,30 +1,39 @@
 ---
 layout: default
 ---
+
 <div id="items">
+  <table
+    id="main-table"
+    class="display responsive table table-striped dataTable no-footer"
+  >
+    <thead>
+      <tr>
+        <th data-field="gamename">Name</th>
+        <th data-field="resolution-handheld">Handheld</th>
+        <th data-field="resolution-docked">Docked</th>
+        <th data-field="fps">FPS</th>
+        <th data-field="notes">Notes</th>
+      </tr>
+    </thead>
 
-        <table id="main-table" class="display table table-striped compact">
-          <thead>
-            <tr>
-                <th data-field="gamename">Name</th>
-                <th data-field="resolution-handheld">Handheld</th>
-                <th data-field="resolution-docked">Docked</th>
-                <th data-field="fps">FPS</th>
-                <th data-field="notes">Notes</th>
-              </tr>
-            </thead>
-
-            <tbody>
-              {% for entry in site.data.games %}
-                  <tr>
-                    <td>{{ entry.name }} {% if entry.verified_status == true %}<a href='{{ entry.verified_url }}' target='_blank' title="External verification link"><i class="fas fa-check"></i></a>{% endif %}
-                    <td>{{ entry.handheld }}</td>
-                    <td>{{ entry.docked }}</td>
-                    <td>{{ entry.fps }}</td>
-                    <td>{% if entry.notes %}{{ entry.notes }}{% endif %}</td>
-                  </tr>
-            {% endfor %}
-      </tbody>
-
-    </table>
+    <tbody>
+      {% for entry in site.data.games %}
+      <tr>
+        <td>
+          {{ entry.name }} {% if entry.verified_status == true %}<a
+            href="{{ entry.verified_url }}"
+            target="_blank"
+            title="External verification link"
+            ><i class="fas fa-check"></i></a
+          >{% endif %}
+        </td>
+        <td>{{ entry.handheld }}</td>
+        <td>{{ entry.docked }}</td>
+        <td>{{ entry.fps }}</td>
+        <td>{% if entry.notes %}{{ entry.notes }}{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
 </div>
