@@ -1,7 +1,3 @@
-# Status
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/95322f55-49cc-47ab-9b56-7290895f65e8/deploy-status)](https://app.netlify.com/sites/infallible-feynman-fbf9bd/deploys)
-
 # Showing Nintendo Switch game specs
 
 Making a list of games, their resolutions in different modes, framerates and other noteworthy things.
