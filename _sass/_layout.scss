@@ -32,11 +32,9 @@ table a {
 }
 
 th {
-  border: none;
-  border-style: hidden;
+  padding: 5px !important;
 }
 
-th,
 td {
   padding-top: 10px !important;
   padding-bottom: 10px !important;
@@ -172,10 +170,6 @@ header {
   DATATABLES specific
 
   ############################## */
-
-#main-table_wrapper {
-  margin-top: 20px;
-}
 
 #main-table {
   text-align: left;
