@@ -153,14 +153,6 @@
   verified_url: "https://www.youtube.com/watch?v=R_M0gX0GE0o"
   notes: "some minor fps drops below 60"
 
-- name: "Borderlands Legendary Collection"
-  handheld: "720p"
-  docked: "1080p"
-  fps: "30"
-  verified_status: true
-  verified_url: "https://www.youtube.com/watch?v=-FuSiIdcZRI"
-  notes: "Incl. Borderlands 1-2-prequel. Max 2 player splitscreen. No AA and reduced AF, FPS dips with explosions on Borderlands 1-2. Prequel has dynamic 720/1080p drops to 810p, has AA, reduce alpha-effects resolution."
-
 - name: "Bayonetta 2"
   handheld: "720p"
   docked: "720p"
@@ -168,6 +160,18 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=R_M0gX0GE0o"
   notes: "some minor fps drops below 60"
+
+- name: "Bayonetta 3"
+  handheld: "-"
+  docked: "-"
+
+- name: "Borderlands Legendary Collection"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=-FuSiIdcZRI"
+  notes: "Incl. Borderlands 1-2-prequel. Max 2 player splitscreen. No AA and reduced AF, FPS dips with explosions on Borderlands 1-2. Prequel has dynamic 720/1080p drops to 810p, has AA, reduce alpha-effects resolution."
 
 - name: "Ben 10 Power Trip"
   handheld: "720p"
