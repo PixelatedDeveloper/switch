@@ -13,47 +13,10 @@ body {
   margin: 0;
 }
 
-strong {
-  font-weight: bold !important;
-}
-
-h1 {
-  font-size: 48px;
-  font-style: normal;
-  font-variant: normal;
-  font-weight: 500;
-  line-height: 26.3999996185303px;
-  color: #1e88e5 !important;
-}
-
-h2,
-h3,
-h4 {
-  font-size: 14px;
-  font-style: normal;
-  font-variant: normal;
-  font-weight: 500;
-  line-height: 15.3999996185303px;
-  color: #1976d2 !important;
-}
 p {
   font-style: normal;
   font-variant: normal;
   font-weight: 400;
-}
-blockquote {
-  font-size: 21px;
-  font-style: normal;
-  font-variant: normal;
-  font-weight: 400;
-  line-height: 30px;
-}
-pre {
-  font-size: 13px;
-  font-style: normal;
-  font-variant: normal;
-  font-weight: 400;
-  line-height: 18.5714302062988px;
 }
 
 table {
@@ -115,11 +78,6 @@ header {
   width: 100%;
 }
 
-.top-title {
-  color: white !important;
-  margin-top: 30px;
-}
-
 .top-section-wrap {
   width: 100%;
 }
@@ -130,7 +88,6 @@ header {
 
 *****************************************/
 
-.svg-inline--fa.fa-twitter.fa-w-16,
 .svg-inline--fa.fa-github.fa-w-16 {
   color: white;
   padding: 20px;
@@ -139,23 +96,15 @@ header {
   margin-right: 10px;
 }
 
-.fa-twitter {
-  background: #00aced;
-}
-
 .fa-github {
   background: black;
-}
-
-.fa-twitter:hover {
-  background: #1e88e5;
 }
 
 .fa-github:hover {
   background: #474747;
 }
 
-.socialfooter a i {
+.socials a i {
   color: #fff;
   font-size: 25px;
   text-align: center;
@@ -183,26 +132,6 @@ header {
 
   #items {
     width: 100%;
-  }
-}
-
-/* medium width devices */
-@media only screen and (max-width: 770px) {
-  header .blogdescription {
-    display: none;
-  }
-
-  footer .blogdescription {
-    color: white;
-    text-overflow: ellipsis;
-  }
-
-  h1 {
-    font-size: 28px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 500;
-    line-height: 26.3999996185303px;
   }
 }
 
