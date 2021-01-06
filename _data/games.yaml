@@ -2153,7 +2153,12 @@
   docked: "1080p"
   fps: "60"
 
-- name: "Story of Seasons: Friends of Mineral Town"
+- name: "STORY OF SEASONS: Friends of Mineral Town"
+  handheld: ""
+  docked: ""
+  fps: ""
+
+- name: "STORY OF SEASONS: Pioneers of Olive Town"
   handheld: ""
   docked: ""
   fps: ""
