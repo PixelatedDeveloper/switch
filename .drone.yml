@@ -9,6 +9,8 @@ pipeline:
     image: lucap/drone-netlify
     token:
       from_secret: netlify_token
-    site_id: 95322f55-49cc-47ab-9b56-7290895f65e8
-    site_name: infallible-feynman-fbf9bd
+    site_id:
+      from_secret: website_id
+    site_name:
+      from_secret: website_name
     path: _site/
