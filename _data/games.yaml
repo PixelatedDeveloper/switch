@@ -1519,6 +1519,10 @@
   fps: "30"
   notes: "interlaced"
 
+- name: "Ninja Gaiden Trilogy"
+  handheld: "-"
+  docked: "-"
+
 - name: "No More Heroes"
   handheld: "720p"
   docked: "1080p"
