@@ -182,3 +182,9 @@ header {
 .paginate_button a {
   color: black !important;
 }
+
+.dataTables_wrapper .dataTables_filter {
+  float: initial !important;
+  text-align: center !important;
+  padding: 15px;
+}
