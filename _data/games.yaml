@@ -206,6 +206,10 @@
   handheld: "-"
   docked: "-"
 
+- name: "Blade Runner: Enhanced Edition"
+  handheld: "-"
+  docked: "-"
+
 - name: "Blossom Tales: The Sleeping King"
   handheld: "720p"
   docked: "1080p"
