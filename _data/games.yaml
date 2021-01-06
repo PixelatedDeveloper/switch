@@ -2715,6 +2715,8 @@
 - name: "Ys IX Monstrum Nox"
   handheld: "-"
   docked: "-"
+  fps: "-"
+  notes: "Q3 2021"
 
 - name: "Ys VIII: Lacrimosa of DANA"
   handheld: "-"
