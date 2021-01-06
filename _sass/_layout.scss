@@ -57,13 +57,10 @@ tr {
 
 .logo {
   width: auto;
-  max-height: 100px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 25px;
+  max-height: 25px;
   display: block;
   border-radius: 70px;
-  border: 3px solid black;
+  border: 2px solid black;
 }
 
 input.search {
@@ -81,13 +78,18 @@ input.search {
 
 *****************************************/
 .navbar {
+  height: 64px;
   background: white;
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .navbar-brand {
   color: black;
   font-weight: 600;
+  width: 100%;
+  margin-left: 10px;
 }
 
 /* **************************************
@@ -130,6 +132,11 @@ header {
 
 .fa-github:hover {
   background: #474747;
+}
+
+.socials {
+  display: flex;
+  justify-content: flex-end;
 }
 
 .socials a i {
