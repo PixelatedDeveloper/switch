@@ -32,7 +32,11 @@ layout: default
         <td>{{ entry.handheld }}</td>
         <td>{{ entry.docked }}</td>
         <td>{{ entry.fps }}</td>
-        <td>{% if entry.notes %}{{ entry.notes }}{% endif %}</td>
+        <td class="tooltip">
+          {% if entry.notes %}<i class="far fa-sticky-note"></i
+          ><span class="tooltiptext tooltip-top">{{ entry.notes }}</span>{%
+          endif %}
+        </td>
       </tr>
       {% endfor %}
     </tbody>
