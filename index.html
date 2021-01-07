@@ -24,6 +24,7 @@ layout: default
           {{ entry.name }} {% if entry.verified_status == true %}<a
             href="{{ entry.verified_url }}"
             target="_blank"
+            rel="noopener noreferrer"
             title="External verification link"
             ><i class="fas fa-check"></i></a
           >{% endif %}
