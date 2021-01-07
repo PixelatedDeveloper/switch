@@ -177,6 +177,12 @@ header {
   visibility: visible;
 }
 
+.tooltip-left {
+  top: -5px;
+  bottom: auto;
+  right: 128%;
+}
+
 /* #############################
 
   DATATABLES specific
