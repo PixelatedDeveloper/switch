@@ -1989,6 +1989,11 @@
   handheld: "-"
   docked: "-"
 
+- name: "Scott Pilgrim vs. The World"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Scribblenauts Showdown"
   handheld: "720p"
   docked: "1080p"
