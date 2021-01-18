@@ -501,10 +501,12 @@
   fps: "60"
 
 - name: "DOOM: Eternal"
-  handheld: "-"
-  docked: "-"
-  fps: "-"
+  handheld: "360p-600p"
+  docked: "540p-720p"
+  fps: "30"
   notes: "Digital only."
+  verified_status: true
+  verified_url: "https://www.youtube.com/watch?v=2d9bgoLzC4s"
 
 - name: "Down In Bermuda"
   handheld: "720p"
