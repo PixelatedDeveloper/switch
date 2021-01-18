@@ -1501,6 +1501,10 @@
   handheld: "-"
   docked: "-"
 
+- name: "New Pokemon Snap"
+  handheld: "-"
+  docked: "-"
+
 - name: "New Super Lucky's Tale"
   handheld: "720p"
   docked: "1080p"
