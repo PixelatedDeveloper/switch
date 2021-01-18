@@ -506,6 +506,11 @@
   fps: "-"
   notes: "Digital only."
 
+- name: "Down In Bermuda"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Dragonball: Xenoverse 2"
   handheld: "Dynamic"
   docked: "900p"
