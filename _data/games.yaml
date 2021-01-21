@@ -2610,6 +2610,10 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Unspottable"
+  handheld: "-"
+  docked: "-"
+
 - name: Vaccine
   handheld: "-"
   docked: "-"
