@@ -95,7 +95,7 @@
 
 - name: "Attack on Titan 2 (Deluxe Edition)"
   handheld: "-"
-  docked: "-"
+  docked: "720p"
   fps: "30"
 
 - name: "Atelier Ryza 2: Lost Legends & The Secret Fairy"
