@@ -106,7 +106,7 @@
   handheld: "-"
   docked: "720p"
   fps: "30"
-  notes: "1.0.4 performance patch"
+  notes: "Patch (1.0.4) improves performance."
 
 - name: "AVICII Invector"
   handheld: "720p"
