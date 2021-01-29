@@ -103,7 +103,7 @@
   docked: "-"
 
 - name: "Attelier Lydie & Suelle: The Alchemists and the Mysterious Paintings"
-  handheld: "-"
+  handheld: "720p"
   docked: "720p"
   fps: "30"
   notes: "Patch (1.0.4) improves performance."
@@ -116,7 +116,7 @@
 - name: "Azure Lane: Crosswave"
   handheld: "-"
   docked: "-"
-  fps: "-"
+  fps: "30"
 
 - name: "Azure Striker Gunvolt: Striker Pack"
   handheld: "720p"
