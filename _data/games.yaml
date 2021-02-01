@@ -352,6 +352,11 @@
   fps: "30"
   notes: "No fur textures on Switch"
 
+- name: "Cris Tales"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
+
 - name: "Crysis Remastered"
   handheld: "540-720p"
   docked: "540-720p"
