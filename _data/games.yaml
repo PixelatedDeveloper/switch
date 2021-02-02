@@ -2162,6 +2162,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Spirit Lucky's Big Adventure"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: "Spiritfarer"
   handheld: "720p"
   docked: "1080p"
