@@ -1253,6 +1253,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Narita Boy"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: "Naruto Shippuden: Ultimate Ninja Storm"
   handheld: "540p"
   docked: "900p"
