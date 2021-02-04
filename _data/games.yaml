@@ -815,6 +815,11 @@
   docked: "-"
   fps: "-"
 
+- name: "Haven"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: Has-Been Heroes
   handheld: "-"
   docked: "-"
