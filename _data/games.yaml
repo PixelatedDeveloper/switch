@@ -215,6 +215,11 @@
   docked: "1080p"
   fps: "60"
 
+- name: "Blue Fire"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: "Borderlands Legendary Collection"
   handheld: "720p"
   docked: "1080p"
