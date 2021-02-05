@@ -2118,6 +2118,11 @@
   docked: "-"
   fps: "30"
 
+- name: "Skyforge"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
 - name: Skylanders Imaginators
   handheld: "-"
   docked: "-"
