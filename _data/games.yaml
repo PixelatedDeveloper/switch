@@ -2213,14 +2213,14 @@
   fps: "60"
 
 - name: "STORY OF SEASONS: Friends of Mineral Town"
-  handheld: ""
-  docked: ""
-  fps: ""
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
 
 - name: "STORY OF SEASONS: Pioneers of Olive Town"
-  handheld: ""
-  docked: ""
-  fps: ""
+  handheld: "720p"
+  docked: "1080p"
+  fps: "60"
 
 - name: "Street Fighter 30th Anniversary Collection"
   handheld: "720p"
