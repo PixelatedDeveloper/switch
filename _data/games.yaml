@@ -315,12 +315,12 @@
   docked: "1080p"
   fps: "60"
 
-- name: Clustertruck
+- name: "Clustertruck"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
 
-- name: ClusterPuck
+- name: "ClusterPuck"
   handheld: "-"
   docked: "-"
 
@@ -336,7 +336,18 @@
   fps: "60"
   notes: "Uses online streaming. 60fps without raytracing, 30fps with raytracing."
 
-- name: CrossCode
+- name: "Crash Bandicoot: The N-Sane Trilogy"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+  notes: "No fur textures on Switch"
+
+- name: "Crash Bandicoot 4: It's About Time"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "CrossCode"
   handheld: "-"
   docked: "-"
   fps: "-"
@@ -350,12 +361,6 @@
   handheld: "720p"
   docked: "1080p"
   fps: "60"
-
-- name: "Crash Bandicoot: The N-Sane Trilogy"
-  handheld: "720p"
-  docked: "1080p"
-  fps: "30"
-  notes: "No fur textures on Switch"
 
 - name: "Cris Tales"
   handheld: "720p"
