@@ -790,7 +790,7 @@
   docked: ""
   fps: "-"
 
-- name: Grid Autosport
+- name: "Grid Autosport"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
@@ -830,7 +830,7 @@
   docked: "1080p"
   fps: "30"
 
-- name: Has-Been Heroes
+- name: "Has-Been Heroes"
   handheld: "-"
   docked: "-"
 
@@ -838,7 +838,7 @@
   handheld: "-"
   docked: "-"
 
-- name: Hellblade
+- name: "Hellblade"
   handheld: "400p-720p"
   docked: "576p-720p"
   fps: "30"
@@ -849,6 +849,11 @@
 - name: "Hellpoint"
   handheld: "-"
   docked: "-"
+
+- name: "Hero-U: Rogue to Redemption"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
 
 - name: "Hitman 3"
   handheld: "720p"
@@ -869,7 +874,7 @@
   verified_status: true
   verified_url: "https://www.nintendoenthusiast.com/horizon-chase-turbo-dev-confirms-1080p-60-fps-on-switch-plus-more/"
 
-- name: Human Resource Machine
+- name: "Human Resource Machine"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
@@ -901,7 +906,7 @@
   docked: "1080p"
   fps: "30"
 
-- name: I am Setsuna
+- name: "I am Setsuna"
   handheld: "720p"
   docked: "1080p"
   fps: "30"
