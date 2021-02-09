@@ -388,12 +388,12 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=e3TPb-e9wzY"
 
-- name: Dandara
+- name: "Dandara"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
 
-- name: Darkest Dungeon
+- name: "Darkest Dungeon"
   handheld: "720p"
   docked: "720p"
   fps: "60"
@@ -403,12 +403,12 @@
   docked: "720p"
   fps: "60"
 
-- name: Darksiders Genesis
+- name: "Darksiders Genesis"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
 
-- name: Darksiders Warmastered Edition
+- name: "Darksiders Warmastered Edition"
   handheld: "720p"
   docked: "1080p"
   fps: "30"
