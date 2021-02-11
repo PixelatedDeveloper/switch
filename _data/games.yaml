@@ -316,12 +316,12 @@
   docked: "1080p"
   fps: "60"
 
-- name: Clustertruck
+- name: "Clustertruck"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
 
-- name: ClusterPuck
+- name: "ClusterPuck"
   handheld: "-"
   docked: "-"
 
@@ -337,7 +337,18 @@
   fps: "60"
   notes: "Uses online streaming. 60fps without raytracing, 30fps with raytracing."
 
-- name: CrossCode
+- name: "Crash Bandicoot: The N-Sane Trilogy"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+  notes: "No fur textures on Switch"
+
+- name: "Crash Bandicoot 4: It's About Time"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
+
+- name: "CrossCode"
   handheld: "-"
   docked: "-"
   fps: "-"
@@ -351,12 +362,6 @@
   handheld: "720p"
   docked: "1080p"
   fps: "60"
-
-- name: "Crash Bandicoot: The N-Sane Trilogy"
-  handheld: "720p"
-  docked: "1080p"
-  fps: "30"
-  notes: "No fur textures on Switch"
 
 - name: "Cris Tales"
   handheld: "720p"
@@ -389,12 +394,12 @@
   verified_status: true
   verified_url: "https://www.youtube.com/watch?v=e3TPb-e9wzY"
 
-- name: Dandara
+- name: "Dandara"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
 
-- name: Darkest Dungeon
+- name: "Darkest Dungeon"
   handheld: "720p"
   docked: "720p"
   fps: "60"
@@ -404,12 +409,12 @@
   docked: "720p"
   fps: "60"
 
-- name: Darksiders Genesis
+- name: "Darksiders Genesis"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
 
-- name: Darksiders Warmastered Edition
+- name: "Darksiders Warmastered Edition"
   handheld: "720p"
   docked: "1080p"
   fps: "30"
@@ -786,7 +791,7 @@
   docked: ""
   fps: "-"
 
-- name: Grid Autosport
+- name: "Grid Autosport"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
@@ -826,7 +831,7 @@
   docked: "1080p"
   fps: "30"
 
-- name: Has-Been Heroes
+- name: "Has-Been Heroes"
   handheld: "-"
   docked: "-"
 
@@ -834,7 +839,7 @@
   handheld: "-"
   docked: "-"
 
-- name: Hellblade
+- name: "Hellblade"
   handheld: "400p-720p"
   docked: "576p-720p"
   fps: "30"
@@ -845,6 +850,11 @@
 - name: "Hellpoint"
   handheld: "-"
   docked: "-"
+
+- name: "Hero-U: Rogue to Redemption"
+  handheld: "720p"
+  docked: "1080p"
+  fps: "30"
 
 - name: "Hitman 3"
   handheld: "720p"
@@ -865,7 +875,7 @@
   verified_status: true
   verified_url: "https://www.nintendoenthusiast.com/horizon-chase-turbo-dev-confirms-1080p-60-fps-on-switch-plus-more/"
 
-- name: Human Resource Machine
+- name: "Human Resource Machine"
   handheld: "720p"
   docked: "1080p"
   fps: "60"
@@ -897,7 +907,7 @@
   docked: "1080p"
   fps: "30"
 
-- name: I am Setsuna
+- name: "I am Setsuna"
   handheld: "720p"
   docked: "1080p"
   fps: "30"
