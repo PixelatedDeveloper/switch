@@ -1,52 +1,43 @@
-<!DOCTYPE html>
-<html lang="nl">
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description"
-    content="HowOnSwitch parking page." />
-  <meta name="keywords" content="howonswitch,nintendo,switch,end of life,parking,placeholder,landingpage" />
-  <title>End of Life - HowOnSwitch</title>
+---
+layout: default
+---
 
-  <!-- own stylesheet for general stuff -->
-  <link rel="icon" type="image/png" href="images/logo.png" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/css/bootstrap.min.css" integrity="sha512-oc9+XSs1H243/FRN9Rw62Fn8EtxjEYWHXRvjS43YtueEewbS6ObfXcJNyohjHqVKFPoXXUxwc+q1K7Dee6vv9g==" crossorigin="anonymous" />
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Imprima&family=Quicksand:wght@400;600&display=swap"
-    as="style" />
-  <link rel="stylesheet"
-    href="https://fonts.googleapis.com/css2?family=Imprima&family=Quicksand:wght@300;400;600&display=swap" />
-</head>
+<div id="items">
+  <table
+    id="main-table"
+    class="display responsive table table-striped dataTable no-footer"
+  >
+    <thead>
+      <tr>
+        <th data-field="gamename">Name</th>
+        <th data-field="resolution-handheld">Handheld</th>
+        <th data-field="resolution-docked">Docked</th>
+        <th data-field="fps">FPS</th>
+      </tr>
+    </thead>
 
-<body>
-  <div class="container-fluid">
-
-    <div class="col-12 main-top-content">
-      <div class="col-12">
-        <div class="container-wrap container-wrap-transparent row">
-          <div class="col-12 col-sm-8">
-            <h1 class="h1-top-title">Parking.</h1>
-            <p>The work on HowOnSwitch has been <b>stopped</b>. To view the repo to fork it check out the GitHub page or check out my other projects.</p>
-            <div class="row">
-              <div class="col-4">
-                <a href="https://github.com/pixelateddeveloper/switch" title="Project source HowOnSwitch" target="_blank" rel="noopener noreferrer"><i class="fab fa-github-square fa-3x"></i></a>
-                <a href="https://michaelboumann.com/#works" title="Other Projects By Me" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-square-alt fa-3x"></i></a>
-              </div>
-            </div>
+    <tbody>
+      {% for entry in site.data.games %}
+      <tr>
+        <td>
+          {{ entry.name }} {% if entry.verified_status == true %}<a
+            href="{{ entry.verified_url }}"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Verification link for {{ entry.name }}"
+            ><i class="fas fa-check"></i></a
+          >{% endif %}
+          <div class="tooltip">
+            {% if entry.notes %}<i class="far fa-sticky-note"></i
+            ><span class="tooltiptext tooltip-right">{{ entry.notes }}</span>{%
+            endif %}
           </div>
-          <div class="col-12 col-sm-4">
-            <div class="my-image-wrapper">
-              <i class="fas fa-parking parking-logo"></i>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-  <link rel="stylesheet" href="stylesheets/style.css" />
-  <!-- Compiled and minified JavaScript -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/js/all.min.js"
-    integrity="sha256-MAgcygDRahs+F/Nk5Vz387whB4kSK9NXlDN3w58LLq0=" crossorigin="anonymous" defer></script>
-</body>
-
-</html>
+        </td>
+        <td>{{ entry.handheld }}</td>
+        <td>{{ entry.docked }}</td>
+        <td>{{ entry.fps }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
