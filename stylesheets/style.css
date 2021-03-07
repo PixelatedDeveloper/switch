@@ -1,0 +1,265 @@
+/* **************************************
+
+  Main settings
+
+*****************************************/
+:root {
+  /* general accent colors */
+  --accentcolor: #581188;
+  --accentsubtext: #b51dc2;
+  --content-bg: #f8f9fa;
+
+  --accentcolorx: #f7007b;
+
+  /* for things that shouldn't be pure white or black */
+  --text-main: #000000;
+  --offset-color: #f8f8f8;
+  --offset-gray-color: #232323;
+  --offset-light-gray-color: #ebebeb;
+
+  /* blue banners */
+  --font-color-banner: #000000;
+
+  /* dark mode specific */
+  --bg-container-dark: #000000;
+  --bg-color-dark: #232323;
+  --font-color-primary-dark: #ffffff;
+  --font-color-alt-dark: #000000;
+
+  /* light mode specific */
+  --bg-color-light: #ffffff;
+  --font-color-primary-light: #000000;
+  --font-color-alt-light: #ffffff;
+}
+
+/* **************************************
+
+  General settings
+
+*****************************************/
+.container-wrap {
+  max-width: 1200px;
+  background: var(--bg-color-light);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-wrap-transparent {
+  background: transparent;
+  border: 0;
+}
+
+.container-fluid {
+  min-width: 300px;
+  padding: 0;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  font-family: 'Imprima', sans-serif !important;
+  font-size: 1.2rem;
+}
+
+h1,
+h2,
+.card-title,
+.source-item a {
+  font-family: 'Quicksand', sans-serif !important;
+}
+
+h4 {
+  font-size: 1.25em !important;
+}
+
+
+
+.h1-top-title {
+  font-size: 120px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--font-color-alt-light) !important;
+}
+
+p,
+a {
+  color: white;
+}
+
+.fa-github-square:hover {
+  color: black !important;
+}
+
+.fa-external-link-square-alt:hover {
+  color: #979797;
+}
+
+/* **************************************
+
+  CONTENT
+
+*****************************************/
+
+.main-top-content {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  background-color: #581188;
+  height: 100vh;
+}
+
+
+/* #####################
+      
+Responsive
+
+######################*/
+
+@media (max-width: 575px) {
+
+  .h1-site-main {
+    font-size: 4.1rem;
+  }
+
+  .h1-top-title {
+    font-size: 4.1rem;
+  }
+
+  .h2-highlight {
+    font-size: 4rem;
+  }
+
+  .h2-highlight-white {
+    font-size: 4rem;
+  }
+
+  .h2-heading {
+    font-size: 4rem;
+  }
+
+  .h3-subtext {
+    font-size: 1.2rem;
+  }
+
+  .parking-logo {
+    font-size: 13rem;
+  }
+
+}
+
+
+@media (max-width:767px) and (min-width:576px) {
+
+  .h1-site-main {
+    font-size: 4rem;
+  }
+
+  .h1-top-title {
+    font-size: 4rem;
+  }
+
+  .parking-logo {
+    font-size: 11rem !important;
+  }
+
+ }
+
+
+ @media (max-width:991px) and (min-width:768px) {
+
+  .h1-top-title {
+    font-size: 5.5rem;
+  }
+
+  .parking-logo {
+    font-size: 13rem;
+  }
+
+ }
+
+ @media only screen and (min-width: 992px) {
+
+  .parking-logo {
+    font-size: 13rem;
+  }
+
+ }
+
+/* ###############################################
+
+FONT AWESOME
+
+############################################*/
+
+.parking-logo {
+  font-size: 17rem;
+  color: var(--font-color-alt-light) !important;
+}
+
+
+/* ######################
+
+animations
+
+based off of https://github.com/IanLunn/Hover
+
+###################*/
+
+/* Grow */
+.hvr-grow {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+/* Grow Rotate */
+.hvr-grow-rotate {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.hvr-grow-rotate:hover, .hvr-grow-rotate:focus, .hvr-grow-rotate:active {
+  -webkit-transform: scale(1.1) rotate(4deg);
+  transform: scale(1.1) rotate(4deg);
+}
+
+/* Rotate */
+.hvr-rotate {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+
+.hvr-rotate:hover,
+.hvr-rotate:focus,
+.hvr-rotate:active {
+  -webkit-transform: rotate(15deg);
+  transform: rotate(15deg);
+}
